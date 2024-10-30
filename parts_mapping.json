@@ -1,0 +1,7646 @@
+[{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7ed"
+  },
+  "part": "back-1nd14n-5t4r",
+  "binary": "00000000010001010000100",
+  "class": "Reptile",
+  "id": "back-1nd14n-5t4r",
+  "name": "1ND14N-5T4R",
+  "specialGenes": "Bionic",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7ee"
+  },
+  "part": "back-anemone",
+  "binary": "01000000000001000000101",
+  "class": "Aquatic",
+  "id": "back-anemone",
+  "name": "Anemone",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7ef"
+  },
+  "part": "back-balloon",
+  "binary": "01000000000000100000001",
+  "class": "Bird",
+  "id": "back-balloon",
+  "name": "Balloon",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f0"
+  },
+  "part": "back-beach-ball",
+  "binary": "00000000110000000000110",
+  "class": "Beast",
+  "id": "back-beach-ball",
+  "name": "Beach Ball",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f1"
+  },
+  "part": "back-beach-ball-shiny",
+  "binary": "00000001001000000000110",
+  "class": "Beast",
+  "id": "back-beach-ball-shiny",
+  "name": "Beach Ball Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f2"
+  },
+  "part": "back-bidens",
+  "binary": "01000000000000110000011",
+  "class": "Plant",
+  "id": "back-bidens",
+  "name": "Bidens",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0110000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f3"
+  },
+  "part": "back-blue-moon",
+  "binary": "01000000000001000000010",
+  "class": "Aquatic",
+  "id": "back-blue-moon",
+  "name": "Blue Moon",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f4"
+  },
+  "part": "back-bone-sail",
+  "binary": "01000000000001010000001",
+  "class": "Reptile",
+  "id": "back-bone-sail",
+  "name": "Bone Sail",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f5"
+  },
+  "part": "back-buzz-buzz",
+  "binary": "01000000000000010000011",
+  "class": "Bug",
+  "id": "back-buzz-buzz",
+  "name": "Buzz Buzz",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f6"
+  },
+  "part": "back-candy-canes",
+  "binary": "01000000100000010000010",
+  "class": "Bug",
+  "id": "back-candy-canes",
+  "name": "Candy Canes",
+  "specialGenes": "Xmas2018",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f7"
+  },
+  "part": "back-croc",
+  "binary": "01000000000001010000110",
+  "class": "Reptile",
+  "id": "back-croc",
+  "name": "Croc",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f8"
+  },
+  "part": "back-crystal-hermit",
+  "binary": "00000000001001000000001",
+  "class": "Aquatic",
+  "id": "back-crystal-hermit",
+  "name": "Crystal Hermit",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7f9"
+  },
+  "part": "back-cupid",
+  "binary": "01000000000000100000010",
+  "class": "Bird",
+  "id": "back-cupid",
+  "name": "Cupid",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7fa"
+  },
+  "part": "back-frozen-bucket",
+  "binary": "01000000101001010000100",
+  "class": "Reptile",
+  "id": "back-frozen-bucket",
+  "name": "Frozen Bucket",
+  "specialGenes": "Xmas2019",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7fb"
+  },
+  "part": "back-furball",
+  "binary": "01000000000000000000110",
+  "class": "Beast",
+  "id": "back-furball",
+  "name": "Furball",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7fc"
+  },
+  "part": "back-garish-worm",
+  "binary": "01000000000000010000010",
+  "class": "Bug",
+  "id": "back-garish-worm",
+  "name": "Garish Worm",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7fd"
+  },
+  "part": "back-goldfish",
+  "binary": "01000000000001000000011",
+  "class": "Aquatic",
+  "id": "back-goldfish",
+  "name": "Goldfish",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7fe"
+  },
+  "part": "back-green-thorns",
+  "binary": "01000000000001010000011",
+  "class": "Reptile",
+  "id": "back-green-thorns",
+  "name": "Green Thorns",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb7ff"
+  },
+  "part": "back-hamaya",
+  "binary": "01000000011000000000100",
+  "class": "Beast",
+  "id": "back-hamaya",
+  "name": "Hamaya",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb800"
+  },
+  "part": "back-hasagi",
+  "binary": "00000000001000000000001",
+  "class": "Beast",
+  "id": "back-hasagi",
+  "name": "Hasagi",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb801"
+  },
+  "part": "back-hermit",
+  "binary": "01000000000001000000001",
+  "class": "Aquatic",
+  "id": "back-hermit",
+  "name": "Hermit",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb802"
+  },
+  "part": "back-hero",
+  "binary": "01000000000000000000010",
+  "class": "Beast",
+  "id": "back-hero",
+  "name": "Hero",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb803"
+  },
+  "part": "back-indian-star",
+  "binary": "01000000000001010000100",
+  "class": "Reptile",
+  "id": "back-indian-star",
+  "name": "Indian Star",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb804"
+  },
+  "part": "back-jaguar",
+  "binary": "01000000000000000000011",
+  "class": "Beast",
+  "id": "back-jaguar",
+  "name": "Jaguar",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb805"
+  },
+  "part": "back-kingfisher",
+  "binary": "01000000000000100000101",
+  "class": "Bird",
+  "id": "back-kingfisher",
+  "name": "Kingfisher",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb806"
+  },
+  "part": "back-mint",
+  "binary": "01000000000000110000101",
+  "class": "Plant",
+  "id": "back-mint",
+  "name": "Mint",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb807"
+  },
+  "part": "back-origami",
+  "binary": "01000000011000100000010",
+  "class": "Bird",
+  "id": "back-origami",
+  "name": "Origami",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb808"
+  },
+  "part": "back-perch",
+  "binary": "01000000000001000000110",
+  "class": "Aquatic",
+  "id": "back-perch",
+  "name": "Perch",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb809"
+  },
+  "part": "back-pigeon-post",
+  "binary": "01000000000000100000100",
+  "class": "Bird",
+  "id": "back-pigeon-post",
+  "name": "Pigeon Post",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb80a"
+  },
+  "part": "back-pink-turnip",
+  "binary": "00000000001000110000001",
+  "class": "Plant",
+  "id": "back-pink-turnip",
+  "name": "Pink Turnip",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb80b"
+  },
+  "part": "back-pumpkin",
+  "binary": "01000000000000110000110",
+  "class": "Plant",
+  "id": "back-pumpkin",
+  "name": "Pumpkin",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0110000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb80c"
+  },
+  "part": "back-raven",
+  "binary": "01000000000000100000011",
+  "class": "Bird",
+  "id": "back-raven",
+  "name": "Raven",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0100000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb80d"
+  },
+  "part": "back-red-ear",
+  "binary": "01000000000001010000101",
+  "class": "Reptile",
+  "id": "back-red-ear",
+  "name": "Red Ear",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb80e"
+  },
+  "part": "back-risky-beast",
+  "binary": "01000000000000000000100",
+  "class": "Beast",
+  "id": "back-risky-beast",
+  "name": "Risky Beast",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb80f"
+  },
+  "part": "back-ronin",
+  "binary": "01000000000000000000001",
+  "class": "Beast",
+  "id": "back-ronin",
+  "name": "Ronin",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb810"
+  },
+  "part": "back-rugged-sail",
+  "binary": "00000000001001010000001",
+  "class": "Reptile",
+  "id": "back-rugged-sail",
+  "name": "Rugged Sail",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb811"
+  },
+  "part": "back-sandal",
+  "binary": "01000000000000010000100",
+  "class": "Bug",
+  "id": "back-sandal",
+  "name": "Sandal",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb812"
+  },
+  "part": "back-scarab",
+  "binary": "01000000000000010000101",
+  "class": "Bug",
+  "id": "back-scarab",
+  "name": "Scarab",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb813"
+  },
+  "part": "back-shiitake",
+  "binary": "01000000000000110000010",
+  "class": "Plant",
+  "id": "back-shiitake",
+  "name": "Shiitake",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb814"
+  },
+  "part": "back-snail-shell",
+  "binary": "01000000000000010000001",
+  "class": "Bug",
+  "id": "back-snail-shell",
+  "name": "Snail Shell",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb815"
+  },
+  "part": "back-spiky-wing",
+  "binary": "01000000000000010000110",
+  "class": "Bug",
+  "id": "back-spiky-wing",
+  "name": "Spiky Wing",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb816"
+  },
+  "part": "back-sponge",
+  "binary": "01000000000001000000100",
+  "class": "Aquatic",
+  "id": "back-sponge",
+  "name": "Sponge",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb817"
+  },
+  "part": "back-starry-balloon",
+  "binary": "00000000001000100000001",
+  "class": "Bird",
+  "id": "back-starry-balloon",
+  "name": "Starry Balloon",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb818"
+  },
+  "part": "back-starry-shell",
+  "binary": "00000000001000010000001",
+  "class": "Bug",
+  "id": "back-starry-shell",
+  "name": "Starry Shell",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb819"
+  },
+  "part": "back-timber",
+  "binary": "01000000000000000000101",
+  "class": "Beast",
+  "id": "back-timber",
+  "name": "Timber",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb81a"
+  },
+  "part": "back-tri-feather",
+  "binary": "01000000000000100000110",
+  "class": "Bird",
+  "id": "back-tri-feather",
+  "name": "Tri Feather",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0100000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb81b"
+  },
+  "part": "back-tri-spikes",
+  "binary": "01000000000001010000010",
+  "class": "Reptile",
+  "id": "back-tri-spikes",
+  "name": "Tri Spikes",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb81c"
+  },
+  "part": "back-turnip",
+  "binary": "01000000000000110000001",
+  "class": "Plant",
+  "id": "back-turnip",
+  "name": "Turnip",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb81d"
+  },
+  "part": "back-turtle-buoy",
+  "binary": "00000000110001010000101",
+  "class": "Reptile",
+  "id": "back-turtle-buoy",
+  "name": "Turtle Buoy",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb81e"
+  },
+  "part": "back-turtle-buoy-shiny",
+  "binary": "00000001001001010000101",
+  "class": "Reptile",
+  "id": "back-turtle-buoy-shiny",
+  "name": "Turtle Buoy Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb81f"
+  },
+  "part": "back-watering-can",
+  "binary": "01000000000000110000100",
+  "class": "Plant",
+  "id": "back-watering-can",
+  "name": "Watering Can",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Back",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb820"
+  },
+  "part": "back-yakitori",
+  "binary": "01000000011000110000010",
+  "class": "Plant",
+  "id": "back-yakitori",
+  "name": "Yakitori",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb821"
+  },
+  "part": "ears-beetle-spike",
+  "binary": "01000000000000010000010",
+  "class": "Bug",
+  "id": "ears-beetle-spike",
+  "name": "Beetle Spike",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb822"
+  },
+  "part": "ears-belieber",
+  "binary": "01000000000000000000110",
+  "class": "Beast",
+  "id": "ears-belieber",
+  "name": "Belieber",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb823"
+  },
+  "part": "ears-bubblemaker",
+  "binary": "01000000000001000000011",
+  "class": "Aquatic",
+  "id": "ears-bubblemaker",
+  "name": "Bubblemaker",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb824"
+  },
+  "part": "ears-clover",
+  "binary": "01000000000000110000010",
+  "class": "Plant",
+  "id": "ears-clover",
+  "name": "Clover",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb825"
+  },
+  "part": "ears-coca",
+  "binary": "00000000110000000000001",
+  "class": "Beast",
+  "id": "ears-coca",
+  "name": "Coca",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb826"
+  },
+  "part": "ears-coca-shiny",
+  "binary": "00000001001000000000001",
+  "class": "Beast",
+  "id": "ears-coca-shiny",
+  "name": "Coca Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb827"
+  },
+  "part": "ears-curly",
+  "binary": "01000000000000100000101",
+  "class": "Bird",
+  "id": "ears-curly",
+  "name": "Curly",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb828"
+  },
+  "part": "ears-curved-spine",
+  "binary": "01000000000001010000011",
+  "class": "Reptile",
+  "id": "ears-curved-spine",
+  "name": "Curved Spine",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb829"
+  },
+  "part": "ears-deadly-pogona",
+  "binary": "00000000001001010000001",
+  "class": "Reptile",
+  "id": "ears-deadly-pogona",
+  "name": "Deadly Pogona",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb82a"
+  },
+  "part": "ears-ear-breathing",
+  "binary": "01000000000000010000011",
+  "class": "Bug",
+  "id": "ears-ear-breathing",
+  "name": "Ear Breathing",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb82b"
+  },
+  "part": "ears-early-bird",
+  "binary": "01000000000000100000010",
+  "class": "Bird",
+  "id": "ears-early-bird",
+  "name": "Early Bird",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb82c"
+  },
+  "part": "ears-earwing",
+  "binary": "01000000000000010000110",
+  "class": "Bug",
+  "id": "ears-earwing",
+  "name": "Earwing",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb82d"
+  },
+  "part": "ears-friezard",
+  "binary": "01000000000001010000010",
+  "class": "Reptile",
+  "id": "ears-friezard",
+  "name": "Friezard",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb82e"
+  },
+  "part": "ears-gill",
+  "binary": "01000000000001000000101",
+  "class": "Aquatic",
+  "id": "ears-gill",
+  "name": "Gill",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb82f"
+  },
+  "part": "ears-heart-cheek",
+  "binary": "00000000001000100000001",
+  "class": "Bird",
+  "id": "ears-heart-cheek",
+  "name": "Heart Cheek",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb830"
+  },
+  "part": "ears-hollow",
+  "binary": "01000000000000110000101",
+  "class": "Plant",
+  "id": "ears-hollow",
+  "name": "Hollow",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb831"
+  },
+  "part": "ears-inkling",
+  "binary": "01000000000001000000100",
+  "class": "Aquatic",
+  "id": "ears-inkling",
+  "name": "Inkling",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb832"
+  },
+  "part": "ears-innocent-lamb",
+  "binary": "01000000000000000000011",
+  "class": "Beast",
+  "id": "ears-innocent-lamb",
+  "name": "Innocent Lamb",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb833"
+  },
+  "part": "ears-karimata",
+  "binary": "01000000011000100000110",
+  "class": "Bird",
+  "id": "ears-karimata",
+  "name": "Karimata",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb834"
+  },
+  "part": "ears-larva",
+  "binary": "01000000000000010000001",
+  "class": "Bug",
+  "id": "ears-larva",
+  "name": "Larva",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb835"
+  },
+  "part": "ears-leaf-bug",
+  "binary": "01000000000000010000100",
+  "class": "Bug",
+  "id": "ears-leaf-bug",
+  "name": "Leaf Bug",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb836"
+  },
+  "part": "ears-leafy",
+  "binary": "01000000000000110000001",
+  "class": "Plant",
+  "id": "ears-leafy",
+  "name": "Leafy",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb837"
+  },
+  "part": "ears-lotus",
+  "binary": "01000000000000110000110",
+  "class": "Plant",
+  "id": "ears-lotus",
+  "name": "Lotus",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0110000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb838"
+  },
+  "part": "ears-maiko",
+  "binary": "01000000011000110000100",
+  "class": "Plant",
+  "id": "ears-maiko",
+  "name": "Maiko",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb839"
+  },
+  "part": "ears-merry-lamb",
+  "binary": "01000000100000000000011",
+  "class": "Beast",
+  "id": "ears-merry-lamb",
+  "name": "Merry Lamb",
+  "specialGenes": "Xmas2018",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb83a"
+  },
+  "part": "ears-mon",
+  "binary": "01000000011000010000110",
+  "class": "Bug",
+  "id": "ears-mon",
+  "name": "Mon",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb83b"
+  },
+  "part": "ears-nimo",
+  "binary": "01000000000001000000001",
+  "class": "Aquatic",
+  "id": "ears-nimo",
+  "name": "Nimo",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb83c"
+  },
+  "part": "ears-nut-cracker",
+  "binary": "01000000000000000000010",
+  "class": "Beast",
+  "id": "ears-nut-cracker",
+  "name": "Nut Cracker",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb83d"
+  },
+  "part": "ears-nyan",
+  "binary": "01000000000000000000001",
+  "class": "Beast",
+  "id": "ears-nyan",
+  "name": "Nyan",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb83e"
+  },
+  "part": "ears-owl",
+  "binary": "01000000000000100000011",
+  "class": "Bird",
+  "id": "ears-owl",
+  "name": "Owl",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0100000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb83f"
+  },
+  "part": "ears-peace-maker",
+  "binary": "01000000000000100000100",
+  "class": "Bird",
+  "id": "ears-peace-maker",
+  "name": "Peace Maker",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb840"
+  },
+  "part": "ears-pinecones",
+  "binary": "01000000101000110000101",
+  "class": "Plant",
+  "id": "ears-pinecones",
+  "name": "Pinecones",
+  "specialGenes": "Xmas2019",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb841"
+  },
+  "part": "ears-pink-cheek",
+  "binary": "01000000000000100000001",
+  "class": "Bird",
+  "id": "ears-pink-cheek",
+  "name": "Pink Cheek",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb842"
+  },
+  "part": "ears-pogona",
+  "binary": "01000000000001010000001",
+  "class": "Reptile",
+  "id": "ears-pogona",
+  "name": "Pogona",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb843"
+  },
+  "part": "ears-pointy-nyan",
+  "binary": "00000000001000000000001",
+  "class": "Beast",
+  "id": "ears-pointy-nyan",
+  "name": "Pointy Nyan",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb844"
+  },
+  "part": "ears-puppy",
+  "binary": "01000000000000000000101",
+  "class": "Beast",
+  "id": "ears-puppy",
+  "name": "Puppy",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb845"
+  },
+  "part": "ears-red-nimo",
+  "binary": "00000000001001000000001",
+  "class": "Aquatic",
+  "id": "ears-red-nimo",
+  "name": "Red Nimo",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb846"
+  },
+  "part": "ears-risky-bird",
+  "binary": "01000000000000100000110",
+  "class": "Bird",
+  "id": "ears-risky-bird",
+  "name": "Risky Bird",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0100000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb847"
+  },
+  "part": "ears-rosa",
+  "binary": "01000000000000110000011",
+  "class": "Plant",
+  "id": "ears-rosa",
+  "name": "Rosa",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0110000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb848"
+  },
+  "part": "ears-sakura",
+  "binary": "01000000000000110000100",
+  "class": "Plant",
+  "id": "ears-sakura",
+  "name": "Sakura",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb849"
+  },
+  "part": "ears-seaslug",
+  "binary": "01000000000001000000110",
+  "class": "Aquatic",
+  "id": "ears-seaslug",
+  "name": "Seaslug",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb84a"
+  },
+  "part": "ears-sidebarb",
+  "binary": "01000000000001010000110",
+  "class": "Reptile",
+  "id": "ears-sidebarb",
+  "name": "Sidebarb",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb84b"
+  },
+  "part": "ears-small-frill",
+  "binary": "01000000000001010000100",
+  "class": "Reptile",
+  "id": "ears-small-frill",
+  "name": "Small Frill",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb84c"
+  },
+  "part": "ears-swirl",
+  "binary": "01000000000001010000101",
+  "class": "Reptile",
+  "id": "ears-swirl",
+  "name": "Swirl",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb84d"
+  },
+  "part": "ears-tassels",
+  "binary": "01000000000000010000101",
+  "class": "Bug",
+  "id": "ears-tassels",
+  "name": "Tassels",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb84e"
+  },
+  "part": "ears-the-last-leaf",
+  "binary": "00000000001000110000001",
+  "class": "Plant",
+  "id": "ears-the-last-leaf",
+  "name": "The Last Leaf",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb84f"
+  },
+  "part": "ears-tiny-fan",
+  "binary": "01000000000001000000010",
+  "class": "Aquatic",
+  "id": "ears-tiny-fan",
+  "name": "Tiny Fan",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb850"
+  },
+  "part": "ears-vector",
+  "binary": "00000000001000010000001",
+  "class": "Bug",
+  "id": "ears-vector",
+  "name": "Vector",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb851"
+  },
+  "part": "ears-zen",
+  "binary": "01000000000000000000100",
+  "class": "Beast",
+  "id": "ears-zen",
+  "name": "Zen",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Ears",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb852"
+  },
+  "part": "eyes-blossom",
+  "binary": "01000000000000110000101",
+  "class": "Plant",
+  "id": "eyes-blossom",
+  "name": "Blossom",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb853"
+  },
+  "part": "eyes-bookworm",
+  "binary": "01000000000000010000001",
+  "class": "Bug",
+  "id": "eyes-bookworm",
+  "name": "Bookworm",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb854"
+  },
+  "part": "eyes-broken-bookworm",
+  "binary": "00000000001000010000001",
+  "class": "Bug",
+  "id": "eyes-broken-bookworm",
+  "name": "Broken Bookworm",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb855"
+  },
+  "part": "eyes-calico-zeal",
+  "binary": "00000000001000000000001",
+  "class": "Beast",
+  "id": "eyes-calico-zeal",
+  "name": "Calico Zeal",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb856"
+  },
+  "part": "eyes-chubby",
+  "binary": "01000000000000000000101",
+  "class": "Beast",
+  "id": "eyes-chubby",
+  "name": "Chubby",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb857"
+  },
+  "part": "eyes-clear",
+  "binary": "01000000000001000000010",
+  "class": "Aquatic",
+  "id": "eyes-clear",
+  "name": "Clear",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb858"
+  },
+  "part": "eyes-confused",
+  "binary": "01000000000000110000010",
+  "class": "Plant",
+  "id": "eyes-confused",
+  "name": "Confused",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb859"
+  },
+  "part": "eyes-crimson-gecko",
+  "binary": "00000000001001010000001",
+  "class": "Reptile",
+  "id": "eyes-crimson-gecko",
+  "name": "Crimson Gecko",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb85a"
+  },
+  "part": "eyes-cucumber-slice",
+  "binary": "01000000000000110000100",
+  "class": "Plant",
+  "id": "eyes-cucumber-slice",
+  "name": "Cucumber Slice",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb85b"
+  },
+  "part": "eyes-dokuganryu",
+  "binary": "01000000011001010000100",
+  "class": "Reptile",
+  "id": "eyes-dokuganryu",
+  "name": "Dokuganryu",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb85c"
+  },
+  "part": "eyes-dreamy-papi",
+  "binary": "00000000001000110000001",
+  "class": "Plant",
+  "id": "eyes-dreamy-papi",
+  "name": "Dreamy Papi",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb85d"
+  },
+  "part": "eyes-flower-sunglasses",
+  "binary": "00000000110000010000010",
+  "class": "Bug",
+  "id": "eyes-flower-sunglasses",
+  "name": "Flower Sunglasses",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb85e"
+  },
+  "part": "eyes-flower-sunglasses-shiny",
+  "binary": "00000001001000010000010",
+  "class": "Bug",
+  "id": "eyes-flower-sunglasses-shiny",
+  "name": "Flower Sunglasses Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb85f"
+  },
+  "part": "eyes-gecko",
+  "binary": "01000000000001010000001",
+  "class": "Reptile",
+  "id": "eyes-gecko",
+  "name": "Gecko",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb860"
+  },
+  "part": "eyes-gero",
+  "binary": "01000000000001000000100",
+  "class": "Aquatic",
+  "id": "eyes-gero",
+  "name": "Gero",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb861"
+  },
+  "part": "eyes-icy-gaze",
+  "binary": "01000000101000100000010",
+  "class": "Bird",
+  "id": "eyes-icy-gaze",
+  "name": "Icy Gaze",
+  "specialGenes": "Xmas2019",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb862"
+  },
+  "part": "eyes-insomnia",
+  "binary": "00000000001001000000001",
+  "class": "Aquatic",
+  "id": "eyes-insomnia",
+  "name": "Insomnia",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb863"
+  },
+  "part": "eyes-kabuki",
+  "binary": "01000000011001010000101",
+  "class": "Reptile",
+  "id": "eyes-kabuki",
+  "name": "Kabuki",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb864"
+  },
+  "part": "eyes-kotaro",
+  "binary": "01000000000000010000101",
+  "class": "Bug",
+  "id": "eyes-kotaro",
+  "name": "Kotaro?",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb865"
+  },
+  "part": "eyes-little-owl",
+  "binary": "01000000000000100000100",
+  "class": "Bird",
+  "id": "eyes-little-owl",
+  "name": "Little Owl",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb866"
+  },
+  "part": "eyes-little-peas",
+  "binary": "01000000000000000000010",
+  "class": "Beast",
+  "id": "eyes-little-peas",
+  "name": "Little Peas",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb867"
+  },
+  "part": "eyes-lucas",
+  "binary": "01000000000000100000010",
+  "class": "Bird",
+  "id": "eyes-lucas",
+  "name": "Lucas",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb868"
+  },
+  "part": "eyes-mavis",
+  "binary": "01000000000000100000001",
+  "class": "Bird",
+  "id": "eyes-mavis",
+  "name": "Mavis",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb869"
+  },
+  "part": "eyes-neo",
+  "binary": "01000000000000010000010",
+  "class": "Bug",
+  "id": "eyes-neo",
+  "name": "Neo",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb86a"
+  },
+  "part": "eyes-nerdy",
+  "binary": "01000000000000010000100",
+  "class": "Bug",
+  "id": "eyes-nerdy",
+  "name": "Nerdy",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb86b"
+  },
+  "part": "eyes-papi",
+  "binary": "01000000000000110000001",
+  "class": "Plant",
+  "id": "eyes-papi",
+  "name": "Papi",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb86c"
+  },
+  "part": "eyes-puppy",
+  "binary": "01000000000000000000100",
+  "class": "Beast",
+  "id": "eyes-puppy",
+  "name": "Puppy",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb86d"
+  },
+  "part": "eyes-robin",
+  "binary": "01000000000000100000101",
+  "class": "Bird",
+  "id": "eyes-robin",
+  "name": "Robin",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb86e"
+  },
+  "part": "eyes-scar",
+  "binary": "01000000000001010000100",
+  "class": "Reptile",
+  "id": "eyes-scar",
+  "name": "Scar",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb86f"
+  },
+  "part": "eyes-sky-mavis",
+  "binary": "00000000001000100000001",
+  "class": "Bird",
+  "id": "eyes-sky-mavis",
+  "name": "Sky Mavis",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb870"
+  },
+  "part": "eyes-sleepless",
+  "binary": "01000000000001000000001",
+  "class": "Aquatic",
+  "id": "eyes-sleepless",
+  "name": "Sleepless",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb871"
+  },
+  "part": "eyes-snowflakes",
+  "binary": "01000000100000000000010",
+  "class": "Beast",
+  "id": "eyes-snowflakes",
+  "name": "Snowflakes",
+  "specialGenes": "Xmas2018",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb872"
+  },
+  "part": "eyes-telescope",
+  "binary": "01000000000001000000101",
+  "class": "Aquatic",
+  "id": "eyes-telescope",
+  "name": "Telescope",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb873"
+  },
+  "part": "eyes-topaz",
+  "binary": "01000000000001010000101",
+  "class": "Reptile",
+  "id": "eyes-topaz",
+  "name": "Topaz",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb874"
+  },
+  "part": "eyes-tricky",
+  "binary": "01000000000001010000010",
+  "class": "Reptile",
+  "id": "eyes-tricky",
+  "name": "Tricky",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb875"
+  },
+  "part": "eyes-yen",
+  "binary": "01000000011001000000001",
+  "class": "Aquatic",
+  "id": "eyes-yen",
+  "name": "Yen",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb876"
+  },
+  "part": "eyes-zeal",
+  "binary": "01000000000000000000001",
+  "class": "Beast",
+  "id": "eyes-zeal",
+  "name": "Zeal",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Eyes",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb877"
+  },
+  "part": "horn-5h04l-5t4r",
+  "binary": "00000000010001000000110",
+  "class": "Aquatic",
+  "id": "horn-5h04l-5t4r",
+  "name": "5H04L-5T4R",
+  "specialGenes": "Bionic",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb878"
+  },
+  "part": "horn-anemone",
+  "binary": "01000000000001000000100",
+  "class": "Aquatic",
+  "id": "horn-anemone",
+  "name": "Anemone",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb879"
+  },
+  "part": "horn-antenna",
+  "binary": "01000000000000010000010",
+  "class": "Bug",
+  "id": "horn-antenna",
+  "name": "Antenna",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb87a"
+  },
+  "part": "horn-arco",
+  "binary": "01000000000000000000110",
+  "class": "Beast",
+  "id": "horn-arco",
+  "name": "Arco",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb87b"
+  },
+  "part": "horn-babylonia",
+  "binary": "01000000000001000000001",
+  "class": "Aquatic",
+  "id": "horn-babylonia",
+  "name": "Babylonia",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb87c"
+  },
+  "part": "horn-bamboo-shoot",
+  "binary": "01000000000000110000001",
+  "class": "Plant",
+  "id": "horn-bamboo-shoot",
+  "name": "Bamboo Shoot",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb87d"
+  },
+  "part": "horn-beech",
+  "binary": "01000000000000110000010",
+  "class": "Plant",
+  "id": "horn-beech",
+  "name": "Beech",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb87e"
+  },
+  "part": "horn-bumpy",
+  "binary": "01000000000001010000110",
+  "class": "Reptile",
+  "id": "horn-bumpy",
+  "name": "Bumpy",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb87f"
+  },
+  "part": "horn-cactus",
+  "binary": "01000000000000110000101",
+  "class": "Plant",
+  "id": "horn-cactus",
+  "name": "Cactus",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb880"
+  },
+  "part": "horn-candy-babylonia",
+  "binary": "00000000001001000000001",
+  "class": "Aquatic",
+  "id": "horn-candy-babylonia",
+  "name": "Candy Babylonia",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb881"
+  },
+  "part": "horn-caterpillars",
+  "binary": "01000000000000010000011",
+  "class": "Bug",
+  "id": "horn-caterpillars",
+  "name": "Caterpillars",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb882"
+  },
+  "part": "horn-cerastes",
+  "binary": "01000000000001010000011",
+  "class": "Reptile",
+  "id": "horn-cerastes",
+  "name": "Cerastes",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb883"
+  },
+  "part": "horn-clamshell",
+  "binary": "01000000000001000000011",
+  "class": "Aquatic",
+  "id": "horn-clamshell",
+  "name": "Clamshell",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb884"
+  },
+  "part": "horn-cuckoo",
+  "binary": "01000000000000100000010",
+  "class": "Bird",
+  "id": "horn-cuckoo",
+  "name": "Cuckoo",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb885"
+  },
+  "part": "horn-dual-blade",
+  "binary": "01000000000000000000101",
+  "class": "Beast",
+  "id": "horn-dual-blade",
+  "name": "Dual Blade",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb886"
+  },
+  "part": "horn-eggshell",
+  "binary": "01000000000000100000001",
+  "class": "Bird",
+  "id": "horn-eggshell",
+  "name": "Eggshell",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb887"
+  },
+  "part": "horn-feather-spear",
+  "binary": "01000000000000100000110",
+  "class": "Bird",
+  "id": "horn-feather-spear",
+  "name": "Feather Spear",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0100000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb888"
+  },
+  "part": "horn-golden-bamboo-shoot",
+  "binary": "00000000001000110000001",
+  "class": "Plant",
+  "id": "horn-golden-bamboo-shoot",
+  "name": "Golden Bamboo Shoot",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb889"
+  },
+  "part": "horn-golden-shell",
+  "binary": "00000000001000100000001",
+  "class": "Bird",
+  "id": "horn-golden-shell",
+  "name": "Golden Shell",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb88a"
+  },
+  "part": "horn-imp",
+  "binary": "01000000000000000000010",
+  "class": "Beast",
+  "id": "horn-imp",
+  "name": "Imp",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb88b"
+  },
+  "part": "horn-incisor",
+  "binary": "01000000000001010000101",
+  "class": "Reptile",
+  "id": "horn-incisor",
+  "name": "Incisor",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb88c"
+  },
+  "part": "horn-kendama",
+  "binary": "01000000011000000000010",
+  "class": "Beast",
+  "id": "horn-kendama",
+  "name": "Kendama",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb88d"
+  },
+  "part": "horn-kestrel",
+  "binary": "01000000000000100000100",
+  "class": "Bird",
+  "id": "horn-kestrel",
+  "name": "Kestrel",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb88e"
+  },
+  "part": "horn-lagging",
+  "binary": "01000000000000010000001",
+  "class": "Bug",
+  "id": "horn-lagging",
+  "name": "Lagging",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb88f"
+  },
+  "part": "horn-laggingggggg",
+  "binary": "00000000001000010000001",
+  "class": "Bug",
+  "id": "horn-laggingggggg",
+  "name": "Laggingggggg",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb890"
+  },
+  "part": "horn-leaf-bug",
+  "binary": "01000000000000010000110",
+  "class": "Bug",
+  "id": "horn-leaf-bug",
+  "name": "Leaf Bug",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb891"
+  },
+  "part": "horn-little-branch",
+  "binary": "01000000000000000000001",
+  "class": "Beast",
+  "id": "horn-little-branch",
+  "name": "Little Branch",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb892"
+  },
+  "part": "horn-merry",
+  "binary": "01000000000000000000011",
+  "class": "Beast",
+  "id": "horn-merry",
+  "name": "Merry",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb893"
+  },
+  "part": "horn-oranda",
+  "binary": "01000000000001000000101",
+  "class": "Aquatic",
+  "id": "horn-oranda",
+  "name": "Oranda",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb894"
+  },
+  "part": "horn-p4r4s1t3",
+  "binary": "00000000010000010000101",
+  "class": "bug",
+  "id": "horn-p4r4s1t3",
+  "name": "P4R4S1T3",
+  "specialGenes": "Bionic",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb895"
+  },
+  "part": "horn-parasite",
+  "binary": "01000000000000010000101",
+  "class": "Bug",
+  "id": "horn-parasite",
+  "name": "Parasite",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb896"
+  },
+  "part": "horn-pinku-unko",
+  "binary": "00000000001001010000001",
+  "class": "Reptile",
+  "id": "horn-pinku-unko",
+  "name": "Pinku Unko",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb897"
+  },
+  "part": "horn-pliers",
+  "binary": "01000000000000010000100",
+  "class": "Bug",
+  "id": "horn-pliers",
+  "name": "Pliers",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb898"
+  },
+  "part": "horn-pocky",
+  "binary": "01000000000000000000100",
+  "class": "Beast",
+  "id": "horn-pocky",
+  "name": "Pocky",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb899"
+  },
+  "part": "horn-rose-bud",
+  "binary": "01000000000000110000011",
+  "class": "Plant",
+  "id": "horn-rose-bud",
+  "name": "Rose Bud",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0110000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb89a"
+  },
+  "part": "horn-santas-gift",
+  "binary": "01000000101000110000101",
+  "class": "Plant",
+  "id": "horn-santas-gift",
+  "name": "Santa's Gift",
+  "specialGenes": "Xmas2019",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb89b"
+  },
+  "part": "horn-scaly-spear",
+  "binary": "01000000000001010000010",
+  "class": "Reptile",
+  "id": "horn-scaly-spear",
+  "name": "Scaly Spear",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb89c"
+  },
+  "part": "horn-scaly-spoon",
+  "binary": "01000000000001010000100",
+  "class": "Reptile",
+  "id": "horn-scaly-spoon",
+  "name": "Scaly Spoon",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb89d"
+  },
+  "part": "horn-shoal-star",
+  "binary": "01000000000001000000110",
+  "class": "Aquatic",
+  "id": "horn-shoal-star",
+  "name": "Shoal Star",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb89e"
+  },
+  "part": "horn-spruce-spear",
+  "binary": "01000000100000100000110",
+  "class": "Bird",
+  "id": "horn-spruce-spear",
+  "name": "Spruce Spear",
+  "specialGenes": "Xmas2018",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb89f"
+  },
+  "part": "horn-strawberry-ice-cream",
+  "binary": "00000000111001010000001",
+  "class": "Reptile",
+  "id": "horn-strawberry-ice-cream",
+  "name": "Strawberry Ice Cream",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a0"
+  },
+  "part": "horn-strawberry-ice-cream-shiny",
+  "binary": "00000001010001010000001",
+  "class": "Reptile",
+  "id": "horn-strawberry-ice-cream-shiny",
+  "name": "Strawberry Ice Cream Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a1"
+  },
+  "part": "horn-strawberry-shortcake",
+  "binary": "01000000000000110000100",
+  "class": "Plant",
+  "id": "horn-strawberry-shortcake",
+  "name": "Strawberry Shortcake",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a2"
+  },
+  "part": "horn-teal-shell",
+  "binary": "01000000000001000000010",
+  "class": "Aquatic",
+  "id": "horn-teal-shell",
+  "name": "Teal Shell",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a3"
+  },
+  "part": "horn-trump",
+  "binary": "01000000000000100000011",
+  "class": "Bird",
+  "id": "horn-trump",
+  "name": "Trump",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0100000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a4"
+  },
+  "part": "horn-umaibo",
+  "binary": "01000000011000000000100",
+  "class": "Beast",
+  "id": "horn-umaibo",
+  "name": "Umaibo",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a5"
+  },
+  "part": "horn-unko",
+  "binary": "01000000000001010000001",
+  "class": "Reptile",
+  "id": "horn-unko",
+  "name": "Unko",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a6"
+  },
+  "part": "horn-vanilla-ice-cream",
+  "binary": "00000001000001010000001",
+  "class": "Reptile",
+  "id": "horn-vanilla-ice-cream",
+  "name": "Vanilla Ice Cream",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a7"
+  },
+  "part": "horn-vanilla-ice-cream-shiny",
+  "binary": "00000001011001010000001",
+  "class": "Reptile",
+  "id": "horn-vanilla-ice-cream-shiny",
+  "name": "Vanilla Ice Cream Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a8"
+  },
+  "part": "horn-watermelon",
+  "binary": "01000000000000110000110",
+  "class": "Plant",
+  "id": "horn-watermelon",
+  "name": "Watermelon",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0110000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8a9"
+  },
+  "part": "horn-watermelon-ice-cream",
+  "binary": "00000000110001010000001",
+  "class": "Reptile",
+  "id": "horn-watermelon-ice-cream",
+  "name": "Watermelon Ice Cream",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8aa"
+  },
+  "part": "horn-watermelon-ice-cream-shiny",
+  "binary": "00000001001001010000001",
+  "class": "Reptile",
+  "id": "horn-watermelon-ice-cream-shiny",
+  "name": "Watermelon Ice Cream Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ab"
+  },
+  "part": "horn-wing-horn",
+  "binary": "01000000000000100000101",
+  "class": "Bird",
+  "id": "horn-wing-horn",
+  "name": "Wing Horn",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Horn",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ac"
+  },
+  "part": "horn-winter-branch",
+  "binary": "00000000001000000000001",
+  "class": "Beast",
+  "id": "horn-winter-branch",
+  "name": "Winter Branch",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ad"
+  },
+  "part": "horn-yorishiro",
+  "binary": "01000000011000110000010",
+  "class": "Plant",
+  "id": "horn-yorishiro",
+  "name": "Yorishiro",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ae"
+  },
+  "part": "mouth-axie-kiss",
+  "binary": "01000000000000000000100",
+  "class": "Beast",
+  "id": "mouth-axie-kiss",
+  "name": "Axie Kiss",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8af"
+  },
+  "part": "mouth-bubble-fish",
+  "binary": "00000000110001000000100",
+  "class": "Aquatic",
+  "id": "mouth-bubble-fish",
+  "name": "Bubble Fish",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b0"
+  },
+  "part": "mouth-bubble-fish-shiny",
+  "binary": "00000001001001000000100",
+  "class": "Aquatic",
+  "id": "mouth-bubble-fish-shiny",
+  "name": "Bubble Fish Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b1"
+  },
+  "part": "mouth-catfish",
+  "binary": "01000000000001000000010",
+  "class": "Aquatic",
+  "id": "mouth-catfish",
+  "name": "Catfish",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b2"
+  },
+  "part": "mouth-confident",
+  "binary": "01000000000000000000101",
+  "class": "Beast",
+  "id": "mouth-confident",
+  "name": "Confident",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b3"
+  },
+  "part": "mouth-cute-bunny",
+  "binary": "01000000000000010000100",
+  "class": "Bug",
+  "id": "mouth-cute-bunny",
+  "name": "Cute Bunny",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b4"
+  },
+  "part": "mouth-dango",
+  "binary": "01000000011001010000101",
+  "class": "Reptile",
+  "id": "mouth-dango",
+  "name": "Dango",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b5"
+  },
+  "part": "mouth-doubletalk",
+  "binary": "01000000000000100000001",
+  "class": "Bird",
+  "id": "mouth-doubletalk",
+  "name": "Doubletalk",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b6"
+  },
+  "part": "mouth-feasting-mosquito",
+  "binary": "00000000001000010000001",
+  "class": "Bug",
+  "id": "mouth-feasting-mosquito",
+  "name": "Feasting Mosquito",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b7"
+  },
+  "part": "mouth-geisha",
+  "binary": "01000000011001000000101",
+  "class": "Aquatic",
+  "id": "mouth-geisha",
+  "name": "Geisha",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b8"
+  },
+  "part": "mouth-goda",
+  "binary": "01000000000000000000010",
+  "class": "Beast",
+  "id": "mouth-goda",
+  "name": "Goda",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8b9"
+  },
+  "part": "mouth-herbivore",
+  "binary": "01000000000000110000100",
+  "class": "Plant",
+  "id": "mouth-herbivore",
+  "name": "Herbivore",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ba"
+  },
+  "part": "mouth-humorless",
+  "binary": "00000000001000110000001",
+  "class": "Plant",
+  "id": "mouth-humorless",
+  "name": "Humorless",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8bb"
+  },
+  "part": "mouth-hungry-bird",
+  "binary": "01000000000000100000100",
+  "class": "Bird",
+  "id": "mouth-hungry-bird",
+  "name": "Hungry Bird",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8bc"
+  },
+  "part": "mouth-kawaii",
+  "binary": "01000000011000010000100",
+  "class": "Bug",
+  "id": "mouth-kawaii",
+  "name": "Kawaii",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8bd"
+  },
+  "part": "mouth-kotaro",
+  "binary": "01000000000001010000010",
+  "class": "Reptile",
+  "id": "mouth-kotaro",
+  "name": "Kotaro",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8be"
+  },
+  "part": "mouth-lam",
+  "binary": "01000000000001000000001",
+  "class": "Aquatic",
+  "id": "mouth-lam",
+  "name": "Lam",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8bf"
+  },
+  "part": "mouth-lam-handsome",
+  "binary": "00000000001001000000001",
+  "class": "Aquatic",
+  "id": "mouth-lam-handsome",
+  "name": "Lam Handsome",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c0"
+  },
+  "part": "mouth-little-owl",
+  "binary": "01000000000000100000101",
+  "class": "Bird",
+  "id": "mouth-little-owl",
+  "name": "Little Owl",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c1"
+  },
+  "part": "mouth-mosquito",
+  "binary": "01000000000000010000001",
+  "class": "Bug",
+  "id": "mouth-mosquito",
+  "name": "Mosquito",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c2"
+  },
+  "part": "mouth-mr-doubletalk",
+  "binary": "00000000001000100000001",
+  "class": "Bird",
+  "id": "mouth-mr-doubletalk",
+  "name": "Mr. Doubletalk",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c3"
+  },
+  "part": "mouth-nut-cracker",
+  "binary": "01000000000000000000001",
+  "class": "Beast",
+  "id": "mouth-nut-cracker",
+  "name": "Nut Cracker",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c4"
+  },
+  "part": "mouth-peace-maker",
+  "binary": "01000000000000100000010",
+  "class": "Bird",
+  "id": "mouth-peace-maker",
+  "name": "Peace Maker",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c5"
+  },
+  "part": "mouth-pincer",
+  "binary": "01000000000000010000010",
+  "class": "Bug",
+  "id": "mouth-pincer",
+  "name": "Pincer",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c6"
+  },
+  "part": "mouth-piranha",
+  "binary": "01000000000001000000101",
+  "class": "Aquatic",
+  "id": "mouth-piranha",
+  "name": "Piranha",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c7"
+  },
+  "part": "mouth-razor-bite",
+  "binary": "01000000000001010000100",
+  "class": "Reptile",
+  "id": "mouth-razor-bite",
+  "name": "Razor Bite",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c8"
+  },
+  "part": "mouth-risky-fish",
+  "binary": "01000000000001000000100",
+  "class": "Aquatic",
+  "id": "mouth-risky-fish",
+  "name": "Risky Fish",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8c9"
+  },
+  "part": "mouth-rudolph",
+  "binary": "01000000100000110000010",
+  "class": "Plant",
+  "id": "mouth-rudolph",
+  "name": "Rudolph",
+  "specialGenes": "Xmas2018",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ca"
+  },
+  "part": "mouth-serious",
+  "binary": "01000000000000110000001",
+  "class": "Plant",
+  "id": "mouth-serious",
+  "name": "Serious",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8cb"
+  },
+  "part": "mouth-silence-whisper",
+  "binary": "01000000000000110000101",
+  "class": "Plant",
+  "id": "mouth-silence-whisper",
+  "name": "Silence Whisper",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8cc"
+  },
+  "part": "mouth-skull-cracker",
+  "binary": "00000000001000000000001",
+  "class": "Beast",
+  "id": "mouth-skull-cracker",
+  "name": "Skull Cracker",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8cd"
+  },
+  "part": "mouth-square-teeth",
+  "binary": "01000000000000010000101",
+  "class": "Bug",
+  "id": "mouth-square-teeth",
+  "name": "Square Teeth",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ce"
+  },
+  "part": "mouth-tiny-carrot",
+  "binary": "01000000101001010000101",
+  "class": "Reptile",
+  "id": "mouth-tiny-carrot",
+  "name": "Tiny Carrot",
+  "specialGenes": "Xmas2019",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8cf"
+  },
+  "part": "mouth-tiny-turtle",
+  "binary": "01000000000001010000101",
+  "class": "Reptile",
+  "id": "mouth-tiny-turtle",
+  "name": "Tiny Turtle",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d0"
+  },
+  "part": "mouth-toothless-bite",
+  "binary": "01000000000001010000001",
+  "class": "Reptile",
+  "id": "mouth-toothless-bite",
+  "name": "Toothless Bite",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d1"
+  },
+  "part": "mouth-venom-bite",
+  "binary": "00000000001001010000001",
+  "class": "Reptile",
+  "id": "mouth-venom-bite",
+  "name": "Venom Bite",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d2"
+  },
+  "part": "mouth-zigzag",
+  "binary": "01000000000000110000010",
+  "class": "Plant",
+  "id": "mouth-zigzag",
+  "name": "Zigzag",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Mouth",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d3"
+  },
+  "part": "tail-ant",
+  "binary": "01000000000000010000001",
+  "class": "Bug",
+  "id": "tail-ant",
+  "name": "Ant",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d4"
+  },
+  "part": "tail-carrot",
+  "binary": "01000000000000110000001",
+  "class": "Plant",
+  "id": "tail-carrot",
+  "name": "Carrot",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d5"
+  },
+  "part": "tail-cattail",
+  "binary": "01000000000000110000010",
+  "class": "Plant",
+  "id": "tail-cattail",
+  "name": "Cattail",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d6"
+  },
+  "part": "tail-cloud",
+  "binary": "01000000000000100000100",
+  "class": "Bird",
+  "id": "tail-cloud",
+  "name": "Cloud",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d7"
+  },
+  "part": "tail-cotton-candy",
+  "binary": "00000000110000000000001",
+  "class": "Beast",
+  "id": "tail-cotton-candy",
+  "name": "Cotton Candy",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d8"
+  },
+  "part": "tail-cotton-candy-shiny",
+  "binary": "00000001001000000000001",
+  "class": "Beast",
+  "id": "tail-cotton-candy-shiny",
+  "name": "Cotton Candy Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8d9"
+  },
+  "part": "tail-cottontail",
+  "binary": "01000000000000000000001",
+  "class": "Beast",
+  "id": "tail-cottontail",
+  "name": "Cottontail",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8da"
+  },
+  "part": "tail-december-surprise",
+  "binary": "01000000100001010000100",
+  "class": "Reptile",
+  "id": "tail-december-surprise",
+  "name": "December Surprise",
+  "specialGenes": "Xmas2018",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8db"
+  },
+  "part": "tail-escaped-gecko",
+  "binary": "00000000001001010000001",
+  "class": "Reptile",
+  "id": "tail-escaped-gecko",
+  "name": "Escaped Gecko",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8dc"
+  },
+  "part": "tail-feather-fan",
+  "binary": "01000000000000100000010",
+  "class": "Bird",
+  "id": "tail-feather-fan",
+  "name": "Feather Fan",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8dd"
+  },
+  "part": "tail-fire-ant",
+  "binary": "00000000001000010000001",
+  "class": "Bug",
+  "id": "tail-fire-ant",
+  "name": "Fire Ant",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8de"
+  },
+  "part": "tail-fir-trunk",
+  "binary": "01000000101001010000011",
+  "class": "Reptile",
+  "id": "tail-fir-trunk",
+  "name": "Fir Trunk",
+  "specialGenes": "Xmas2019",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8df"
+  },
+  "part": "tail-fish-snack",
+  "binary": "01000000000000010000011",
+  "class": "Bug",
+  "id": "tail-fish-snack",
+  "name": "Fish Snack",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e0"
+  },
+  "part": "tail-gerbil",
+  "binary": "01000000000000000000110",
+  "class": "Beast",
+  "id": "tail-gerbil",
+  "name": "Gerbil",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e1"
+  },
+  "part": "tail-gila",
+  "binary": "01000000000001010000101",
+  "class": "Reptile",
+  "id": "tail-gila",
+  "name": "Gila",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e2"
+  },
+  "part": "tail-granmas-fan",
+  "binary": "01000000000000100000101",
+  "class": "Bird",
+  "id": "tail-granmas-fan",
+  "name": "Granma's Fan",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e3"
+  },
+  "part": "tail-grass-snake",
+  "binary": "01000000000001010000110",
+  "class": "Reptile",
+  "id": "tail-grass-snake",
+  "name": "Grass Snake",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e4"
+  },
+  "part": "tail-gravel-ant",
+  "binary": "01000000000000010000100",
+  "class": "Bug",
+  "id": "tail-gravel-ant",
+  "name": "Gravel Ant",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e5"
+  },
+  "part": "tail-hare",
+  "binary": "01000000000000000000100",
+  "class": "Beast",
+  "id": "tail-hare",
+  "name": "Hare",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e6"
+  },
+  "part": "tail-hatsune",
+  "binary": "01000000000000110000011",
+  "class": "Plant",
+  "id": "tail-hatsune",
+  "name": "Hatsune",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0110000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e7"
+  },
+  "part": "tail-hot-butt",
+  "binary": "01000000000000110000110",
+  "class": "Plant",
+  "id": "tail-hot-butt",
+  "name": "Hot Butt",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0110000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e8"
+  },
+  "part": "tail-iguana",
+  "binary": "01000000000001010000010",
+  "class": "Reptile",
+  "id": "tail-iguana",
+  "name": "Iguana",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8e9"
+  },
+  "part": "tail-koi",
+  "binary": "01000000000001000000001",
+  "class": "Aquatic",
+  "id": "tail-koi",
+  "name": "Koi",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ea"
+  },
+  "part": "tail-koinobori",
+  "binary": "01000000011001000000001",
+  "class": "Aquatic",
+  "id": "tail-koinobori",
+  "name": "Koinobori",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8eb"
+  },
+  "part": "tail-kuro-koi",
+  "binary": "00000000001001000000001",
+  "class": "Aquatic",
+  "id": "tail-kuro-koi",
+  "name": "Kuro Koi",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ec"
+  },
+  "part": "tail-maki",
+  "binary": "01000000011000010000011",
+  "class": "Bug",
+  "id": "tail-maki",
+  "name": "Maki",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ed"
+  },
+  "part": "tail-namek-carrot",
+  "binary": "00000000001000110000001",
+  "class": "Plant",
+  "id": "tail-namek-carrot",
+  "name": "Namek Carrot",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ee"
+  },
+  "part": "tail-navaga",
+  "binary": "01000000000001000000101",
+  "class": "Aquatic",
+  "id": "tail-navaga",
+  "name": "Navaga",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ef"
+  },
+  "part": "tail-nimo",
+  "binary": "01000000000001000000010",
+  "class": "Aquatic",
+  "id": "tail-nimo",
+  "name": "Nimo",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f0"
+  },
+  "part": "tail-nut-cracker",
+  "binary": "01000000000000000000101",
+  "class": "Beast",
+  "id": "tail-nut-cracker",
+  "name": "Nut Cracker",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f1"
+  },
+  "part": "tail-omatsuri",
+  "binary": "01000000011000100000101",
+  "class": "Bird",
+  "id": "tail-omatsuri",
+  "name": "Omatsuri",
+  "specialGenes": "Japan",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f2"
+  },
+  "part": "tail-post-fight",
+  "binary": "01000000000000100000110",
+  "class": "Bird",
+  "id": "tail-post-fight",
+  "name": "Post Fight",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0100000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f3"
+  },
+  "part": "tail-potato-leaf",
+  "binary": "01000000000000110000101",
+  "class": "Plant",
+  "id": "tail-potato-leaf",
+  "name": "Potato Leaf",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f4"
+  },
+  "part": "tail-pupae",
+  "binary": "01000000000000010000101",
+  "class": "Bug",
+  "id": "tail-pupae",
+  "name": "Pupae",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f5"
+  },
+  "part": "tail-ranchu",
+  "binary": "01000000000001000000100",
+  "class": "Aquatic",
+  "id": "tail-ranchu",
+  "name": "Ranchu",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f6"
+  },
+  "part": "tail-rice",
+  "binary": "01000000000000000000010",
+  "class": "Beast",
+  "id": "tail-rice",
+  "name": "Rice",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f7"
+  },
+  "part": "tail-sakura-cottontail",
+  "binary": "00000000001000000000001",
+  "class": "Beast",
+  "id": "tail-sakura-cottontail",
+  "name": "Sakura Cottontail",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f8"
+  },
+  "part": "tail-shiba",
+  "binary": "01000000000000000000011",
+  "class": "Beast",
+  "id": "tail-shiba",
+  "name": "Shiba",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8f9"
+  },
+  "part": "tail-shrimp",
+  "binary": "01000000000001000000110",
+  "class": "Aquatic",
+  "id": "tail-shrimp",
+  "name": "Shrimp",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8fa"
+  },
+  "part": "tail-snake-jar",
+  "binary": "01000000000001010000100",
+  "class": "Reptile",
+  "id": "tail-snake-jar",
+  "name": "Snake Jar",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8fb"
+  },
+  "part": "tail-snowy-swallow",
+  "binary": "00000000001000100000001",
+  "class": "Bird",
+  "id": "tail-snowy-swallow",
+  "name": "Snowy Swallow",
+  "specialGenes": "Mystic",
+  "stage": 1,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8fc"
+  },
+  "part": "tail-swallow",
+  "binary": "01000000000000100000001",
+  "class": "Bird",
+  "id": "tail-swallow",
+  "name": "Swallow",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8fd"
+  },
+  "part": "tail-tadpole",
+  "binary": "01000000000001000000011",
+  "class": "Aquatic",
+  "id": "tail-tadpole",
+  "name": "Tadpole",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8fe"
+  },
+  "part": "tail-the-last-one",
+  "binary": "01000000000000100000011",
+  "class": "Bird",
+  "id": "tail-the-last-one",
+  "name": "The Last One",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0100000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb8ff"
+  },
+  "part": "tail-thorny-caterpillar",
+  "binary": "01000000000000010000110",
+  "class": "Bug",
+  "id": "tail-thorny-caterpillar",
+  "name": "Thorny Caterpillar",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb900"
+  },
+  "part": "tail-tiny-dino",
+  "binary": "01000000000001010000011",
+  "class": "Reptile",
+  "id": "tail-tiny-dino",
+  "name": "Tiny Dino",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb901"
+  },
+  "part": "tail-twin-tail",
+  "binary": "01000000000000010000010",
+  "class": "Bug",
+  "id": "tail-twin-tail",
+  "name": "Twin Tail",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb902"
+  },
+  "part": "tail-wall-gecko",
+  "binary": "01000000000001010000001",
+  "class": "Reptile",
+  "id": "tail-wall-gecko",
+  "name": "Wall Gecko",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb903"
+  },
+  "part": "tail-yam",
+  "binary": "01000000000000110000100",
+  "class": "Plant",
+  "id": "tail-yam",
+  "name": "Yam",
+  "specialGenes": null,
+  "stage": 1,
+  "type": "Tail",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb905"
+  },
+  "part": "back-anemone-2",
+  "binary": "11000000000001000000101",
+  "class": "Aquatic",
+  "id": "back-anemone-2",
+  "name": "Anemone",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb906"
+  },
+  "part": "back-balloon-2",
+  "binary": "11000000000000100000001",
+  "class": "Bird",
+  "id": "back-balloon-2",
+  "name": "Balloon",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb907"
+  },
+  "part": "back-beach-ball-2",
+  "binary": "10000000110000000000110",
+  "class": "Beast",
+  "id": "back-beach-ball-2",
+  "name": "Beach Ball",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb908"
+  },
+  "part": "back-beach-ball-shiny-2",
+  "binary": "10000001001000000000110",
+  "class": "Beast",
+  "id": "back-beach-ball-shiny-2",
+  "name": "Beach Ball Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb909"
+  },
+  "part": "back-bidens-2",
+  "binary": "11000000000000110000011",
+  "class": "Plant",
+  "id": "back-bidens-2",
+  "name": "Bidens",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0110000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb90a"
+  },
+  "part": "back-blue-moon-2",
+  "binary": "11000000000001000000010",
+  "class": "Aquatic",
+  "id": "back-blue-moon-2",
+  "name": "Blue Moon",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb90b"
+  },
+  "part": "back-bone-sail-2",
+  "binary": "11000000000001010000001",
+  "class": "Reptile",
+  "id": "back-bone-sail-2",
+  "name": "Bone Sail",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb90c"
+  },
+  "part": "back-buzz-buzz-2",
+  "binary": "11000000000000010000011",
+  "class": "Bug",
+  "id": "back-buzz-buzz-2",
+  "name": "Buzz Buzz",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb90d"
+  },
+  "part": "back-candy-canes-2",
+  "binary": "11000000100000010000010",
+  "class": "Bug",
+  "id": "back-candy-canes-2",
+  "name": "Candy Canes",
+  "specialGenes": "Xmas2018",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb90e"
+  },
+  "part": "back-croc-2",
+  "binary": "11000000000001010000110",
+  "class": "Reptile",
+  "id": "back-croc-2",
+  "name": "Croc",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb90f"
+  },
+  "part": "back-crystal-hermit-2",
+  "binary": "10000000001001000000001",
+  "class": "Aquatic",
+  "id": "back-crystal-hermit-2",
+  "name": "Crystal Hermit",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb910"
+  },
+  "part": "back-cupid-2",
+  "binary": "11000000000000100000010",
+  "class": "Bird",
+  "id": "back-cupid-2",
+  "name": "Cupid",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb911"
+  },
+  "part": "back-frozen-bucket-2",
+  "binary": "11000000101001010000100",
+  "class": "Reptile",
+  "id": "back-frozen-bucket-2",
+  "name": "Frozen Bucket",
+  "specialGenes": "Xmas2019",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb912"
+  },
+  "part": "back-furball-2",
+  "binary": "11000000000000000000110",
+  "class": "Beast",
+  "id": "back-furball-2",
+  "name": "Furball",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb913"
+  },
+  "part": "back-garish-worm-2",
+  "binary": "11000000000000010000010",
+  "class": "Bug",
+  "id": "back-garish-worm-2",
+  "name": "Garish Worm",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb914"
+  },
+  "part": "back-goldfish-2",
+  "binary": "11000000000001000000011",
+  "class": "Aquatic",
+  "id": "back-goldfish-2",
+  "name": "Goldfish",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb915"
+  },
+  "part": "back-green-thorns-2",
+  "binary": "11000000000001010000011",
+  "class": "Reptile",
+  "id": "back-green-thorns-2",
+  "name": "Green Thorns",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb916"
+  },
+  "part": "back-hamaya-2",
+  "binary": "11000000011000000000100",
+  "class": "Beast",
+  "id": "back-hamaya-2",
+  "name": "Hamaya",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb917"
+  },
+  "part": "back-hasagi-2",
+  "binary": "10000000001000000000001",
+  "class": "Beast",
+  "id": "back-hasagi-2",
+  "name": "Hasagi",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb918"
+  },
+  "part": "back-hermit-2",
+  "binary": "11000000000001000000001",
+  "class": "Aquatic",
+  "id": "back-hermit-2",
+  "name": "Hermit",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb919"
+  },
+  "part": "back-hero-2",
+  "binary": "11000000000000000000010",
+  "class": "Beast",
+  "id": "back-hero-2",
+  "name": "Hero",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb91a"
+  },
+  "part": "back-indian-star-2",
+  "binary": "11000000000001010000100",
+  "class": "Reptile",
+  "id": "back-indian-star-2",
+  "name": "Indian Star",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb91b"
+  },
+  "part": "back-jaguar-2",
+  "binary": "11000000000000000000011",
+  "class": "Beast",
+  "id": "back-jaguar-2",
+  "name": "Jaguar",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb91c"
+  },
+  "part": "back-kingfisher-2",
+  "binary": "11000000000000100000101",
+  "class": "Bird",
+  "id": "back-kingfisher-2",
+  "name": "Kingfisher",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb91d"
+  },
+  "part": "back-mint-2",
+  "binary": "11000000000000110000101",
+  "class": "Plant",
+  "id": "back-mint-2",
+  "name": "Mint",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb91e"
+  },
+  "part": "back-origami-2",
+  "binary": "11000000011000100000010",
+  "class": "Bird",
+  "id": "back-origami-2",
+  "name": "Origami",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb91f"
+  },
+  "part": "back-perch-2",
+  "binary": "11000000000001000000110",
+  "class": "Aquatic",
+  "id": "back-perch-2",
+  "name": "Perch",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb920"
+  },
+  "part": "back-pigeon-post-2",
+  "binary": "11000000000000100000100",
+  "class": "Bird",
+  "id": "back-pigeon-post-2",
+  "name": "Pigeon Post",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb921"
+  },
+  "part": "back-pink-turnip-2",
+  "binary": "10000000001000110000001",
+  "class": "Plant",
+  "id": "back-pink-turnip-2",
+  "name": "Pink Turnip",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb922"
+  },
+  "part": "back-pumpkin-2",
+  "binary": "11000000000000110000110",
+  "class": "Plant",
+  "id": "back-pumpkin-2",
+  "name": "Pumpkin",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0110000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb923"
+  },
+  "part": "back-raven-2",
+  "binary": "11000000000000100000011",
+  "class": "Bird",
+  "id": "back-raven-2",
+  "name": "Raven",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0100000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb924"
+  },
+  "part": "back-red-ear-2",
+  "binary": "11000000000001010000101",
+  "class": "Reptile",
+  "id": "back-red-ear-2",
+  "name": "Red Ear",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb925"
+  },
+  "part": "back-risky-beast-2",
+  "binary": "11000000000000000000100",
+  "class": "Beast",
+  "id": "back-risky-beast-2",
+  "name": "Risky Beast",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb926"
+  },
+  "part": "back-ronin-2",
+  "binary": "11000000000000000000001",
+  "class": "Beast",
+  "id": "back-ronin-2",
+  "name": "Ronin",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb927"
+  },
+  "part": "back-rugged-sail-2",
+  "binary": "10000000001001010000001",
+  "class": "Reptile",
+  "id": "back-rugged-sail-2",
+  "name": "Rugged Sail",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb928"
+  },
+  "part": "back-sandal-2",
+  "binary": "11000000000000010000100",
+  "class": "Bug",
+  "id": "back-sandal-2",
+  "name": "Sandal",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb929"
+  },
+  "part": "back-scarab-2",
+  "binary": "11000000000000010000101",
+  "class": "Bug",
+  "id": "back-scarab-2",
+  "name": "Scarab",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb92a"
+  },
+  "part": "back-shiitake-2",
+  "binary": "11000000000000110000010",
+  "class": "Plant",
+  "id": "back-shiitake-2",
+  "name": "Shiitake",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb92b"
+  },
+  "part": "back-snail-shell-2",
+  "binary": "11000000000000010000001",
+  "class": "Bug",
+  "id": "back-snail-shell-2",
+  "name": "Snail Shell",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb92c"
+  },
+  "part": "back-spiky-wing-2",
+  "binary": "11000000000000010000110",
+  "class": "Bug",
+  "id": "back-spiky-wing-2",
+  "name": "Spiky Wing",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb92d"
+  },
+  "part": "back-sponge-2",
+  "binary": "11000000000001000000100",
+  "class": "Aquatic",
+  "id": "back-sponge-2",
+  "name": "Sponge",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb92e"
+  },
+  "part": "back-starry-balloon-2",
+  "binary": "10000000001000100000001",
+  "class": "Bird",
+  "id": "back-starry-balloon-2",
+  "name": "Starry Balloon",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb92f"
+  },
+  "part": "back-starry-shell-2",
+  "binary": "10000000001000010000001",
+  "class": "Bug",
+  "id": "back-starry-shell-2",
+  "name": "Starry Shell",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb930"
+  },
+  "part": "back-timber-2",
+  "binary": "11000000000000000000101",
+  "class": "Beast",
+  "id": "back-timber-2",
+  "name": "Timber",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb931"
+  },
+  "part": "back-tri-feather-2",
+  "binary": "11000000000000100000110",
+  "class": "Bird",
+  "id": "back-tri-feather-2",
+  "name": "Tri Feather",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0100000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb932"
+  },
+  "part": "back-tri-spikes-2",
+  "binary": "11000000000001010000010",
+  "class": "Reptile",
+  "id": "back-tri-spikes-2",
+  "name": "Tri Spikes",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb933"
+  },
+  "part": "back-turnip-2",
+  "binary": "11000000000000110000001",
+  "class": "Plant",
+  "id": "back-turnip-2",
+  "name": "Turnip",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb934"
+  },
+  "part": "back-turtle-buoy-2",
+  "binary": "10000000110001010000101",
+  "class": "Reptile",
+  "id": "back-turtle-buoy-2",
+  "name": "Turtle Buoy",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb935"
+  },
+  "part": "back-turtle-buoy-shiny-2",
+  "binary": "10000001001001010000101",
+  "class": "Reptile",
+  "id": "back-turtle-buoy-shiny-2",
+  "name": "Turtle Buoy Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb936"
+  },
+  "part": "back-watering-can-2",
+  "binary": "11000000000000110000100",
+  "class": "Plant",
+  "id": "back-watering-can-2",
+  "name": "Watering Can",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Back",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb937"
+  },
+  "part": "back-yakitori-2",
+  "binary": "11000000011000110000010",
+  "class": "Plant",
+  "id": "back-yakitori-2",
+  "name": "Yakitori",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb938"
+  },
+  "part": "ears-beetle-spike-2",
+  "binary": "11000000000000010000010",
+  "class": "Bug",
+  "id": "ears-beetle-spike-2",
+  "name": "Beetle Spike",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb939"
+  },
+  "part": "ears-belieber-2",
+  "binary": "11000000000000000000110",
+  "class": "Beast",
+  "id": "ears-belieber-2",
+  "name": "Belieber",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb93a"
+  },
+  "part": "ears-bubblemaker-2",
+  "binary": "11000000000001000000011",
+  "class": "Aquatic",
+  "id": "ears-bubblemaker-2",
+  "name": "Bubblemaker",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb93b"
+  },
+  "part": "ears-clover-2",
+  "binary": "11000000000000110000010",
+  "class": "Plant",
+  "id": "ears-clover-2",
+  "name": "Clover",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb93c"
+  },
+  "part": "ears-coca-2",
+  "binary": "10000000110000000000001",
+  "class": "Beast",
+  "id": "ears-coca-2",
+  "name": "Coca",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb93d"
+  },
+  "part": "ears-coca-shiny-2",
+  "binary": "10000001001000000000001",
+  "class": "Beast",
+  "id": "ears-coca-shiny-2",
+  "name": "Coca Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb93e"
+  },
+  "part": "ears-curly-2",
+  "binary": "11000000000000100000101",
+  "class": "Bird",
+  "id": "ears-curly-2",
+  "name": "Curly",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb93f"
+  },
+  "part": "ears-curved-spine-2",
+  "binary": "11000000000001010000011",
+  "class": "Reptile",
+  "id": "ears-curved-spine-2",
+  "name": "Curved Spine",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb940"
+  },
+  "part": "ears-deadly-pogona-2",
+  "binary": "10000000001001010000001",
+  "class": "Reptile",
+  "id": "ears-deadly-pogona-2",
+  "name": "Deadly Pogona",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb941"
+  },
+  "part": "ears-ear-breathing-2",
+  "binary": "11000000000000010000011",
+  "class": "Bug",
+  "id": "ears-ear-breathing-2",
+  "name": "Ear Breathing",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb942"
+  },
+  "part": "ears-early-bird-2",
+  "binary": "11000000000000100000010",
+  "class": "Bird",
+  "id": "ears-early-bird-2",
+  "name": "Early Bird",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb943"
+  },
+  "part": "ears-earwing-2",
+  "binary": "11000000000000010000110",
+  "class": "Bug",
+  "id": "ears-earwing-2",
+  "name": "Earwing",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb944"
+  },
+  "part": "ears-friezard-2",
+  "binary": "11000000000001010000010",
+  "class": "Reptile",
+  "id": "ears-friezard-2",
+  "name": "Friezard",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb945"
+  },
+  "part": "ears-gill-2",
+  "binary": "11000000000001000000101",
+  "class": "Aquatic",
+  "id": "ears-gill-2",
+  "name": "Gill",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb946"
+  },
+  "part": "ears-heart-cheek-2",
+  "binary": "10000000001000100000001",
+  "class": "Bird",
+  "id": "ears-heart-cheek-2",
+  "name": "Heart Cheek",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb947"
+  },
+  "part": "ears-hollow-2",
+  "binary": "11000000000000110000101",
+  "class": "Plant",
+  "id": "ears-hollow-2",
+  "name": "Hollow",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb948"
+  },
+  "part": "ears-inkling-2",
+  "binary": "11000000000001000000100",
+  "class": "Aquatic",
+  "id": "ears-inkling-2",
+  "name": "Inkling",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb949"
+  },
+  "part": "ears-innocent-lamb-2",
+  "binary": "11000000000000000000011",
+  "class": "Beast",
+  "id": "ears-innocent-lamb-2",
+  "name": "Innocent Lamb",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb94a"
+  },
+  "part": "ears-karimata-2",
+  "binary": "11000000011000100000110",
+  "class": "Bird",
+  "id": "ears-karimata-2",
+  "name": "Karimata",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb94b"
+  },
+  "part": "ears-larva-2",
+  "binary": "11000000000000010000001",
+  "class": "Bug",
+  "id": "ears-larva-2",
+  "name": "Larva",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb94c"
+  },
+  "part": "ears-leaf-bug-2",
+  "binary": "11000000000000010000100",
+  "class": "Bug",
+  "id": "ears-leaf-bug-2",
+  "name": "Leaf Bug",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb94d"
+  },
+  "part": "ears-leafy-2",
+  "binary": "11000000000000110000001",
+  "class": "Plant",
+  "id": "ears-leafy-2",
+  "name": "Leafy",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb94e"
+  },
+  "part": "ears-lotus-2",
+  "binary": "11000000000000110000110",
+  "class": "Plant",
+  "id": "ears-lotus-2",
+  "name": "Lotus",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0110000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb94f"
+  },
+  "part": "ears-maiko-2",
+  "binary": "11000000011000110000100",
+  "class": "Plant",
+  "id": "ears-maiko-2",
+  "name": "Maiko",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb950"
+  },
+  "part": "ears-merry-lamb-2",
+  "binary": "11000000100000000000011",
+  "class": "Beast",
+  "id": "ears-merry-lamb-2",
+  "name": "Merry Lamb",
+  "specialGenes": "Xmas2018",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb951"
+  },
+  "part": "ears-mon-2",
+  "binary": "11000000011000010000110",
+  "class": "Bug",
+  "id": "ears-mon-2",
+  "name": "Mon",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb952"
+  },
+  "part": "ears-nimo-2",
+  "binary": "11000000000001000000001",
+  "class": "Aquatic",
+  "id": "ears-nimo-2",
+  "name": "Nimo",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb953"
+  },
+  "part": "ears-nut-cracker-2",
+  "binary": "11000000000000000000010",
+  "class": "Beast",
+  "id": "ears-nut-cracker-2",
+  "name": "Nut Cracker",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb954"
+  },
+  "part": "ears-nyan-2",
+  "binary": "11000000000000000000001",
+  "class": "Beast",
+  "id": "ears-nyan-2",
+  "name": "Nyan",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb955"
+  },
+  "part": "ears-owl-2",
+  "binary": "11000000000000100000011",
+  "class": "Bird",
+  "id": "ears-owl-2",
+  "name": "Owl",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0100000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb956"
+  },
+  "part": "ears-peace-maker-2",
+  "binary": "11000000000000100000100",
+  "class": "Bird",
+  "id": "ears-peace-maker-2",
+  "name": "Peace Maker",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb957"
+  },
+  "part": "ears-pinecones-2",
+  "binary": "11000000101000110000101",
+  "class": "Plant",
+  "id": "ears-pinecones-2",
+  "name": "Pinecones",
+  "specialGenes": "Xmas2019",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb958"
+  },
+  "part": "ears-pink-cheek-2",
+  "binary": "11000000000000100000001",
+  "class": "Bird",
+  "id": "ears-pink-cheek-2",
+  "name": "Pink Cheek",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb959"
+  },
+  "part": "ears-pogona-2",
+  "binary": "11000000000001010000001",
+  "class": "Reptile",
+  "id": "ears-pogona-2",
+  "name": "Pogona",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb95a"
+  },
+  "part": "ears-pointy-nyan-2",
+  "binary": "10000000001000000000001",
+  "class": "Beast",
+  "id": "ears-pointy-nyan-2",
+  "name": "Pointy Nyan",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb95b"
+  },
+  "part": "ears-puppy-2",
+  "binary": "11000000000000000000101",
+  "class": "Beast",
+  "id": "ears-puppy-2",
+  "name": "Puppy",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb95c"
+  },
+  "part": "ears-red-nimo-2",
+  "binary": "10000000001001000000001",
+  "class": "Aquatic",
+  "id": "ears-red-nimo-2",
+  "name": "Red Nimo",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb95d"
+  },
+  "part": "ears-risky-bird-2",
+  "binary": "11000000000000100000110",
+  "class": "Bird",
+  "id": "ears-risky-bird-2",
+  "name": "Risky Bird",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0100000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb95e"
+  },
+  "part": "ears-rosa-2",
+  "binary": "11000000000000110000011",
+  "class": "Plant",
+  "id": "ears-rosa-2",
+  "name": "Rosa",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0110000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb95f"
+  },
+  "part": "ears-sakura-2",
+  "binary": "11000000000000110000100",
+  "class": "Plant",
+  "id": "ears-sakura-2",
+  "name": "Sakura",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb960"
+  },
+  "part": "ears-seaslug-2",
+  "binary": "11000000000001000000110",
+  "class": "Aquatic",
+  "id": "ears-seaslug-2",
+  "name": "Seaslug",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb961"
+  },
+  "part": "ears-sidebarb-2",
+  "binary": "11000000000001010000110",
+  "class": "Reptile",
+  "id": "ears-sidebarb-2",
+  "name": "Sidebarb",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb962"
+  },
+  "part": "ears-small-frill-2",
+  "binary": "11000000000001010000100",
+  "class": "Reptile",
+  "id": "ears-small-frill-2",
+  "name": "Small Frill",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb963"
+  },
+  "part": "ears-swirl-2",
+  "binary": "11000000000001010000101",
+  "class": "Reptile",
+  "id": "ears-swirl-2",
+  "name": "Swirl",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb964"
+  },
+  "part": "ears-tassels-2",
+  "binary": "11000000000000010000101",
+  "class": "Bug",
+  "id": "ears-tassels-2",
+  "name": "Tassels",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb965"
+  },
+  "part": "ears-the-last-leaf-2",
+  "binary": "10000000001000110000001",
+  "class": "Plant",
+  "id": "ears-the-last-leaf-2",
+  "name": "The Last Leaf",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb966"
+  },
+  "part": "ears-tiny-fan-2",
+  "binary": "11000000000001000000010",
+  "class": "Aquatic",
+  "id": "ears-tiny-fan-2",
+  "name": "Tiny Fan",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb967"
+  },
+  "part": "ears-vector-2",
+  "binary": "10000000001000010000001",
+  "class": "Bug",
+  "id": "ears-vector-2",
+  "name": "Vector",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Ears"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb968"
+  },
+  "part": "ears-zen-2",
+  "binary": "11000000000000000000100",
+  "class": "Beast",
+  "id": "ears-zen-2",
+  "name": "Zen",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Ears",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb969"
+  },
+  "part": "eyes-blossom-2",
+  "binary": "11000000000000110000101",
+  "class": "Plant",
+  "id": "eyes-blossom-2",
+  "name": "Blossom",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb96a"
+  },
+  "part": "eyes-bookworm-2",
+  "binary": "11000000000000010000001",
+  "class": "Bug",
+  "id": "eyes-bookworm-2",
+  "name": "Bookworm",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb96b"
+  },
+  "part": "eyes-broken-bookworm-2",
+  "binary": "10000000001000010000001",
+  "class": "Bug",
+  "id": "eyes-broken-bookworm-2",
+  "name": "Broken Bookworm",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb96c"
+  },
+  "part": "eyes-calico-zeal-2",
+  "binary": "10000000001000000000001",
+  "class": "Beast",
+  "id": "eyes-calico-zeal-2",
+  "name": "Calico Zeal",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb96d"
+  },
+  "part": "eyes-chubby-2",
+  "binary": "11000000000000000000101",
+  "class": "Beast",
+  "id": "eyes-chubby-2",
+  "name": "Chubby",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb96e"
+  },
+  "part": "eyes-clear-2",
+  "binary": "11000000000001000000010",
+  "class": "Aquatic",
+  "id": "eyes-clear-2",
+  "name": "Clear",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb96f"
+  },
+  "part": "eyes-confused-2",
+  "binary": "11000000000000110000010",
+  "class": "Plant",
+  "id": "eyes-confused-2",
+  "name": "Confused",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb970"
+  },
+  "part": "eyes-crimson-gecko-2",
+  "binary": "10000000001001010000001",
+  "class": "Reptile",
+  "id": "eyes-crimson-gecko-2",
+  "name": "Crimson Gecko",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb971"
+  },
+  "part": "eyes-cucumber-slice-2",
+  "binary": "11000000000000110000100",
+  "class": "Plant",
+  "id": "eyes-cucumber-slice-2",
+  "name": "Cucumber Slice",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb972"
+  },
+  "part": "eyes-dokuganryu-2",
+  "binary": "11000000011001010000100",
+  "class": "Reptile",
+  "id": "eyes-dokuganryu-2",
+  "name": "Dokuganryu",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb973"
+  },
+  "part": "eyes-dreamy-papi-2",
+  "binary": "10000000001000110000001",
+  "class": "Plant",
+  "id": "eyes-dreamy-papi-2",
+  "name": "Dreamy Papi",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb974"
+  },
+  "part": "eyes-flower-sunglasses-2",
+  "binary": "10000000110000010000010",
+  "class": "Bug",
+  "id": "eyes-flower-sunglasses-2",
+  "name": "Flower Sunglasses",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb975"
+  },
+  "part": "eyes-flower-sunglasses-shiny-2",
+  "binary": "10000001001000010000010",
+  "class": "Bug",
+  "id": "eyes-flower-sunglasses-shiny-2",
+  "name": "Flower Sunglasses Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb976"
+  },
+  "part": "eyes-gecko-2",
+  "binary": "11000000000001010000001",
+  "class": "Reptile",
+  "id": "eyes-gecko-2",
+  "name": "Gecko",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb977"
+  },
+  "part": "eyes-gero-2",
+  "binary": "11000000000001000000100",
+  "class": "Aquatic",
+  "id": "eyes-gero-2",
+  "name": "Gero",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb978"
+  },
+  "part": "eyes-icy-gaze-2",
+  "binary": "11000000101000100000010",
+  "class": "Bird",
+  "id": "eyes-icy-gaze-2",
+  "name": "Icy Gaze",
+  "specialGenes": "Xmas2019",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb979"
+  },
+  "part": "eyes-insomnia-2",
+  "binary": "10000000001001000000001",
+  "class": "Aquatic",
+  "id": "eyes-insomnia-2",
+  "name": "Insomnia",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb97a"
+  },
+  "part": "eyes-kabuki-2",
+  "binary": "11000000011001010000101",
+  "class": "Reptile",
+  "id": "eyes-kabuki-2",
+  "name": "Kabuki",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb97b"
+  },
+  "part": "eyes-kotaro-2",
+  "binary": "11000000000000010000101",
+  "class": "Bug",
+  "id": "eyes-kotaro-2",
+  "name": "Kotaro?",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb97c"
+  },
+  "part": "eyes-little-owl-2",
+  "binary": "11000000000000100000100",
+  "class": "Bird",
+  "id": "eyes-little-owl-2",
+  "name": "Little Owl",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb97d"
+  },
+  "part": "eyes-little-peas-2",
+  "binary": "11000000000000000000010",
+  "class": "Beast",
+  "id": "eyes-little-peas-2",
+  "name": "Little Peas",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb97e"
+  },
+  "part": "eyes-lucas-2",
+  "binary": "11000000000000100000010",
+  "class": "Bird",
+  "id": "eyes-lucas-2",
+  "name": "Lucas",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb97f"
+  },
+  "part": "eyes-mavis-2",
+  "binary": "11000000000000100000001",
+  "class": "Bird",
+  "id": "eyes-mavis-2",
+  "name": "Mavis",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb980"
+  },
+  "part": "eyes-neo-2",
+  "binary": "11000000000000010000010",
+  "class": "Bug",
+  "id": "eyes-neo-2",
+  "name": "Neo",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb981"
+  },
+  "part": "eyes-nerdy-2",
+  "binary": "11000000000000010000100",
+  "class": "Bug",
+  "id": "eyes-nerdy-2",
+  "name": "Nerdy",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb982"
+  },
+  "part": "eyes-papi-2",
+  "binary": "11000000000000110000001",
+  "class": "Plant",
+  "id": "eyes-papi-2",
+  "name": "Papi",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb983"
+  },
+  "part": "eyes-puppy-2",
+  "binary": "11000000000000000000100",
+  "class": "Beast",
+  "id": "eyes-puppy-2",
+  "name": "Puppy",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb984"
+  },
+  "part": "eyes-robin-2",
+  "binary": "11000000000000100000101",
+  "class": "Bird",
+  "id": "eyes-robin-2",
+  "name": "Robin",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb985"
+  },
+  "part": "eyes-scar-2",
+  "binary": "11000000000001010000100",
+  "class": "Reptile",
+  "id": "eyes-scar-2",
+  "name": "Scar",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb986"
+  },
+  "part": "eyes-sky-mavis-2",
+  "binary": "10000000001000100000001",
+  "class": "Bird",
+  "id": "eyes-sky-mavis-2",
+  "name": "Sky Mavis",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb987"
+  },
+  "part": "eyes-sleepless-2",
+  "binary": "11000000000001000000001",
+  "class": "Aquatic",
+  "id": "eyes-sleepless-2",
+  "name": "Sleepless",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb988"
+  },
+  "part": "eyes-snowflakes-2",
+  "binary": "11000000100000000000010",
+  "class": "Beast",
+  "id": "eyes-snowflakes-2",
+  "name": "Snowflakes",
+  "specialGenes": "Xmas2018",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb989"
+  },
+  "part": "eyes-telescope-2",
+  "binary": "11000000000001000000101",
+  "class": "Aquatic",
+  "id": "eyes-telescope-2",
+  "name": "Telescope",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb98a"
+  },
+  "part": "eyes-topaz-2",
+  "binary": "11000000000001010000101",
+  "class": "Reptile",
+  "id": "eyes-topaz-2",
+  "name": "Topaz",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb98b"
+  },
+  "part": "eyes-tricky-2",
+  "binary": "11000000000001010000010",
+  "class": "Reptile",
+  "id": "eyes-tricky-2",
+  "name": "Tricky",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb98c"
+  },
+  "part": "eyes-yen-2",
+  "binary": "11000000011001000000001",
+  "class": "Aquatic",
+  "id": "eyes-yen-2",
+  "name": "Yen",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Eyes"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb98d"
+  },
+  "part": "eyes-zeal-2",
+  "binary": "11000000000000000000001",
+  "class": "Beast",
+  "id": "eyes-zeal-2",
+  "name": "Zeal",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Eyes",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb98f"
+  },
+  "part": "horn-anemone-2",
+  "binary": "11000000000001000000100",
+  "class": "Aquatic",
+  "id": "horn-anemone-2",
+  "name": "Anemone",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb990"
+  },
+  "part": "horn-antenna-2",
+  "binary": "11000000000000010000010",
+  "class": "Bug",
+  "id": "horn-antenna-2",
+  "name": "Antenna",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb991"
+  },
+  "part": "horn-arco-2",
+  "binary": "11000000000000000000110",
+  "class": "Beast",
+  "id": "horn-arco-2",
+  "name": "Arco",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb992"
+  },
+  "part": "horn-babylonia-2",
+  "binary": "11000000000001000000001",
+  "class": "Aquatic",
+  "id": "horn-babylonia-2",
+  "name": "Babylonia",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb993"
+  },
+  "part": "horn-bamboo-shoot-2",
+  "binary": "11000000000000110000001",
+  "class": "Plant",
+  "id": "horn-bamboo-shoot-2",
+  "name": "Bamboo Shoot",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb994"
+  },
+  "part": "horn-beech-2",
+  "binary": "11000000000000110000010",
+  "class": "Plant",
+  "id": "horn-beech-2",
+  "name": "Beech",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb995"
+  },
+  "part": "horn-bumpy-2",
+  "binary": "11000000000001010000110",
+  "class": "Reptile",
+  "id": "horn-bumpy-2",
+  "name": "Bumpy",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb996"
+  },
+  "part": "horn-cactus-2",
+  "binary": "11000000000000110000101",
+  "class": "Plant",
+  "id": "horn-cactus-2",
+  "name": "Cactus",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb997"
+  },
+  "part": "horn-candy-babylonia-2",
+  "binary": "10000000001001000000001",
+  "class": "Aquatic",
+  "id": "horn-candy-babylonia-2",
+  "name": "Candy Babylonia",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb998"
+  },
+  "part": "horn-caterpillars-2",
+  "binary": "11000000000000010000011",
+  "class": "Bug",
+  "id": "horn-caterpillars-2",
+  "name": "Caterpillars",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb999"
+  },
+  "part": "horn-cerastes-2",
+  "binary": "11000000000001010000011",
+  "class": "Reptile",
+  "id": "horn-cerastes-2",
+  "name": "Cerastes",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb99a"
+  },
+  "part": "horn-clamshell-2",
+  "binary": "11000000000001000000011",
+  "class": "Aquatic",
+  "id": "horn-clamshell-2",
+  "name": "Clamshell",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb99b"
+  },
+  "part": "horn-cuckoo-2",
+  "binary": "11000000000000100000010",
+  "class": "Bird",
+  "id": "horn-cuckoo-2",
+  "name": "Cuckoo",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb99c"
+  },
+  "part": "horn-dual-blade-2",
+  "binary": "11000000000000000000101",
+  "class": "Beast",
+  "id": "horn-dual-blade-2",
+  "name": "Dual Blade",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb99d"
+  },
+  "part": "horn-eggshell-2",
+  "binary": "11000000000000100000001",
+  "class": "Bird",
+  "id": "horn-eggshell-2",
+  "name": "Eggshell",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb99e"
+  },
+  "part": "horn-feather-spear-2",
+  "binary": "11000000000000100000110",
+  "class": "Bird",
+  "id": "horn-feather-spear-2",
+  "name": "Feather Spear",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0100000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb99f"
+  },
+  "part": "horn-golden-bamboo-shoot-2",
+  "binary": "10000000001000110000001",
+  "class": "Plant",
+  "id": "horn-golden-bamboo-shoot-2",
+  "name": "Golden Bamboo Shoot",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a0"
+  },
+  "part": "horn-golden-shell-2",
+  "binary": "10000000001000100000001",
+  "class": "Bird",
+  "id": "horn-golden-shell-2",
+  "name": "Golden Shell",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a1"
+  },
+  "part": "horn-imp-2",
+  "binary": "11000000000000000000010",
+  "class": "Beast",
+  "id": "horn-imp-2",
+  "name": "Imp",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a2"
+  },
+  "part": "horn-incisor-2",
+  "binary": "11000000000001010000101",
+  "class": "Reptile",
+  "id": "horn-incisor-2",
+  "name": "Incisor",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a3"
+  },
+  "part": "horn-kendama-2",
+  "binary": "11000000011000000000010",
+  "class": "Beast",
+  "id": "horn-kendama-2",
+  "name": "Kendama",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a4"
+  },
+  "part": "horn-kestrel-2",
+  "binary": "11000000000000100000100",
+  "class": "Bird",
+  "id": "horn-kestrel-2",
+  "name": "Kestrel",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a5"
+  },
+  "part": "horn-lagging-2",
+  "binary": "11000000000000010000001",
+  "class": "Bug",
+  "id": "horn-lagging-2",
+  "name": "Lagging",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a6"
+  },
+  "part": "horn-laggingggggg-2",
+  "binary": "10000000001000010000001",
+  "class": "Bug",
+  "id": "horn-laggingggggg-2",
+  "name": "Laggingggggg",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a7"
+  },
+  "part": "horn-leaf-bug-2",
+  "binary": "11000000000000010000110",
+  "class": "Bug",
+  "id": "horn-leaf-bug-2",
+  "name": "Leaf Bug",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a8"
+  },
+  "part": "horn-little-branch-2",
+  "binary": "11000000000000000000001",
+  "class": "Beast",
+  "id": "horn-little-branch-2",
+  "name": "Little Branch",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9a9"
+  },
+  "part": "horn-merry-2",
+  "binary": "11000000000000000000011",
+  "class": "Beast",
+  "id": "horn-merry-2",
+  "name": "Merry",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9aa"
+  },
+  "part": "horn-oranda-2",
+  "binary": "11000000000001000000101",
+  "class": "Aquatic",
+  "id": "horn-oranda-2",
+  "name": "Oranda",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ab"
+  },
+  "part": "horn-p4r4s1t3-2",
+  "binary": "10000000010000010000101",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ac"
+  },
+  "part": "horn-parasite-2",
+  "binary": "11000000000000010000101",
+  "class": "Bug",
+  "id": "horn-parasite-2",
+  "name": "Parasite",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ad"
+  },
+  "part": "horn-pinku-unko-2",
+  "binary": "10000000001001010000001",
+  "class": "Reptile",
+  "id": "horn-pinku-unko-2",
+  "name": "Pinku Unko",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ae"
+  },
+  "part": "horn-pliers-2",
+  "binary": "11000000000000010000100",
+  "class": "Bug",
+  "id": "horn-pliers-2",
+  "name": "Pliers",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9af"
+  },
+  "part": "horn-pocky-2",
+  "binary": "11000000000000000000100",
+  "class": "Beast",
+  "id": "horn-pocky-2",
+  "name": "Pocky",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b0"
+  },
+  "part": "horn-rose-bud-2",
+  "binary": "11000000000000110000011",
+  "class": "Plant",
+  "id": "horn-rose-bud-2",
+  "name": "Rose Bud",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0110000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b1"
+  },
+  "part": "horn-santas-gift-2",
+  "binary": "11000000101000110000101",
+  "class": "Plant",
+  "id": "horn-santas-gift-2",
+  "name": "Santa's Gift",
+  "specialGenes": "Xmas2019",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b2"
+  },
+  "part": "horn-scaly-spear-2",
+  "binary": "11000000000001010000010",
+  "class": "Reptile",
+  "id": "horn-scaly-spear-2",
+  "name": "Scaly Spear",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b3"
+  },
+  "part": "horn-scaly-spoon-2",
+  "binary": "11000000000001010000100",
+  "class": "Reptile",
+  "id": "horn-scaly-spoon-2",
+  "name": "Scaly Spoon",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b4"
+  },
+  "part": "horn-shoal-star-2",
+  "binary": "11000000000001000000110",
+  "class": "Aquatic",
+  "id": "horn-shoal-star-2",
+  "name": "Shoal Star",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b5"
+  },
+  "part": "horn-spruce-spear-2",
+  "binary": "11000000100000100000110",
+  "class": "Bird",
+  "id": "horn-spruce-spear-2",
+  "name": "Spruce Spear",
+  "specialGenes": "Xmas2018",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b6"
+  },
+  "part": "horn-strawberry-ice-cream-2",
+  "binary": "10000000111001010000001",
+  "class": "Reptile",
+  "id": "horn-strawberry-ice-cream-2",
+  "name": "Strawberry Ice Cream",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b7"
+  },
+  "part": "horn-strawberry-ice-cream-shiny-2",
+  "binary": "10000001010001010000001",
+  "class": "Reptile",
+  "id": "horn-strawberry-ice-cream-shiny-2",
+  "name": "Strawberry Ice Cream Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b8"
+  },
+  "part": "horn-strawberry-shortcake-2",
+  "binary": "11000000000000110000100",
+  "class": "Plant",
+  "id": "horn-strawberry-shortcake-2",
+  "name": "Strawberry Shortcake",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9b9"
+  },
+  "part": "horn-teal-shell-2",
+  "binary": "11000000000001000000010",
+  "class": "Aquatic",
+  "id": "horn-teal-shell-2",
+  "name": "Teal Shell",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ba"
+  },
+  "part": "horn-trump-2",
+  "binary": "11000000000000100000011",
+  "class": "Bird",
+  "id": "horn-trump-2",
+  "name": "Trump",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0100000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9bb"
+  },
+  "part": "horn-umaibo-2",
+  "binary": "11000000011000000000100",
+  "class": "Beast",
+  "id": "horn-umaibo-2",
+  "name": "Umaibo",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9bc"
+  },
+  "part": "horn-unko-2",
+  "binary": "11000000000001010000001",
+  "class": "Reptile",
+  "id": "horn-unko-2",
+  "name": "Unko",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9bd"
+  },
+  "part": "horn-vanilla-ice-cream-2",
+  "binary": "10000001000001010000001",
+  "class": "Reptile",
+  "id": "horn-vanilla-ice-cream-2",
+  "name": "Vanilla Ice Cream",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9be"
+  },
+  "part": "horn-vanilla-ice-cream-shiny-2",
+  "binary": "10000001011001010000001",
+  "class": "Reptile",
+  "id": "horn-vanilla-ice-cream-shiny-2",
+  "name": "Vanilla Ice Cream Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9bf"
+  },
+  "part": "horn-watermelon-2",
+  "binary": "11000000000000110000110",
+  "class": "Plant",
+  "id": "horn-watermelon-2",
+  "name": "Watermelon",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0110000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c0"
+  },
+  "part": "horn-watermelon-ice-cream-2",
+  "binary": "10000000110001010000001",
+  "class": "Reptile",
+  "id": "horn-watermelon-ice-cream-2",
+  "name": "Watermelon Ice Cream",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c1"
+  },
+  "part": "horn-watermelon-ice-cream-shiny-2",
+  "binary": "10000001001001010000001",
+  "class": "Reptile",
+  "id": "horn-watermelon-ice-cream-shiny-2",
+  "name": "Watermelon Ice Cream Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c2"
+  },
+  "part": "horn-wing-horn-2",
+  "binary": "11000000000000100000101",
+  "class": "Bird",
+  "id": "horn-wing-horn-2",
+  "name": "Wing Horn",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Horn",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c3"
+  },
+  "part": "horn-winter-branch-2",
+  "binary": "10000000001000000000001",
+  "class": "Beast",
+  "id": "horn-winter-branch-2",
+  "name": "Winter Branch",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c4"
+  },
+  "part": "horn-yorishiro-2",
+  "binary": "11000000011000110000010",
+  "class": "Plant",
+  "id": "horn-yorishiro-2",
+  "name": "Yorishiro",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c5"
+  },
+  "part": "mouth-axie-kiss-2",
+  "binary": "11000000000000000000100",
+  "class": "Beast",
+  "id": "mouth-axie-kiss-2",
+  "name": "Axie Kiss",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c6"
+  },
+  "part": "mouth-bubble-fish-2",
+  "binary": "10000000110001000000100",
+  "class": "Aquatic",
+  "id": "mouth-bubble-fish-2",
+  "name": "Bubble Fish",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c7"
+  },
+  "part": "mouth-bubble-fish-shiny-2",
+  "binary": "10000001001001000000100",
+  "class": "Aquatic",
+  "id": "mouth-bubble-fish-shiny-2",
+  "name": "Bubble Fish Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c8"
+  },
+  "part": "mouth-catfish-2",
+  "binary": "11000000000001000000010",
+  "class": "Aquatic",
+  "id": "mouth-catfish-2",
+  "name": "Catfish",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9c9"
+  },
+  "part": "mouth-confident-2",
+  "binary": "11000000000000000000101",
+  "class": "Beast",
+  "id": "mouth-confident-2",
+  "name": "Confident",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ca"
+  },
+  "part": "mouth-cute-bunny-2",
+  "binary": "11000000000000010000100",
+  "class": "Bug",
+  "id": "mouth-cute-bunny-2",
+  "name": "Cute Bunny",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9cb"
+  },
+  "part": "mouth-dango-2",
+  "binary": "11000000011001010000101",
+  "class": "Reptile",
+  "id": "mouth-dango-2",
+  "name": "Dango",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9cc"
+  },
+  "part": "mouth-doubletalk-2",
+  "binary": "11000000000000100000001",
+  "class": "Bird",
+  "id": "mouth-doubletalk-2",
+  "name": "Doubletalk",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9cd"
+  },
+  "part": "mouth-feasting-mosquito-2",
+  "binary": "10000000001000010000001",
+  "class": "Bug",
+  "id": "mouth-feasting-mosquito-2",
+  "name": "Feasting Mosquito",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ce"
+  },
+  "part": "mouth-geisha-2",
+  "binary": "11000000011001000000101",
+  "class": "Aquatic",
+  "id": "mouth-geisha-2",
+  "name": "Geisha",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9cf"
+  },
+  "part": "mouth-goda-2",
+  "binary": "11000000000000000000010",
+  "class": "Beast",
+  "id": "mouth-goda-2",
+  "name": "Goda",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d0"
+  },
+  "part": "mouth-herbivore-2",
+  "binary": "11000000000000110000100",
+  "class": "Plant",
+  "id": "mouth-herbivore-2",
+  "name": "Herbivore",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d1"
+  },
+  "part": "mouth-humorless-2",
+  "binary": "10000000001000110000001",
+  "class": "Plant",
+  "id": "mouth-humorless-2",
+  "name": "Humorless",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d2"
+  },
+  "part": "mouth-hungry-bird-2",
+  "binary": "11000000000000100000100",
+  "class": "Bird",
+  "id": "mouth-hungry-bird-2",
+  "name": "Hungry Bird",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d3"
+  },
+  "part": "mouth-kawaii-2",
+  "binary": "11000000011000010000100",
+  "class": "Bug",
+  "id": "mouth-kawaii-2",
+  "name": "Kawaii",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d4"
+  },
+  "part": "mouth-kotaro-2",
+  "binary": "11000000000001010000010",
+  "class": "Reptile",
+  "id": "mouth-kotaro-2",
+  "name": "Kotaro",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d5"
+  },
+  "part": "mouth-lam-2",
+  "binary": "11000000000001000000001",
+  "class": "Aquatic",
+  "id": "mouth-lam-2",
+  "name": "Lam",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d6"
+  },
+  "part": "mouth-lam-handsome-2",
+  "binary": "10000000001001000000001",
+  "class": "Aquatic",
+  "id": "mouth-lam-handsome-2",
+  "name": "Lam Handsome",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d7"
+  },
+  "part": "mouth-little-owl-2",
+  "binary": "11000000000000100000101",
+  "class": "Bird",
+  "id": "mouth-little-owl-2",
+  "name": "Little Owl",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d8"
+  },
+  "part": "mouth-mosquito-2",
+  "binary": "11000000000000010000001",
+  "class": "Bug",
+  "id": "mouth-mosquito-2",
+  "name": "Mosquito",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9d9"
+  },
+  "part": "mouth-mr-doubletalk-2",
+  "binary": "10000000001000100000001",
+  "class": "Bird",
+  "id": "mouth-mr-doubletalk-2",
+  "name": "Mr. Doubletalk",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9da"
+  },
+  "part": "mouth-nut-cracker-2",
+  "binary": "11000000000000000000001",
+  "class": "Beast",
+  "id": "mouth-nut-cracker-2",
+  "name": "Nut Cracker",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9db"
+  },
+  "part": "mouth-peace-maker-2",
+  "binary": "11000000000000100000010",
+  "class": "Bird",
+  "id": "mouth-peace-maker-2",
+  "name": "Peace Maker",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9dc"
+  },
+  "part": "mouth-pincer-2",
+  "binary": "11000000000000010000010",
+  "class": "Bug",
+  "id": "mouth-pincer-2",
+  "name": "Pincer",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9dd"
+  },
+  "part": "mouth-piranha-2",
+  "binary": "11000000000001000000101",
+  "class": "Aquatic",
+  "id": "mouth-piranha-2",
+  "name": "Piranha",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9de"
+  },
+  "part": "mouth-razor-bite-2",
+  "binary": "11000000000001010000100",
+  "class": "Reptile",
+  "id": "mouth-razor-bite-2",
+  "name": "Razor Bite",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9df"
+  },
+  "part": "mouth-risky-fish-2",
+  "binary": "11000000000001000000100",
+  "class": "Aquatic",
+  "id": "mouth-risky-fish-2",
+  "name": "Risky Fish",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e0"
+  },
+  "part": "mouth-rudolph-2",
+  "binary": "11000000100000110000010",
+  "class": "Plant",
+  "id": "mouth-rudolph-2",
+  "name": "Rudolph",
+  "specialGenes": "Xmas2018",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e1"
+  },
+  "part": "mouth-serious-2",
+  "binary": "11000000000000110000001",
+  "class": "Plant",
+  "id": "mouth-serious-2",
+  "name": "Serious",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e2"
+  },
+  "part": "mouth-silence-whisper-2",
+  "binary": "11000000000000110000101",
+  "class": "Plant",
+  "id": "mouth-silence-whisper-2",
+  "name": "Silence Whisper",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e3"
+  },
+  "part": "mouth-skull-cracker-2",
+  "binary": "10000000001000000000001",
+  "class": "Beast",
+  "id": "mouth-skull-cracker-2",
+  "name": "Skull Cracker",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e4"
+  },
+  "part": "mouth-square-teeth-2",
+  "binary": "11000000000000010000101",
+  "class": "Bug",
+  "id": "mouth-square-teeth-2",
+  "name": "Square Teeth",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e5"
+  },
+  "part": "mouth-tiny-carrot-2",
+  "binary": "11000000101001010000101",
+  "class": "Reptile",
+  "id": "mouth-tiny-carrot-2",
+  "name": "Tiny Carrot",
+  "specialGenes": "Xmas2019",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e6"
+  },
+  "part": "mouth-tiny-turtle-2",
+  "binary": "11000000000001010000101",
+  "class": "Reptile",
+  "id": "mouth-tiny-turtle-2",
+  "name": "Tiny Turtle",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e7"
+  },
+  "part": "mouth-toothless-bite-2",
+  "binary": "11000000000001010000001",
+  "class": "Reptile",
+  "id": "mouth-toothless-bite-2",
+  "name": "Toothless Bite",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e8"
+  },
+  "part": "mouth-venom-bite-2",
+  "binary": "10000000001001010000001",
+  "class": "Reptile",
+  "id": "mouth-venom-bite-2",
+  "name": "Venom Bite",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Mouth"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9e9"
+  },
+  "part": "mouth-zigzag-2",
+  "binary": "11000000000000110000010",
+  "class": "Plant",
+  "id": "mouth-zigzag-2",
+  "name": "Zigzag",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Mouth",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ea"
+  },
+  "part": "tail-ant-2",
+  "binary": "11000000000000010000001",
+  "class": "Bug",
+  "id": "tail-ant-2",
+  "name": "Ant",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9eb"
+  },
+  "part": "tail-carrot-2",
+  "binary": "11000000000000110000001",
+  "class": "Plant",
+  "id": "tail-carrot-2",
+  "name": "Carrot",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0110000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ec"
+  },
+  "part": "tail-cattail-2",
+  "binary": "11000000000000110000010",
+  "class": "Plant",
+  "id": "tail-cattail-2",
+  "name": "Cattail",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0110000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ed"
+  },
+  "part": "tail-cloud-2",
+  "binary": "11000000000000100000100",
+  "class": "Bird",
+  "id": "tail-cloud-2",
+  "name": "Cloud",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0100000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ee"
+  },
+  "part": "tail-cotton-candy-2",
+  "binary": "10000000110000000000001",
+  "class": "Beast",
+  "id": "tail-cotton-candy-2",
+  "name": "Cotton Candy",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ef"
+  },
+  "part": "tail-cotton-candy-shiny-2",
+  "binary": "10000001001000000000001",
+  "class": "Beast",
+  "id": "tail-cotton-candy-shiny-2",
+  "name": "Cotton Candy Shiny",
+  "specialGenes": "Summer2022",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f0"
+  },
+  "part": "tail-cottontail-2",
+  "binary": "11000000000000000000001",
+  "class": "Beast",
+  "id": "tail-cottontail-2",
+  "name": "Cottontail",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f1"
+  },
+  "part": "tail-december-surprise-2",
+  "binary": "11000000100001010000100",
+  "class": "Reptile",
+  "id": "tail-december-surprise-2",
+  "name": "December Surprise",
+  "specialGenes": "Xmas2018",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f2"
+  },
+  "part": "tail-escaped-gecko-2",
+  "binary": "10000000001001010000001",
+  "class": "Reptile",
+  "id": "tail-escaped-gecko-2",
+  "name": "Escaped Gecko",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f3"
+  },
+  "part": "tail-feather-fan-2",
+  "binary": "11000000000000100000010",
+  "class": "Bird",
+  "id": "tail-feather-fan-2",
+  "name": "Feather Fan",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0100000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f4"
+  },
+  "part": "tail-fire-ant-2",
+  "binary": "10000000001000010000001",
+  "class": "Bug",
+  "id": "tail-fire-ant-2",
+  "name": "Fire Ant",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f5"
+  },
+  "part": "tail-fir-trunk-2",
+  "binary": "11000000101001010000011",
+  "class": "Reptile",
+  "id": "tail-fir-trunk-2",
+  "name": "Fir Trunk",
+  "specialGenes": "Xmas2019",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f6"
+  },
+  "part": "tail-fish-snack-2",
+  "binary": "11000000000000010000011",
+  "class": "Bug",
+  "id": "tail-fish-snack-2",
+  "name": "Fish Snack",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f7"
+  },
+  "part": "tail-gerbil-2",
+  "binary": "11000000000000000000110",
+  "class": "Beast",
+  "id": "tail-gerbil-2",
+  "name": "Gerbil",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f8"
+  },
+  "part": "tail-gila-2",
+  "binary": "11000000000001010000101",
+  "class": "Reptile",
+  "id": "tail-gila-2",
+  "name": "Gila",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9f9"
+  },
+  "part": "tail-granmas-fan-2",
+  "binary": "11000000000000100000101",
+  "class": "Bird",
+  "id": "tail-granmas-fan-2",
+  "name": "Granma's Fan",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0100000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9fa"
+  },
+  "part": "tail-grass-snake-2",
+  "binary": "11000000000001010000110",
+  "class": "Reptile",
+  "id": "tail-grass-snake-2",
+  "name": "Grass Snake",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9fb"
+  },
+  "part": "tail-gravel-ant-2",
+  "binary": "11000000000000010000100",
+  "class": "Bug",
+  "id": "tail-gravel-ant-2",
+  "name": "Gravel Ant",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9fc"
+  },
+  "part": "tail-hare-2",
+  "binary": "11000000000000000000100",
+  "class": "Beast",
+  "id": "tail-hare-2",
+  "name": "Hare",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9fd"
+  },
+  "part": "tail-hatsune-2",
+  "binary": "11000000000000110000011",
+  "class": "Plant",
+  "id": "tail-hatsune-2",
+  "name": "Hatsune",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0110000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9fe"
+  },
+  "part": "tail-hot-butt-2",
+  "binary": "11000000000000110000110",
+  "class": "Plant",
+  "id": "tail-hot-butt-2",
+  "name": "Hot Butt",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0110000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfb9ff"
+  },
+  "part": "tail-iguana-2",
+  "binary": "11000000000001010000010",
+  "class": "Reptile",
+  "id": "tail-iguana-2",
+  "name": "Iguana",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba00"
+  },
+  "part": "tail-koi-2",
+  "binary": "11000000000001000000001",
+  "class": "Aquatic",
+  "id": "tail-koi-2",
+  "name": "Koi",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1000000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba01"
+  },
+  "part": "tail-koinobori-2",
+  "binary": "11000000011001000000001",
+  "class": "Aquatic",
+  "id": "tail-koinobori-2",
+  "name": "Koinobori",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba02"
+  },
+  "part": "tail-kuro-koi-2",
+  "binary": "10000000001001000000001",
+  "class": "Aquatic",
+  "id": "tail-kuro-koi-2",
+  "name": "Kuro Koi",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba03"
+  },
+  "part": "tail-maki-2",
+  "binary": "11000000011000010000011",
+  "class": "Bug",
+  "id": "tail-maki-2",
+  "name": "Maki",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba04"
+  },
+  "part": "tail-namek-carrot-2",
+  "binary": "10000000001000110000001",
+  "class": "Plant",
+  "id": "tail-namek-carrot-2",
+  "name": "Namek Carrot",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba05"
+  },
+  "part": "tail-navaga-2",
+  "binary": "11000000000001000000101",
+  "class": "Aquatic",
+  "id": "tail-navaga-2",
+  "name": "Navaga",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba06"
+  },
+  "part": "tail-nimo-2",
+  "binary": "11000000000001000000010",
+  "class": "Aquatic",
+  "id": "tail-nimo-2",
+  "name": "Nimo",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba07"
+  },
+  "part": "tail-nut-cracker-2",
+  "binary": "11000000000000000000101",
+  "class": "Beast",
+  "id": "tail-nut-cracker-2",
+  "name": "Nut Cracker",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0000000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba08"
+  },
+  "part": "tail-omatsuri-2",
+  "binary": "11000000011000100000101",
+  "class": "Bird",
+  "id": "tail-omatsuri-2",
+  "name": "Omatsuri",
+  "specialGenes": "Japan",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba09"
+  },
+  "part": "tail-post-fight-2",
+  "binary": "11000000000000100000110",
+  "class": "Bird",
+  "id": "tail-post-fight-2",
+  "name": "Post Fight",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0100000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba0a"
+  },
+  "part": "tail-potato-leaf-2",
+  "binary": "11000000000000110000101",
+  "class": "Plant",
+  "id": "tail-potato-leaf-2",
+  "name": "Potato Leaf",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0110000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba0b"
+  },
+  "part": "tail-pupae-2",
+  "binary": "11000000000000010000101",
+  "class": "Bug",
+  "id": "tail-pupae-2",
+  "name": "Pupae",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0010000101"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba0c"
+  },
+  "part": "tail-ranchu-2",
+  "binary": "11000000000001000000100",
+  "class": "Aquatic",
+  "id": "tail-ranchu-2",
+  "name": "Ranchu",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1000000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba0d"
+  },
+  "part": "tail-rice-2",
+  "binary": "11000000000000000000010",
+  "class": "Beast",
+  "id": "tail-rice-2",
+  "name": "Rice",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0000000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba0e"
+  },
+  "part": "tail-sakura-cottontail-2",
+  "binary": "10000000001000000000001",
+  "class": "Beast",
+  "id": "tail-sakura-cottontail-2",
+  "name": "Sakura Cottontail",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba0f"
+  },
+  "part": "tail-shiba-2",
+  "binary": "11000000000000000000011",
+  "class": "Beast",
+  "id": "tail-shiba-2",
+  "name": "Shiba",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba10"
+  },
+  "part": "tail-shrimp-2",
+  "binary": "11000000000001000000110",
+  "class": "Aquatic",
+  "id": "tail-shrimp-2",
+  "name": "Shrimp",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1000000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba11"
+  },
+  "part": "tail-snake-jar-2",
+  "binary": "11000000000001010000100",
+  "class": "Reptile",
+  "id": "tail-snake-jar-2",
+  "name": "Snake Jar",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1010000100"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba12"
+  },
+  "part": "tail-snowy-swallow-2",
+  "binary": "10000000001000100000001",
+  "class": "Bird",
+  "id": "tail-snowy-swallow-2",
+  "name": "Snowy Swallow",
+  "specialGenes": "Mystic",
+  "stage": 2,
+  "type": "Tail"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba13"
+  },
+  "part": "tail-swallow-2",
+  "binary": "11000000000000100000001",
+  "class": "Bird",
+  "id": "tail-swallow-2",
+  "name": "Swallow",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0100000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba14"
+  },
+  "part": "tail-tadpole-2",
+  "binary": "11000000000001000000011",
+  "class": "Aquatic",
+  "id": "tail-tadpole-2",
+  "name": "Tadpole",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1000000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba15"
+  },
+  "part": "tail-the-last-one-2",
+  "binary": "11000000000000100000011",
+  "class": "Bird",
+  "id": "tail-the-last-one-2",
+  "name": "The Last One",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0100000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba16"
+  },
+  "part": "tail-thorny-caterpillar-2",
+  "binary": "11000000000000010000110",
+  "class": "Bug",
+  "id": "tail-thorny-caterpillar-2",
+  "name": "Thorny Caterpillar",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0010000110"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba17"
+  },
+  "part": "tail-tiny-dino-2",
+  "binary": "11000000000001010000011",
+  "class": "Reptile",
+  "id": "tail-tiny-dino-2",
+  "name": "Tiny Dino",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1010000011"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba18"
+  },
+  "part": "tail-twin-tail-2",
+  "binary": "11000000000000010000010",
+  "class": "Bug",
+  "id": "tail-twin-tail-2",
+  "name": "Twin Tail",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0010000010"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba19"
+  },
+  "part": "tail-wall-gecko-2",
+  "binary": "11000000000001010000001",
+  "class": "Reptile",
+  "id": "tail-wall-gecko-2",
+  "name": "Wall Gecko",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "1010000001"
+},
+{
+  "_id": {
+    "$oid": "666cfd646612a8384bbfba1a"
+  },
+  "part": "tail-yam-2",
+  "binary": "11000000000000110000100",
+  "class": "Plant",
+  "id": "tail-yam-2",
+  "name": "Yam",
+  "specialGenes": null,
+  "stage": 2,
+  "type": "Tail",
+  "r": "0110000100"
+},
+{
+  "_id": {
+    "$oid": "6721659dde0f00168f3e8889"
+  },
+  "part": "horn-p4r4s1t3-2",
+  "binary": "10000000010000010000101",
+  "class": "bug",
+  "id": "horn-p4r4s1t3-2",
+  "name": "P4R4S1T3",
+  "specialGenes": "Bionic",
+  "stage": 2,
+  "type": "Horn"
+},
+{
+  "_id": {
+    "$oid": "672165b3de0f00168f3e888a"
+  },
+  "part": "back-1nd14n-5t4r-2",
+  "binary": "10000000010001010000100",
+  "class": "Reptile",
+  "id": "back-1nd14n-5t4r-2",
+  "name": "1ND14N-5T4R",
+  "specialGenes": "Bionic",
+  "stage": 2,
+  "type": "Back"
+},
+{
+  "_id": {
+    "$oid": "67216605de0f00168f3e888b"
+  },
+  "part": "horn-5h04l-5t4r-2",
+  "binary": "10000000010001000000110",
+  "class": "Aquatic",
+  "id": "horn-5h04l-5t4r-2",
+  "name": "5H04L-5T4R",
+  "specialGenes": "Bionic",
+  "stage": 2,
+  "type": "Horn"
+}]
