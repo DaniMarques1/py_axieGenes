@@ -71,7 +71,8 @@ def identify_axie_parts(binary_str, parts_data, dominant_mapping_mapping):
                 "name": matching_part.get("name"),
                 "specialGenes": matching_part.get("specialGenes"),
                 "stage": matching_part.get("stage"),
-                "type": matching_part.get("type")
+                "type": matching_part.get("type").lower(),
+                "class": matching_part.get("class")
             }
         else:
             identified_parts[part] = "Unknown Part"
@@ -112,7 +113,8 @@ def identify_axie_recessive_parts(binary_str, parts_data, recessive_mapping):
     return identified_recessive_parts
 
 
-def json_structure(hex_string, parts_mapping_file):
+def json_structure(hex_string):
+    parts_mapping_file = 'parts_mapping.json'
     try:
         binary_512 = hex_to_512bit_binary(hex_string)
 
