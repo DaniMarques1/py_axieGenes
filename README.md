@@ -1,4 +1,3 @@
-# py_axieGenes
 # Python Axie Infinity genes parser
 
 # Initial resources:
