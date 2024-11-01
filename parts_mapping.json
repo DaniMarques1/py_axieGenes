@@ -1,7 +1,4 @@
 [{
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7ed"
-  },
   "part": "back-1nd14n-5t4r",
   "binary": "1010000100",
   "class": "Reptile",
@@ -13,9 +10,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7ee"
-  },
   "part": "back-anemone",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -27,9 +21,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7ef"
-  },
   "part": "back-balloon",
   "binary": "0100000001",
   "class": "Bird",
@@ -41,9 +32,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f0"
-  },
   "part": "back-beach-ball",
   "binary": "0000000110",
   "class": "Beast",
@@ -55,9 +43,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f1"
-  },
   "part": "back-beach-ball-shiny",
   "binary": "0000000110",
   "class": "Beast",
@@ -69,9 +54,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f2"
-  },
   "part": "back-bidens",
   "binary": "0110000011",
   "class": "Plant",
@@ -83,9 +65,6 @@
   "partValue": "plant-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f3"
-  },
   "part": "back-blue-moon",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -97,9 +76,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f4"
-  },
   "part": "back-bone-sail",
   "binary": "1010000001",
   "class": "Reptile",
@@ -111,9 +87,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f5"
-  },
   "part": "back-buzz-buzz",
   "binary": "0010000011",
   "class": "Bug",
@@ -125,9 +98,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f6"
-  },
   "part": "back-candy-canes",
   "binary": "0010000010",
   "class": "Bug",
@@ -139,9 +109,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f7"
-  },
   "part": "back-croc",
   "binary": "1010000110",
   "class": "Reptile",
@@ -153,9 +120,6 @@
   "partValue": "reptile-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f8"
-  },
   "part": "back-crystal-hermit",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -167,9 +131,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7f9"
-  },
   "part": "back-cupid",
   "binary": "0100000010",
   "class": "Bird",
@@ -181,9 +142,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7fa"
-  },
   "part": "back-frozen-bucket",
   "binary": "1010000100",
   "class": "Reptile",
@@ -195,9 +153,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7fb"
-  },
   "part": "back-furball",
   "binary": "0000000110",
   "class": "Beast",
@@ -209,9 +164,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7fc"
-  },
   "part": "back-garish-worm",
   "binary": "0010000010",
   "class": "Bug",
@@ -223,9 +175,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7fd"
-  },
   "part": "back-goldfish",
   "binary": "1000000011",
   "class": "Aquatic",
@@ -237,9 +186,6 @@
   "partValue": "aquatic-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7fe"
-  },
   "part": "back-green-thorns",
   "binary": "1010000011",
   "class": "Reptile",
@@ -251,9 +197,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb7ff"
-  },
   "part": "back-hamaya",
   "binary": "0000000100",
   "class": "Beast",
@@ -265,9 +208,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb800"
-  },
   "part": "back-hasagi",
   "binary": "0000000001",
   "class": "Beast",
@@ -279,9 +219,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb801"
-  },
   "part": "back-hermit",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -293,9 +230,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb802"
-  },
   "part": "back-hero",
   "binary": "0000000010",
   "class": "Beast",
@@ -307,9 +241,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb803"
-  },
   "part": "back-indian-star",
   "binary": "1010000100",
   "class": "Reptile",
@@ -321,9 +252,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb804"
-  },
   "part": "back-jaguar",
   "binary": "0000000011",
   "class": "Beast",
@@ -335,9 +263,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb805"
-  },
   "part": "back-kingfisher",
   "binary": "0100000101",
   "class": "Bird",
@@ -349,9 +274,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb806"
-  },
   "part": "back-mint",
   "binary": "0110000101",
   "class": "Plant",
@@ -363,9 +285,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb807"
-  },
   "part": "back-origami",
   "binary": "0100000010",
   "class": "Bird",
@@ -377,9 +296,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb808"
-  },
   "part": "back-perch",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -391,9 +307,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb809"
-  },
   "part": "back-pigeon-post",
   "binary": "0100000100",
   "class": "Bird",
@@ -405,9 +318,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb80a"
-  },
   "part": "back-pink-turnip",
   "binary": "0110000001",
   "class": "Plant",
@@ -419,9 +329,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb80b"
-  },
   "part": "back-pumpkin",
   "binary": "0110000110",
   "class": "Plant",
@@ -433,9 +340,6 @@
   "partValue": "plant-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb80c"
-  },
   "part": "back-raven",
   "binary": "0100000011",
   "class": "Bird",
@@ -447,9 +351,6 @@
   "partValue": "bird-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb80d"
-  },
   "part": "back-red-ear",
   "binary": "1010000101",
   "class": "Reptile",
@@ -461,9 +362,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb80e"
-  },
   "part": "back-risky-beast",
   "binary": "0000000100",
   "class": "Beast",
@@ -475,9 +373,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb80f"
-  },
   "part": "back-ronin",
   "binary": "0000000001",
   "class": "Beast",
@@ -489,9 +384,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb810"
-  },
   "part": "back-rugged-sail",
   "binary": "1010000001",
   "class": "Reptile",
@@ -503,9 +395,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb811"
-  },
   "part": "back-sandal",
   "binary": "0010000100",
   "class": "Bug",
@@ -517,9 +406,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb812"
-  },
   "part": "back-scarab",
   "binary": "0010000101",
   "class": "Bug",
@@ -531,9 +417,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb813"
-  },
   "part": "back-shiitake",
   "binary": "0110000010",
   "class": "Plant",
@@ -545,9 +428,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb814"
-  },
   "part": "back-snail-shell",
   "binary": "0010000001",
   "class": "Bug",
@@ -559,9 +439,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb815"
-  },
   "part": "back-spiky-wing",
   "binary": "0010000110",
   "class": "Bug",
@@ -573,9 +450,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb816"
-  },
   "part": "back-sponge",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -587,9 +461,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb817"
-  },
   "part": "back-starry-balloon",
   "binary": "0100000001",
   "class": "Bird",
@@ -601,9 +472,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb818"
-  },
   "part": "back-starry-shell",
   "binary": "0010000001",
   "class": "Bug",
@@ -615,9 +483,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb819"
-  },
   "part": "back-timber",
   "binary": "0000000101",
   "class": "Beast",
@@ -629,9 +494,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb81a"
-  },
   "part": "back-tri-feather",
   "binary": "0100000110",
   "class": "Bird",
@@ -643,9 +505,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb81b"
-  },
   "part": "back-tri-spikes",
   "binary": "1010000010",
   "class": "Reptile",
@@ -657,9 +516,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb81c"
-  },
   "part": "back-turnip",
   "binary": "0110000001",
   "class": "Plant",
@@ -671,9 +527,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb81d"
-  },
   "part": "back-turtle-buoy",
   "binary": "1010000101",
   "class": "Reptile",
@@ -685,9 +538,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb81e"
-  },
   "part": "back-turtle-buoy-shiny",
   "binary": "1010000101",
   "class": "Reptile",
@@ -699,9 +549,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb81f"
-  },
   "part": "back-watering-can",
   "binary": "0110000100",
   "class": "Plant",
@@ -713,9 +560,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb820"
-  },
   "part": "back-yakitori",
   "binary": "0110000010",
   "class": "Plant",
@@ -727,9 +571,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb821"
-  },
   "part": "ears-beetle-spike",
   "binary": "0010000010",
   "class": "Bug",
@@ -741,9 +582,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb822"
-  },
   "part": "ears-belieber",
   "binary": "0000000110",
   "class": "Beast",
@@ -755,9 +593,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb823"
-  },
   "part": "ears-bubblemaker",
   "binary": "1000000011",
   "class": "Aquatic",
@@ -769,9 +604,6 @@
   "partValue": "aquatic-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb824"
-  },
   "part": "ears-clover",
   "binary": "0110000010",
   "class": "Plant",
@@ -783,9 +615,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb825"
-  },
   "part": "ears-coca",
   "binary": "0000000001",
   "class": "Beast",
@@ -797,9 +626,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb826"
-  },
   "part": "ears-coca-shiny",
   "binary": "0000000001",
   "class": "Beast",
@@ -811,9 +637,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb827"
-  },
   "part": "ears-curly",
   "binary": "0100000101",
   "class": "Bird",
@@ -825,9 +648,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb828"
-  },
   "part": "ears-curved-spine",
   "binary": "1010000011",
   "class": "Reptile",
@@ -839,9 +659,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb829"
-  },
   "part": "ears-deadly-pogona",
   "binary": "1010000001",
   "class": "Reptile",
@@ -853,9 +670,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb82a"
-  },
   "part": "ears-ear-breathing",
   "binary": "0010000011",
   "class": "Bug",
@@ -867,9 +681,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb82b"
-  },
   "part": "ears-early-bird",
   "binary": "0100000010",
   "class": "Bird",
@@ -881,9 +692,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb82c"
-  },
   "part": "ears-earwing",
   "binary": "0010000110",
   "class": "Bug",
@@ -895,9 +703,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb82d"
-  },
   "part": "ears-friezard",
   "binary": "1010000010",
   "class": "Reptile",
@@ -909,9 +714,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb82e"
-  },
   "part": "ears-gill",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -923,9 +725,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb82f"
-  },
   "part": "ears-heart-cheek",
   "binary": "0100000001",
   "class": "Bird",
@@ -937,9 +736,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb830"
-  },
   "part": "ears-hollow",
   "binary": "0110000101",
   "class": "Plant",
@@ -951,9 +747,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb831"
-  },
   "part": "ears-inkling",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -965,9 +758,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb832"
-  },
   "part": "ears-innocent-lamb",
   "binary": "0000000011",
   "class": "Beast",
@@ -979,9 +769,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb833"
-  },
   "part": "ears-karimata",
   "binary": "0100000110",
   "class": "Bird",
@@ -993,9 +780,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb834"
-  },
   "part": "ears-larva",
   "binary": "0010000001",
   "class": "Bug",
@@ -1007,9 +791,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb835"
-  },
   "part": "ears-leaf-bug",
   "binary": "0010000100",
   "class": "Bug",
@@ -1021,9 +802,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb836"
-  },
   "part": "ears-leafy",
   "binary": "0110000001",
   "class": "Plant",
@@ -1035,9 +813,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb837"
-  },
   "part": "ears-lotus",
   "binary": "0110000110",
   "class": "Plant",
@@ -1049,9 +824,6 @@
   "partValue": "plant-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb838"
-  },
   "part": "ears-maiko",
   "binary": "0110000100",
   "class": "Plant",
@@ -1063,9 +835,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb839"
-  },
   "part": "ears-merry-lamb",
   "binary": "0000000011",
   "class": "Beast",
@@ -1077,9 +846,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb83a"
-  },
   "part": "ears-mon",
   "binary": "0010000110",
   "class": "Bug",
@@ -1091,9 +857,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb83b"
-  },
   "part": "ears-nimo",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -1105,9 +868,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb83c"
-  },
   "part": "ears-nut-cracker",
   "binary": "0000000010",
   "class": "Beast",
@@ -1119,9 +879,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb83d"
-  },
   "part": "ears-nyan",
   "binary": "0000000001",
   "class": "Beast",
@@ -1133,9 +890,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb83e"
-  },
   "part": "ears-owl",
   "binary": "0100000011",
   "class": "Bird",
@@ -1147,9 +901,6 @@
   "partValue": "bird-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb83f"
-  },
   "part": "ears-peace-maker",
   "binary": "0100000100",
   "class": "Bird",
@@ -1161,9 +912,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb840"
-  },
   "part": "ears-pinecones",
   "binary": "0110000101",
   "class": "Plant",
@@ -1175,9 +923,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb841"
-  },
   "part": "ears-pink-cheek",
   "binary": "0100000001",
   "class": "Bird",
@@ -1189,9 +934,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb842"
-  },
   "part": "ears-pogona",
   "binary": "1010000001",
   "class": "Reptile",
@@ -1203,9 +945,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb843"
-  },
   "part": "ears-pointy-nyan",
   "binary": "0000000001",
   "class": "Beast",
@@ -1217,9 +956,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb844"
-  },
   "part": "ears-puppy",
   "binary": "0000000101",
   "class": "Beast",
@@ -1231,9 +967,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb845"
-  },
   "part": "ears-red-nimo",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -1245,9 +978,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb846"
-  },
   "part": "ears-risky-bird",
   "binary": "0100000110",
   "class": "Bird",
@@ -1259,9 +989,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb847"
-  },
   "part": "ears-rosa",
   "binary": "0110000011",
   "class": "Plant",
@@ -1273,9 +1000,6 @@
   "partValue": "plant-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb848"
-  },
   "part": "ears-sakura",
   "binary": "0110000100",
   "class": "Plant",
@@ -1287,9 +1011,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb849"
-  },
   "part": "ears-seaslug",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -1301,9 +1022,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb84a"
-  },
   "part": "ears-sidebarb",
   "binary": "1010000110",
   "class": "Reptile",
@@ -1315,9 +1033,6 @@
   "partValue": "reptile-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb84b"
-  },
   "part": "ears-small-frill",
   "binary": "1010000100",
   "class": "Reptile",
@@ -1329,9 +1044,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb84c"
-  },
   "part": "ears-swirl",
   "binary": "1010000101",
   "class": "Reptile",
@@ -1343,9 +1055,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb84d"
-  },
   "part": "ears-tassels",
   "binary": "0010000101",
   "class": "Bug",
@@ -1357,9 +1066,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb84e"
-  },
   "part": "ears-the-last-leaf",
   "binary": "0110000001",
   "class": "Plant",
@@ -1371,9 +1077,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb84f"
-  },
   "part": "ears-tiny-fan",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -1385,9 +1088,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb850"
-  },
   "part": "ears-vector",
   "binary": "0010000001",
   "class": "Bug",
@@ -1399,9 +1099,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb851"
-  },
   "part": "ears-zen",
   "binary": "0000000100",
   "class": "Beast",
@@ -1413,9 +1110,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb852"
-  },
   "part": "eyes-blossom",
   "binary": "0110000101",
   "class": "Plant",
@@ -1427,9 +1121,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb853"
-  },
   "part": "eyes-bookworm",
   "binary": "0010000001",
   "class": "Bug",
@@ -1441,9 +1132,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb854"
-  },
   "part": "eyes-broken-bookworm",
   "binary": "0010000001",
   "class": "Bug",
@@ -1455,9 +1143,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb855"
-  },
   "part": "eyes-calico-zeal",
   "binary": "0000000001",
   "class": "Beast",
@@ -1469,9 +1154,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb856"
-  },
   "part": "eyes-chubby",
   "binary": "0000000101",
   "class": "Beast",
@@ -1483,9 +1165,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb857"
-  },
   "part": "eyes-clear",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -1497,9 +1176,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb858"
-  },
   "part": "eyes-confused",
   "binary": "0110000010",
   "class": "Plant",
@@ -1511,9 +1187,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb859"
-  },
   "part": "eyes-crimson-gecko",
   "binary": "1010000001",
   "class": "Reptile",
@@ -1525,9 +1198,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb85a"
-  },
   "part": "eyes-cucumber-slice",
   "binary": "0110000100",
   "class": "Plant",
@@ -1539,9 +1209,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb85b"
-  },
   "part": "eyes-dokuganryu",
   "binary": "1010000100",
   "class": "Reptile",
@@ -1553,9 +1220,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb85c"
-  },
   "part": "eyes-dreamy-papi",
   "binary": "0110000001",
   "class": "Plant",
@@ -1567,9 +1231,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb85d"
-  },
   "part": "eyes-flower-sunglasses",
   "binary": "0010000010",
   "class": "Bug",
@@ -1581,9 +1242,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb85e"
-  },
   "part": "eyes-flower-sunglasses-shiny",
   "binary": "0010000010",
   "class": "Bug",
@@ -1595,9 +1253,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb85f"
-  },
   "part": "eyes-gecko",
   "binary": "1010000001",
   "class": "Reptile",
@@ -1609,9 +1264,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb860"
-  },
   "part": "eyes-gero",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -1623,9 +1275,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb861"
-  },
   "part": "eyes-icy-gaze",
   "binary": "0100000010",
   "class": "Bird",
@@ -1637,9 +1286,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb862"
-  },
   "part": "eyes-insomnia",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -1651,9 +1297,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb863"
-  },
   "part": "eyes-kabuki",
   "binary": "1010000101",
   "class": "Reptile",
@@ -1665,9 +1308,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb864"
-  },
   "part": "eyes-kotaro",
   "binary": "0010000101",
   "class": "Bug",
@@ -1679,9 +1319,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb865"
-  },
   "part": "eyes-little-owl",
   "binary": "0100000100",
   "class": "Bird",
@@ -1693,9 +1330,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb866"
-  },
   "part": "eyes-little-peas",
   "binary": "0000000010",
   "class": "Beast",
@@ -1707,9 +1341,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb867"
-  },
   "part": "eyes-lucas",
   "binary": "0100000010",
   "class": "Bird",
@@ -1721,9 +1352,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb868"
-  },
   "part": "eyes-mavis",
   "binary": "0100000001",
   "class": "Bird",
@@ -1735,9 +1363,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb869"
-  },
   "part": "eyes-neo",
   "binary": "0010000010",
   "class": "Bug",
@@ -1749,9 +1374,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb86a"
-  },
   "part": "eyes-nerdy",
   "binary": "0010000100",
   "class": "Bug",
@@ -1763,9 +1385,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb86b"
-  },
   "part": "eyes-papi",
   "binary": "0110000001",
   "class": "Plant",
@@ -1777,9 +1396,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb86c"
-  },
   "part": "eyes-puppy",
   "binary": "0000000100",
   "class": "Beast",
@@ -1791,9 +1407,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb86d"
-  },
   "part": "eyes-robin",
   "binary": "0100000101",
   "class": "Bird",
@@ -1805,9 +1418,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb86e"
-  },
   "part": "eyes-scar",
   "binary": "1010000100",
   "class": "Reptile",
@@ -1819,9 +1429,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb86f"
-  },
   "part": "eyes-sky-mavis",
   "binary": "0100000001",
   "class": "Bird",
@@ -1833,9 +1440,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb870"
-  },
   "part": "eyes-sleepless",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -1847,9 +1451,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb871"
-  },
   "part": "eyes-snowflakes",
   "binary": "0000000010",
   "class": "Beast",
@@ -1861,9 +1462,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb872"
-  },
   "part": "eyes-telescope",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -1875,9 +1473,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb873"
-  },
   "part": "eyes-topaz",
   "binary": "1010000101",
   "class": "Reptile",
@@ -1889,9 +1484,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb874"
-  },
   "part": "eyes-tricky",
   "binary": "1010000010",
   "class": "Reptile",
@@ -1903,9 +1495,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb875"
-  },
   "part": "eyes-yen",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -1917,9 +1506,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb876"
-  },
   "part": "eyes-zeal",
   "binary": "0000000001",
   "class": "Beast",
@@ -1931,9 +1517,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb877"
-  },
   "part": "horn-5h04l-5t4r",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -1945,9 +1528,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb878"
-  },
   "part": "horn-anemone",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -1959,9 +1539,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb879"
-  },
   "part": "horn-antenna",
   "binary": "0010000010",
   "class": "Bug",
@@ -1973,9 +1550,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb87a"
-  },
   "part": "horn-arco",
   "binary": "0000000110",
   "class": "Beast",
@@ -1987,9 +1561,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb87b"
-  },
   "part": "horn-babylonia",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -2001,9 +1572,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb87c"
-  },
   "part": "horn-bamboo-shoot",
   "binary": "0110000001",
   "class": "Plant",
@@ -2015,9 +1583,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb87d"
-  },
   "part": "horn-beech",
   "binary": "0110000010",
   "class": "Plant",
@@ -2029,9 +1594,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb87e"
-  },
   "part": "horn-bumpy",
   "binary": "1010000110",
   "class": "Reptile",
@@ -2043,9 +1605,6 @@
   "partValue": "reptile-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb87f"
-  },
   "part": "horn-cactus",
   "binary": "0110000101",
   "class": "Plant",
@@ -2057,9 +1616,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb880"
-  },
   "part": "horn-candy-babylonia",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -2071,9 +1627,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb881"
-  },
   "part": "horn-caterpillars",
   "binary": "0010000011",
   "class": "Bug",
@@ -2085,9 +1638,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb882"
-  },
   "part": "horn-cerastes",
   "binary": "1010000011",
   "class": "Reptile",
@@ -2099,9 +1649,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb883"
-  },
   "part": "horn-clamshell",
   "binary": "1000000011",
   "class": "Aquatic",
@@ -2113,9 +1660,6 @@
   "partValue": "aquatic-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb884"
-  },
   "part": "horn-cuckoo",
   "binary": "0100000010",
   "class": "Bird",
@@ -2127,9 +1671,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb885"
-  },
   "part": "horn-dual-blade",
   "binary": "0000000101",
   "class": "Beast",
@@ -2141,9 +1682,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb886"
-  },
   "part": "horn-eggshell",
   "binary": "0100000001",
   "class": "Bird",
@@ -2155,9 +1693,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb887"
-  },
   "part": "horn-feather-spear",
   "binary": "0100000110",
   "class": "Bird",
@@ -2169,9 +1704,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb888"
-  },
   "part": "horn-golden-bamboo-shoot",
   "binary": "0110000001",
   "class": "Plant",
@@ -2183,9 +1715,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb889"
-  },
   "part": "horn-golden-shell",
   "binary": "0100000001",
   "class": "Bird",
@@ -2197,9 +1726,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb88a"
-  },
   "part": "horn-imp",
   "binary": "0000000010",
   "class": "Beast",
@@ -2211,9 +1737,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb88b"
-  },
   "part": "horn-incisor",
   "binary": "1010000101",
   "class": "Reptile",
@@ -2225,9 +1748,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb88c"
-  },
   "part": "horn-kendama",
   "binary": "0000000010",
   "class": "Beast",
@@ -2239,9 +1759,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb88d"
-  },
   "part": "horn-kestrel",
   "binary": "0100000100",
   "class": "Bird",
@@ -2253,9 +1770,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb88e"
-  },
   "part": "horn-lagging",
   "binary": "0010000001",
   "class": "Bug",
@@ -2267,9 +1781,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb88f"
-  },
   "part": "horn-laggingggggg",
   "binary": "0010000001",
   "class": "Bug",
@@ -2281,9 +1792,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb890"
-  },
   "part": "horn-leaf-bug",
   "binary": "0010000110",
   "class": "Bug",
@@ -2295,9 +1803,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb891"
-  },
   "part": "horn-little-branch",
   "binary": "0000000001",
   "class": "Beast",
@@ -2309,9 +1814,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb892"
-  },
   "part": "horn-merry",
   "binary": "0000000011",
   "class": "Beast",
@@ -2323,9 +1825,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb893"
-  },
   "part": "horn-oranda",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -2337,9 +1836,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb894"
-  },
   "part": "horn-p4r4s1t3",
   "binary": "0010000101",
   "class": "Bug",
@@ -2351,9 +1847,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb895"
-  },
   "part": "horn-parasite",
   "binary": "0010000101",
   "class": "Bug",
@@ -2365,9 +1858,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb896"
-  },
   "part": "horn-pinku-unko",
   "binary": "1010000001",
   "class": "Reptile",
@@ -2379,9 +1869,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb897"
-  },
   "part": "horn-pliers",
   "binary": "0010000100",
   "class": "Bug",
@@ -2393,9 +1880,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb898"
-  },
   "part": "horn-pocky",
   "binary": "0000000100",
   "class": "Beast",
@@ -2407,9 +1891,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb899"
-  },
   "part": "horn-rose-bud",
   "binary": "0110000011",
   "class": "Plant",
@@ -2421,9 +1902,6 @@
   "partValue": "plant-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb89a"
-  },
   "part": "horn-santas-gift",
   "binary": "0110000101",
   "class": "Plant",
@@ -2435,9 +1913,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb89b"
-  },
   "part": "horn-scaly-spear",
   "binary": "1010000010",
   "class": "Reptile",
@@ -2449,9 +1924,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb89c"
-  },
   "part": "horn-scaly-spoon",
   "binary": "1010000100",
   "class": "Reptile",
@@ -2463,9 +1935,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb89d"
-  },
   "part": "horn-shoal-star",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -2477,9 +1946,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb89e"
-  },
   "part": "horn-spruce-spear",
   "binary": "0100000110",
   "class": "Bird",
@@ -2491,9 +1957,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb89f"
-  },
   "part": "horn-strawberry-ice-cream",
   "binary": "1010000001",
   "class": "Reptile",
@@ -2505,9 +1968,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a0"
-  },
   "part": "horn-strawberry-ice-cream-shiny",
   "binary": "1010000001",
   "class": "Reptile",
@@ -2519,9 +1979,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a1"
-  },
   "part": "horn-strawberry-shortcake",
   "binary": "0110000100",
   "class": "Plant",
@@ -2533,9 +1990,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a2"
-  },
   "part": "horn-teal-shell",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -2547,9 +2001,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a3"
-  },
   "part": "horn-trump",
   "binary": "0100000011",
   "class": "Bird",
@@ -2561,9 +2012,6 @@
   "partValue": "bird-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a4"
-  },
   "part": "horn-umaibo",
   "binary": "0000000100",
   "class": "Beast",
@@ -2575,9 +2023,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a5"
-  },
   "part": "horn-unko",
   "binary": "1010000001",
   "class": "Reptile",
@@ -2589,9 +2034,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a6"
-  },
   "part": "horn-vanilla-ice-cream",
   "binary": "1010000001",
   "class": "Reptile",
@@ -2603,9 +2045,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a7"
-  },
   "part": "horn-vanilla-ice-cream-shiny",
   "binary": "1010000001",
   "class": "Reptile",
@@ -2617,9 +2056,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a8"
-  },
   "part": "horn-watermelon",
   "binary": "0110000110",
   "class": "Plant",
@@ -2631,9 +2067,6 @@
   "partValue": "plant-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8a9"
-  },
   "part": "horn-watermelon-ice-cream",
   "binary": "1010000001",
   "class": "Reptile",
@@ -2645,9 +2078,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8aa"
-  },
   "part": "horn-watermelon-ice-cream-shiny",
   "binary": "1010000001",
   "class": "Reptile",
@@ -2659,9 +2089,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ab"
-  },
   "part": "horn-wing-horn",
   "binary": "0100000101",
   "class": "Bird",
@@ -2673,9 +2100,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ac"
-  },
   "part": "horn-winter-branch",
   "binary": "0000000001",
   "class": "Beast",
@@ -2687,9 +2111,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ad"
-  },
   "part": "horn-yorishiro",
   "binary": "0110000010",
   "class": "Plant",
@@ -2701,9 +2122,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ae"
-  },
   "part": "mouth-axie-kiss",
   "binary": "0000000100",
   "class": "Beast",
@@ -2715,9 +2133,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8af"
-  },
   "part": "mouth-bubble-fish",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -2729,9 +2144,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b0"
-  },
   "part": "mouth-bubble-fish-shiny",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -2743,9 +2155,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b1"
-  },
   "part": "mouth-catfish",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -2757,9 +2166,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b2"
-  },
   "part": "mouth-confident",
   "binary": "0000000101",
   "class": "Beast",
@@ -2771,9 +2177,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b3"
-  },
   "part": "mouth-cute-bunny",
   "binary": "0010000100",
   "class": "Bug",
@@ -2785,9 +2188,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b4"
-  },
   "part": "mouth-dango",
   "binary": "1010000101",
   "class": "Reptile",
@@ -2799,9 +2199,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b5"
-  },
   "part": "mouth-doubletalk",
   "binary": "0100000001",
   "class": "Bird",
@@ -2813,9 +2210,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b6"
-  },
   "part": "mouth-feasting-mosquito",
   "binary": "0010000001",
   "class": "Bug",
@@ -2827,9 +2221,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b7"
-  },
   "part": "mouth-geisha",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -2841,9 +2232,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b8"
-  },
   "part": "mouth-goda",
   "binary": "0000000010",
   "class": "Beast",
@@ -2855,9 +2243,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8b9"
-  },
   "part": "mouth-herbivore",
   "binary": "0110000100",
   "class": "Plant",
@@ -2869,9 +2254,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ba"
-  },
   "part": "mouth-humorless",
   "binary": "0110000001",
   "class": "Plant",
@@ -2883,9 +2265,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8bb"
-  },
   "part": "mouth-hungry-bird",
   "binary": "0100000100",
   "class": "Bird",
@@ -2897,9 +2276,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8bc"
-  },
   "part": "mouth-kawaii",
   "binary": "0010000100",
   "class": "Bug",
@@ -2911,9 +2287,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8bd"
-  },
   "part": "mouth-kotaro",
   "binary": "1010000010",
   "class": "Reptile",
@@ -2925,9 +2298,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8be"
-  },
   "part": "mouth-lam",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -2939,9 +2309,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8bf"
-  },
   "part": "mouth-lam-handsome",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -2953,9 +2320,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c0"
-  },
   "part": "mouth-little-owl",
   "binary": "0100000101",
   "class": "Bird",
@@ -2967,9 +2331,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c1"
-  },
   "part": "mouth-mosquito",
   "binary": "0010000001",
   "class": "Bug",
@@ -2981,9 +2342,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c2"
-  },
   "part": "mouth-mr-doubletalk",
   "binary": "0100000001",
   "class": "Bird",
@@ -2995,9 +2353,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c3"
-  },
   "part": "mouth-nut-cracker",
   "binary": "0000000001",
   "class": "Beast",
@@ -3009,9 +2364,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c4"
-  },
   "part": "mouth-peace-maker",
   "binary": "0100000010",
   "class": "Bird",
@@ -3023,9 +2375,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c5"
-  },
   "part": "mouth-pincer",
   "binary": "0010000010",
   "class": "Bug",
@@ -3037,9 +2386,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c6"
-  },
   "part": "mouth-piranha",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -3051,9 +2397,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c7"
-  },
   "part": "mouth-razor-bite",
   "binary": "1010000100",
   "class": "Reptile",
@@ -3065,9 +2408,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c8"
-  },
   "part": "mouth-risky-fish",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -3079,9 +2419,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8c9"
-  },
   "part": "mouth-rudolph",
   "binary": "0110000010",
   "class": "Plant",
@@ -3093,9 +2430,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ca"
-  },
   "part": "mouth-serious",
   "binary": "0110000001",
   "class": "Plant",
@@ -3107,9 +2441,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8cb"
-  },
   "part": "mouth-silence-whisper",
   "binary": "0110000101",
   "class": "Plant",
@@ -3121,9 +2452,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8cc"
-  },
   "part": "mouth-skull-cracker",
   "binary": "0000000001",
   "class": "Beast",
@@ -3135,9 +2463,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8cd"
-  },
   "part": "mouth-square-teeth",
   "binary": "0010000101",
   "class": "Bug",
@@ -3149,9 +2474,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ce"
-  },
   "part": "mouth-tiny-carrot",
   "binary": "1010000101",
   "class": "Reptile",
@@ -3163,9 +2485,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8cf"
-  },
   "part": "mouth-tiny-turtle",
   "binary": "1010000101",
   "class": "Reptile",
@@ -3177,9 +2496,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d0"
-  },
   "part": "mouth-toothless-bite",
   "binary": "1010000001",
   "class": "Reptile",
@@ -3191,9 +2507,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d1"
-  },
   "part": "mouth-venom-bite",
   "binary": "1010000001",
   "class": "Reptile",
@@ -3205,9 +2518,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d2"
-  },
   "part": "mouth-zigzag",
   "binary": "0110000010",
   "class": "Plant",
@@ -3219,9 +2529,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d3"
-  },
   "part": "tail-ant",
   "binary": "0010000001",
   "class": "Bug",
@@ -3233,9 +2540,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d4"
-  },
   "part": "tail-carrot",
   "binary": "0110000001",
   "class": "Plant",
@@ -3247,9 +2551,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d5"
-  },
   "part": "tail-cattail",
   "binary": "0110000010",
   "class": "Plant",
@@ -3261,9 +2562,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d6"
-  },
   "part": "tail-cloud",
   "binary": "0100000100",
   "class": "Bird",
@@ -3275,9 +2573,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d7"
-  },
   "part": "tail-cotton-candy",
   "binary": "0000000001",
   "class": "Beast",
@@ -3289,9 +2584,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d8"
-  },
   "part": "tail-cotton-candy-shiny",
   "binary": "0000000001",
   "class": "Beast",
@@ -3303,9 +2595,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8d9"
-  },
   "part": "tail-cottontail",
   "binary": "0000000001",
   "class": "Beast",
@@ -3317,9 +2606,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8da"
-  },
   "part": "tail-december-surprise",
   "binary": "1010000100",
   "class": "Reptile",
@@ -3331,9 +2617,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8db"
-  },
   "part": "tail-escaped-gecko",
   "binary": "1010000001",
   "class": "Reptile",
@@ -3345,9 +2628,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8dc"
-  },
   "part": "tail-feather-fan",
   "binary": "0100000010",
   "class": "Bird",
@@ -3359,9 +2639,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8dd"
-  },
   "part": "tail-fire-ant",
   "binary": "0010000001",
   "class": "Bug",
@@ -3373,9 +2650,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8de"
-  },
   "part": "tail-fir-trunk",
   "binary": "1010000011",
   "class": "Reptile",
@@ -3387,9 +2661,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8df"
-  },
   "part": "tail-fish-snack",
   "binary": "0010000011",
   "class": "Bug",
@@ -3401,9 +2672,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e0"
-  },
   "part": "tail-gerbil",
   "binary": "0000000110",
   "class": "Beast",
@@ -3415,9 +2683,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e1"
-  },
   "part": "tail-gila",
   "binary": "1010000101",
   "class": "Reptile",
@@ -3429,9 +2694,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e2"
-  },
   "part": "tail-granmas-fan",
   "binary": "0100000101",
   "class": "Bird",
@@ -3443,9 +2705,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e3"
-  },
   "part": "tail-grass-snake",
   "binary": "1010000110",
   "class": "Reptile",
@@ -3457,9 +2716,6 @@
   "partValue": "reptile-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e4"
-  },
   "part": "tail-gravel-ant",
   "binary": "0010000100",
   "class": "Bug",
@@ -3471,9 +2727,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e5"
-  },
   "part": "tail-hare",
   "binary": "0000000100",
   "class": "Beast",
@@ -3485,9 +2738,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e6"
-  },
   "part": "tail-hatsune",
   "binary": "0110000011",
   "class": "Plant",
@@ -3499,9 +2749,6 @@
   "partValue": "plant-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e7"
-  },
   "part": "tail-hot-butt",
   "binary": "0110000110",
   "class": "Plant",
@@ -3513,9 +2760,6 @@
   "partValue": "plant-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e8"
-  },
   "part": "tail-iguana",
   "binary": "1010000010",
   "class": "Reptile",
@@ -3527,9 +2771,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8e9"
-  },
   "part": "tail-koi",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -3541,9 +2782,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ea"
-  },
   "part": "tail-koinobori",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -3555,9 +2793,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8eb"
-  },
   "part": "tail-kuro-koi",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -3569,9 +2804,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ec"
-  },
   "part": "tail-maki",
   "binary": "0010000011",
   "class": "Bug",
@@ -3583,9 +2815,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ed"
-  },
   "part": "tail-namek-carrot",
   "binary": "0110000001",
   "class": "Plant",
@@ -3597,9 +2826,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ee"
-  },
   "part": "tail-navaga",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -3611,9 +2837,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ef"
-  },
   "part": "tail-nimo",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -3625,9 +2848,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f0"
-  },
   "part": "tail-nut-cracker",
   "binary": "0000000101",
   "class": "Beast",
@@ -3639,9 +2859,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f1"
-  },
   "part": "tail-omatsuri",
   "binary": "0100000101",
   "class": "Bird",
@@ -3653,9 +2870,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f2"
-  },
   "part": "tail-post-fight",
   "binary": "0100000110",
   "class": "Bird",
@@ -3667,9 +2881,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f3"
-  },
   "part": "tail-potato-leaf",
   "binary": "0110000101",
   "class": "Plant",
@@ -3681,9 +2892,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f4"
-  },
   "part": "tail-pupae",
   "binary": "0010000101",
   "class": "Bug",
@@ -3695,9 +2903,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f5"
-  },
   "part": "tail-ranchu",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -3709,9 +2914,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f6"
-  },
   "part": "tail-rice",
   "binary": "0000000010",
   "class": "Beast",
@@ -3723,9 +2925,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f7"
-  },
   "part": "tail-sakura-cottontail",
   "binary": "0000000001",
   "class": "Beast",
@@ -3737,9 +2936,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f8"
-  },
   "part": "tail-shiba",
   "binary": "0000000011",
   "class": "Beast",
@@ -3751,9 +2947,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8f9"
-  },
   "part": "tail-shrimp",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -3765,9 +2958,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8fa"
-  },
   "part": "tail-snake-jar",
   "binary": "1010000100",
   "class": "Reptile",
@@ -3779,9 +2969,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8fb"
-  },
   "part": "tail-snowy-swallow",
   "binary": "0100000001",
   "class": "Bird",
@@ -3793,9 +2980,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8fc"
-  },
   "part": "tail-swallow",
   "binary": "0100000001",
   "class": "Bird",
@@ -3807,9 +2991,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8fd"
-  },
   "part": "tail-tadpole",
   "binary": "1000000011",
   "class": "Aquatic",
@@ -3821,9 +3002,6 @@
   "partValue": "aquatic-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8fe"
-  },
   "part": "tail-the-last-one",
   "binary": "0100000011",
   "class": "Bird",
@@ -3835,9 +3013,6 @@
   "partValue": "bird-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb8ff"
-  },
   "part": "tail-thorny-caterpillar",
   "binary": "0010000110",
   "class": "Bug",
@@ -3849,9 +3024,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb900"
-  },
   "part": "tail-tiny-dino",
   "binary": "1010000011",
   "class": "Reptile",
@@ -3863,9 +3035,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb901"
-  },
   "part": "tail-twin-tail",
   "binary": "0010000010",
   "class": "Bug",
@@ -3877,9 +3046,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb902"
-  },
   "part": "tail-wall-gecko",
   "binary": "1010000001",
   "class": "Reptile",
@@ -3891,9 +3057,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb903"
-  },
   "part": "tail-yam",
   "binary": "0110000100",
   "class": "Plant",
@@ -3905,9 +3068,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb905"
-  },
   "part": "back-anemone-2",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -3919,9 +3079,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb906"
-  },
   "part": "back-balloon-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -3933,9 +3090,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb907"
-  },
   "part": "back-beach-ball-2",
   "binary": "0000000110",
   "class": "Beast",
@@ -3947,9 +3101,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb908"
-  },
   "part": "back-beach-ball-shiny-2",
   "binary": "0000000110",
   "class": "Beast",
@@ -3961,9 +3112,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb909"
-  },
   "part": "back-bidens-2",
   "binary": "0110000011",
   "class": "Plant",
@@ -3975,9 +3123,6 @@
   "partValue": "plant-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb90a"
-  },
   "part": "back-blue-moon-2",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -3989,9 +3134,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb90b"
-  },
   "part": "back-bone-sail-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -4003,9 +3145,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb90c"
-  },
   "part": "back-buzz-buzz-2",
   "binary": "0010000011",
   "class": "Bug",
@@ -4017,9 +3156,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb90d"
-  },
   "part": "back-candy-canes-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -4031,9 +3167,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb90e"
-  },
   "part": "back-croc-2",
   "binary": "1010000110",
   "class": "Reptile",
@@ -4045,9 +3178,6 @@
   "partValue": "reptile-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb90f"
-  },
   "part": "back-crystal-hermit-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -4059,9 +3189,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb910"
-  },
   "part": "back-cupid-2",
   "binary": "0100000010",
   "class": "Bird",
@@ -4073,9 +3200,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb911"
-  },
   "part": "back-frozen-bucket-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -4087,9 +3211,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb912"
-  },
   "part": "back-furball-2",
   "binary": "0000000110",
   "class": "Beast",
@@ -4101,9 +3222,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb913"
-  },
   "part": "back-garish-worm-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -4115,9 +3233,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb914"
-  },
   "part": "back-goldfish-2",
   "binary": "1000000011",
   "class": "Aquatic",
@@ -4129,9 +3244,6 @@
   "partValue": "aquatic-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb915"
-  },
   "part": "back-green-thorns-2",
   "binary": "1010000011",
   "class": "Reptile",
@@ -4143,9 +3255,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb916"
-  },
   "part": "back-hamaya-2",
   "binary": "0000000100",
   "class": "Beast",
@@ -4157,9 +3266,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb917"
-  },
   "part": "back-hasagi-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -4171,9 +3277,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb918"
-  },
   "part": "back-hermit-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -4185,9 +3288,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb919"
-  },
   "part": "back-hero-2",
   "binary": "0000000010",
   "class": "Beast",
@@ -4199,9 +3299,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb91a"
-  },
   "part": "back-indian-star-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -4213,9 +3310,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb91b"
-  },
   "part": "back-jaguar-2",
   "binary": "0000000011",
   "class": "Beast",
@@ -4227,9 +3321,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb91c"
-  },
   "part": "back-kingfisher-2",
   "binary": "0100000101",
   "class": "Bird",
@@ -4241,9 +3332,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb91d"
-  },
   "part": "back-mint-2",
   "binary": "0110000101",
   "class": "Plant",
@@ -4255,9 +3343,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb91e"
-  },
   "part": "back-origami-2",
   "binary": "0100000010",
   "class": "Bird",
@@ -4269,9 +3354,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb91f"
-  },
   "part": "back-perch-2",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -4283,9 +3365,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb920"
-  },
   "part": "back-pigeon-post-2",
   "binary": "0100000100",
   "class": "Bird",
@@ -4297,9 +3376,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb921"
-  },
   "part": "back-pink-turnip-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -4311,9 +3387,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb922"
-  },
   "part": "back-pumpkin-2",
   "binary": "0110000110",
   "class": "Plant",
@@ -4325,9 +3398,6 @@
   "partValue": "plant-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb923"
-  },
   "part": "back-raven-2",
   "binary": "0100000011",
   "class": "Bird",
@@ -4339,9 +3409,6 @@
   "partValue": "bird-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb924"
-  },
   "part": "back-red-ear-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -4353,9 +3420,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb925"
-  },
   "part": "back-risky-beast-2",
   "binary": "0000000100",
   "class": "Beast",
@@ -4367,9 +3431,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb926"
-  },
   "part": "back-ronin-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -4381,9 +3442,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb927"
-  },
   "part": "back-rugged-sail-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -4395,9 +3453,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb928"
-  },
   "part": "back-sandal-2",
   "binary": "0010000100",
   "class": "Bug",
@@ -4409,9 +3464,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb929"
-  },
   "part": "back-scarab-2",
   "binary": "0010000101",
   "class": "Bug",
@@ -4423,9 +3475,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb92a"
-  },
   "part": "back-shiitake-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -4437,9 +3486,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb92b"
-  },
   "part": "back-snail-shell-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -4451,9 +3497,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb92c"
-  },
   "part": "back-spiky-wing-2",
   "binary": "0010000110",
   "class": "Bug",
@@ -4465,9 +3508,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb92d"
-  },
   "part": "back-sponge-2",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -4479,9 +3519,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb92e"
-  },
   "part": "back-starry-balloon-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -4493,9 +3530,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb92f"
-  },
   "part": "back-starry-shell-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -4507,9 +3541,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb930"
-  },
   "part": "back-timber-2",
   "binary": "0000000101",
   "class": "Beast",
@@ -4521,9 +3552,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb931"
-  },
   "part": "back-tri-feather-2",
   "binary": "0100000110",
   "class": "Bird",
@@ -4535,9 +3563,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb932"
-  },
   "part": "back-tri-spikes-2",
   "binary": "1010000010",
   "class": "Reptile",
@@ -4549,9 +3574,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb933"
-  },
   "part": "back-turnip-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -4563,9 +3585,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb934"
-  },
   "part": "back-turtle-buoy-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -4577,9 +3596,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb935"
-  },
   "part": "back-turtle-buoy-shiny-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -4591,9 +3607,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb936"
-  },
   "part": "back-watering-can-2",
   "binary": "0110000100",
   "class": "Plant",
@@ -4605,9 +3618,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb937"
-  },
   "part": "back-yakitori-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -4619,9 +3629,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb938"
-  },
   "part": "ears-beetle-spike-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -4633,9 +3640,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb939"
-  },
   "part": "ears-belieber-2",
   "binary": "0000000110",
   "class": "Beast",
@@ -4647,9 +3651,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb93a"
-  },
   "part": "ears-bubblemaker-2",
   "binary": "1000000011",
   "class": "Aquatic",
@@ -4661,9 +3662,6 @@
   "partValue": "aquatic-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb93b"
-  },
   "part": "ears-clover-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -4675,9 +3673,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb93c"
-  },
   "part": "ears-coca-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -4689,9 +3684,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb93d"
-  },
   "part": "ears-coca-shiny-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -4703,9 +3695,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb93e"
-  },
   "part": "ears-curly-2",
   "binary": "0100000101",
   "class": "Bird",
@@ -4717,9 +3706,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb93f"
-  },
   "part": "ears-curved-spine-2",
   "binary": "1010000011",
   "class": "Reptile",
@@ -4731,9 +3717,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb940"
-  },
   "part": "ears-deadly-pogona-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -4745,9 +3728,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb941"
-  },
   "part": "ears-ear-breathing-2",
   "binary": "0010000011",
   "class": "Bug",
@@ -4759,9 +3739,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb942"
-  },
   "part": "ears-early-bird-2",
   "binary": "0100000010",
   "class": "Bird",
@@ -4773,9 +3750,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb943"
-  },
   "part": "ears-earwing-2",
   "binary": "0010000110",
   "class": "Bug",
@@ -4787,9 +3761,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb944"
-  },
   "part": "ears-friezard-2",
   "binary": "1010000010",
   "class": "Reptile",
@@ -4801,9 +3772,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb945"
-  },
   "part": "ears-gill-2",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -4815,9 +3783,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb946"
-  },
   "part": "ears-heart-cheek-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -4829,9 +3794,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb947"
-  },
   "part": "ears-hollow-2",
   "binary": "0110000101",
   "class": "Plant",
@@ -4843,9 +3805,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb948"
-  },
   "part": "ears-inkling-2",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -4857,9 +3816,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb949"
-  },
   "part": "ears-innocent-lamb-2",
   "binary": "0000000011",
   "class": "Beast",
@@ -4871,9 +3827,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb94a"
-  },
   "part": "ears-karimata-2",
   "binary": "0100000110",
   "class": "Bird",
@@ -4885,9 +3838,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb94b"
-  },
   "part": "ears-larva-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -4899,9 +3849,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb94c"
-  },
   "part": "ears-leaf-bug-2",
   "binary": "0010000100",
   "class": "Bug",
@@ -4913,9 +3860,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb94d"
-  },
   "part": "ears-leafy-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -4927,9 +3871,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb94e"
-  },
   "part": "ears-lotus-2",
   "binary": "0110000110",
   "class": "Plant",
@@ -4941,9 +3882,6 @@
   "partValue": "plant-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb94f"
-  },
   "part": "ears-maiko-2",
   "binary": "0110000100",
   "class": "Plant",
@@ -4955,9 +3893,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb950"
-  },
   "part": "ears-merry-lamb-2",
   "binary": "0000000011",
   "class": "Beast",
@@ -4969,9 +3904,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb951"
-  },
   "part": "ears-mon-2",
   "binary": "0010000110",
   "class": "Bug",
@@ -4983,9 +3915,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb952"
-  },
   "part": "ears-nimo-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -4997,9 +3926,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb953"
-  },
   "part": "ears-nut-cracker-2",
   "binary": "0000000010",
   "class": "Beast",
@@ -5011,9 +3937,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb954"
-  },
   "part": "ears-nyan-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -5025,9 +3948,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb955"
-  },
   "part": "ears-owl-2",
   "binary": "0100000011",
   "class": "Bird",
@@ -5039,9 +3959,6 @@
   "partValue": "bird-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb956"
-  },
   "part": "ears-peace-maker-2",
   "binary": "0100000100",
   "class": "Bird",
@@ -5053,9 +3970,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb957"
-  },
   "part": "ears-pinecones-2",
   "binary": "0110000101",
   "class": "Plant",
@@ -5067,9 +3981,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb958"
-  },
   "part": "ears-pink-cheek-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -5081,9 +3992,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb959"
-  },
   "part": "ears-pogona-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -5095,9 +4003,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb95a"
-  },
   "part": "ears-pointy-nyan-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -5109,9 +4014,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb95b"
-  },
   "part": "ears-puppy-2",
   "binary": "0000000101",
   "class": "Beast",
@@ -5123,9 +4025,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb95c"
-  },
   "part": "ears-red-nimo-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -5137,9 +4036,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb95d"
-  },
   "part": "ears-risky-bird-2",
   "binary": "0100000110",
   "class": "Bird",
@@ -5151,9 +4047,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb95e"
-  },
   "part": "ears-rosa-2",
   "binary": "0110000011",
   "class": "Plant",
@@ -5165,9 +4058,6 @@
   "partValue": "plant-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb95f"
-  },
   "part": "ears-sakura-2",
   "binary": "0110000100",
   "class": "Plant",
@@ -5179,9 +4069,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb960"
-  },
   "part": "ears-seaslug-2",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -5193,9 +4080,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb961"
-  },
   "part": "ears-sidebarb-2",
   "binary": "1010000110",
   "class": "Reptile",
@@ -5207,9 +4091,6 @@
   "partValue": "reptile-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb962"
-  },
   "part": "ears-small-frill-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -5221,9 +4102,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb963"
-  },
   "part": "ears-swirl-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -5235,9 +4113,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb964"
-  },
   "part": "ears-tassels-2",
   "binary": "0010000101",
   "class": "Bug",
@@ -5249,9 +4124,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb965"
-  },
   "part": "ears-the-last-leaf-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -5263,9 +4135,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb966"
-  },
   "part": "ears-tiny-fan-2",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -5277,9 +4146,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb967"
-  },
   "part": "ears-vector-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -5291,9 +4157,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb968"
-  },
   "part": "ears-zen-2",
   "binary": "0000000100",
   "class": "Beast",
@@ -5305,9 +4168,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb969"
-  },
   "part": "eyes-blossom-2",
   "binary": "0110000101",
   "class": "Plant",
@@ -5319,9 +4179,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb96a"
-  },
   "part": "eyes-bookworm-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -5333,9 +4190,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb96b"
-  },
   "part": "eyes-broken-bookworm-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -5347,9 +4201,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb96c"
-  },
   "part": "eyes-calico-zeal-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -5361,9 +4212,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb96d"
-  },
   "part": "eyes-chubby-2",
   "binary": "0000000101",
   "class": "Beast",
@@ -5375,9 +4223,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb96e"
-  },
   "part": "eyes-clear-2",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -5389,9 +4234,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb96f"
-  },
   "part": "eyes-confused-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -5403,9 +4245,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb970"
-  },
   "part": "eyes-crimson-gecko-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -5417,9 +4256,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb971"
-  },
   "part": "eyes-cucumber-slice-2",
   "binary": "0110000100",
   "class": "Plant",
@@ -5431,9 +4267,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb972"
-  },
   "part": "eyes-dokuganryu-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -5445,9 +4278,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb973"
-  },
   "part": "eyes-dreamy-papi-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -5459,9 +4289,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb974"
-  },
   "part": "eyes-flower-sunglasses-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -5473,9 +4300,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb975"
-  },
   "part": "eyes-flower-sunglasses-shiny-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -5487,9 +4311,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb976"
-  },
   "part": "eyes-gecko-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -5501,9 +4322,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb977"
-  },
   "part": "eyes-gero-2",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -5515,9 +4333,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb978"
-  },
   "part": "eyes-icy-gaze-2",
   "binary": "0100000010",
   "class": "Bird",
@@ -5529,9 +4344,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb979"
-  },
   "part": "eyes-insomnia-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -5543,9 +4355,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb97a"
-  },
   "part": "eyes-kabuki-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -5557,9 +4366,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb97b"
-  },
   "part": "eyes-kotaro-2",
   "binary": "0010000101",
   "class": "Bug",
@@ -5571,9 +4377,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb97c"
-  },
   "part": "eyes-little-owl-2",
   "binary": "0100000100",
   "class": "Bird",
@@ -5585,9 +4388,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb97d"
-  },
   "part": "eyes-little-peas-2",
   "binary": "0000000010",
   "class": "Beast",
@@ -5599,9 +4399,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb97e"
-  },
   "part": "eyes-lucas-2",
   "binary": "0100000010",
   "class": "Bird",
@@ -5613,9 +4410,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb97f"
-  },
   "part": "eyes-mavis-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -5627,9 +4421,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb980"
-  },
   "part": "eyes-neo-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -5641,9 +4432,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb981"
-  },
   "part": "eyes-nerdy-2",
   "binary": "0010000100",
   "class": "Bug",
@@ -5655,9 +4443,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb982"
-  },
   "part": "eyes-papi-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -5669,9 +4454,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb983"
-  },
   "part": "eyes-puppy-2",
   "binary": "0000000100",
   "class": "Beast",
@@ -5683,9 +4465,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb984"
-  },
   "part": "eyes-robin-2",
   "binary": "0100000101",
   "class": "Bird",
@@ -5697,9 +4476,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb985"
-  },
   "part": "eyes-scar-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -5711,9 +4487,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb986"
-  },
   "part": "eyes-sky-mavis-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -5725,9 +4498,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb987"
-  },
   "part": "eyes-sleepless-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -5739,9 +4509,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb988"
-  },
   "part": "eyes-snowflakes-2",
   "binary": "0000000010",
   "class": "Beast",
@@ -5753,9 +4520,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb989"
-  },
   "part": "eyes-telescope-2",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -5767,9 +4531,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb98a"
-  },
   "part": "eyes-topaz-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -5781,9 +4542,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb98b"
-  },
   "part": "eyes-tricky-2",
   "binary": "1010000010",
   "class": "Reptile",
@@ -5795,9 +4553,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb98c"
-  },
   "part": "eyes-yen-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -5809,9 +4564,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb98d"
-  },
   "part": "eyes-zeal-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -5823,9 +4575,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb98f"
-  },
   "part": "horn-anemone-2",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -5837,9 +4586,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb990"
-  },
   "part": "horn-antenna-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -5851,9 +4597,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb991"
-  },
   "part": "horn-arco-2",
   "binary": "0000000110",
   "class": "Beast",
@@ -5865,9 +4608,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb992"
-  },
   "part": "horn-babylonia-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -5879,9 +4619,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb993"
-  },
   "part": "horn-bamboo-shoot-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -5893,9 +4630,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb994"
-  },
   "part": "horn-beech-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -5907,9 +4641,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb995"
-  },
   "part": "horn-bumpy-2",
   "binary": "1010000110",
   "class": "Reptile",
@@ -5921,9 +4652,6 @@
   "partValue": "reptile-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb996"
-  },
   "part": "horn-cactus-2",
   "binary": "0110000101",
   "class": "Plant",
@@ -5935,9 +4663,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb997"
-  },
   "part": "horn-candy-babylonia-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -5949,9 +4674,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb998"
-  },
   "part": "horn-caterpillars-2",
   "binary": "0010000011",
   "class": "Bug",
@@ -5963,9 +4685,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb999"
-  },
   "part": "horn-cerastes-2",
   "binary": "1010000011",
   "class": "Reptile",
@@ -5977,9 +4696,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb99a"
-  },
   "part": "horn-clamshell-2",
   "binary": "1000000011",
   "class": "Aquatic",
@@ -5991,9 +4707,6 @@
   "partValue": "aquatic-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb99b"
-  },
   "part": "horn-cuckoo-2",
   "binary": "0100000010",
   "class": "Bird",
@@ -6005,9 +4718,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb99c"
-  },
   "part": "horn-dual-blade-2",
   "binary": "0000000101",
   "class": "Beast",
@@ -6019,9 +4729,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb99d"
-  },
   "part": "horn-eggshell-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -6033,9 +4740,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb99e"
-  },
   "part": "horn-feather-spear-2",
   "binary": "0100000110",
   "class": "Bird",
@@ -6047,9 +4751,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb99f"
-  },
   "part": "horn-golden-bamboo-shoot-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -6061,9 +4762,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a0"
-  },
   "part": "horn-golden-shell-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -6075,9 +4773,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a1"
-  },
   "part": "horn-imp-2",
   "binary": "0000000010",
   "class": "Beast",
@@ -6089,9 +4784,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a2"
-  },
   "part": "horn-incisor-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -6103,9 +4795,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a3"
-  },
   "part": "horn-kendama-2",
   "binary": "0000000010",
   "class": "Beast",
@@ -6117,9 +4806,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a4"
-  },
   "part": "horn-kestrel-2",
   "binary": "0100000100",
   "class": "Bird",
@@ -6131,9 +4817,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a5"
-  },
   "part": "horn-lagging-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -6145,9 +4828,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a6"
-  },
   "part": "horn-laggingggggg-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -6159,9 +4839,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a7"
-  },
   "part": "horn-leaf-bug-2",
   "binary": "0010000110",
   "class": "Bug",
@@ -6173,9 +4850,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a8"
-  },
   "part": "horn-little-branch-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -6187,9 +4861,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9a9"
-  },
   "part": "horn-merry-2",
   "binary": "0000000011",
   "class": "Beast",
@@ -6201,9 +4872,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9aa"
-  },
   "part": "horn-oranda-2",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -6215,9 +4883,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ac"
-  },
   "part": "horn-parasite-2",
   "binary": "0010000101",
   "class": "Bug",
@@ -6229,9 +4894,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ad"
-  },
   "part": "horn-pinku-unko-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -6243,9 +4905,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ae"
-  },
   "part": "horn-pliers-2",
   "binary": "0010000100",
   "class": "Bug",
@@ -6257,9 +4916,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9af"
-  },
   "part": "horn-pocky-2",
   "binary": "0000000100",
   "class": "Beast",
@@ -6271,9 +4927,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b0"
-  },
   "part": "horn-rose-bud-2",
   "binary": "0110000011",
   "class": "Plant",
@@ -6285,9 +4938,6 @@
   "partValue": "plant-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b1"
-  },
   "part": "horn-santas-gift-2",
   "binary": "0110000101",
   "class": "Plant",
@@ -6299,9 +4949,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b2"
-  },
   "part": "horn-scaly-spear-2",
   "binary": "1010000010",
   "class": "Reptile",
@@ -6313,9 +4960,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b3"
-  },
   "part": "horn-scaly-spoon-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -6327,9 +4971,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b4"
-  },
   "part": "horn-shoal-star-2",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -6341,9 +4982,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b5"
-  },
   "part": "horn-spruce-spear-2",
   "binary": "0100000110",
   "class": "Bird",
@@ -6355,9 +4993,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b6"
-  },
   "part": "horn-strawberry-ice-cream-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -6369,9 +5004,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b7"
-  },
   "part": "horn-strawberry-ice-cream-shiny-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -6383,9 +5015,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b8"
-  },
   "part": "horn-strawberry-shortcake-2",
   "binary": "0110000100",
   "class": "Plant",
@@ -6397,9 +5026,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9b9"
-  },
   "part": "horn-teal-shell-2",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -6411,9 +5037,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ba"
-  },
   "part": "horn-trump-2",
   "binary": "0100000011",
   "class": "Bird",
@@ -6425,9 +5048,6 @@
   "partValue": "bird-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9bb"
-  },
   "part": "horn-umaibo-2",
   "binary": "0000000100",
   "class": "Beast",
@@ -6439,9 +5059,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9bc"
-  },
   "part": "horn-unko-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -6453,9 +5070,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9bd"
-  },
   "part": "horn-vanilla-ice-cream-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -6467,9 +5081,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9be"
-  },
   "part": "horn-vanilla-ice-cream-shiny-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -6481,9 +5092,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9bf"
-  },
   "part": "horn-watermelon-2",
   "binary": "0110000110",
   "class": "Plant",
@@ -6495,9 +5103,6 @@
   "partValue": "plant-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c0"
-  },
   "part": "horn-watermelon-ice-cream-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -6509,9 +5114,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c1"
-  },
   "part": "horn-watermelon-ice-cream-shiny-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -6523,9 +5125,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c2"
-  },
   "part": "horn-wing-horn-2",
   "binary": "0100000101",
   "class": "Bird",
@@ -6537,9 +5136,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c3"
-  },
   "part": "horn-winter-branch-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -6551,9 +5147,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c4"
-  },
   "part": "horn-yorishiro-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -6565,9 +5158,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c5"
-  },
   "part": "mouth-axie-kiss-2",
   "binary": "0000000100",
   "class": "Beast",
@@ -6579,9 +5169,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c6"
-  },
   "part": "mouth-bubble-fish-2",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -6593,9 +5180,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c7"
-  },
   "part": "mouth-bubble-fish-shiny-2",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -6607,9 +5191,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c8"
-  },
   "part": "mouth-catfish-2",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -6621,9 +5202,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9c9"
-  },
   "part": "mouth-confident-2",
   "binary": "0000000101",
   "class": "Beast",
@@ -6635,9 +5213,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ca"
-  },
   "part": "mouth-cute-bunny-2",
   "binary": "0010000100",
   "class": "Bug",
@@ -6649,9 +5224,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9cb"
-  },
   "part": "mouth-dango-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -6663,9 +5235,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9cc"
-  },
   "part": "mouth-doubletalk-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -6677,9 +5246,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9cd"
-  },
   "part": "mouth-feasting-mosquito-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -6691,9 +5257,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ce"
-  },
   "part": "mouth-geisha-2",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -6705,9 +5268,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9cf"
-  },
   "part": "mouth-goda-2",
   "binary": "0000000010",
   "class": "Beast",
@@ -6719,9 +5279,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d0"
-  },
   "part": "mouth-herbivore-2",
   "binary": "0110000100",
   "class": "Plant",
@@ -6733,9 +5290,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d1"
-  },
   "part": "mouth-humorless-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -6747,9 +5301,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d2"
-  },
   "part": "mouth-hungry-bird-2",
   "binary": "0100000100",
   "class": "Bird",
@@ -6761,9 +5312,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d3"
-  },
   "part": "mouth-kawaii-2",
   "binary": "0010000100",
   "class": "Bug",
@@ -6775,9 +5323,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d4"
-  },
   "part": "mouth-kotaro-2",
   "binary": "1010000010",
   "class": "Reptile",
@@ -6789,9 +5334,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d5"
-  },
   "part": "mouth-lam-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -6803,9 +5345,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d6"
-  },
   "part": "mouth-lam-handsome-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -6817,9 +5356,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d7"
-  },
   "part": "mouth-little-owl-2",
   "binary": "0100000101",
   "class": "Bird",
@@ -6831,9 +5367,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d8"
-  },
   "part": "mouth-mosquito-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -6845,9 +5378,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9d9"
-  },
   "part": "mouth-mr-doubletalk-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -6859,9 +5389,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9da"
-  },
   "part": "mouth-nut-cracker-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -6873,9 +5400,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9db"
-  },
   "part": "mouth-peace-maker-2",
   "binary": "0100000010",
   "class": "Bird",
@@ -6887,9 +5411,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9dc"
-  },
   "part": "mouth-pincer-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -6901,9 +5422,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9dd"
-  },
   "part": "mouth-piranha-2",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -6915,9 +5433,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9de"
-  },
   "part": "mouth-razor-bite-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -6929,9 +5444,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9df"
-  },
   "part": "mouth-risky-fish-2",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -6943,9 +5455,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e0"
-  },
   "part": "mouth-rudolph-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -6957,9 +5466,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e1"
-  },
   "part": "mouth-serious-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -6971,9 +5477,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e2"
-  },
   "part": "mouth-silence-whisper-2",
   "binary": "0110000101",
   "class": "Plant",
@@ -6985,9 +5488,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e3"
-  },
   "part": "mouth-skull-cracker-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -6999,9 +5499,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e4"
-  },
   "part": "mouth-square-teeth-2",
   "binary": "0010000101",
   "class": "Bug",
@@ -7013,9 +5510,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e5"
-  },
   "part": "mouth-tiny-carrot-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -7027,9 +5521,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e6"
-  },
   "part": "mouth-tiny-turtle-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -7041,9 +5532,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e7"
-  },
   "part": "mouth-toothless-bite-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -7055,9 +5543,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e8"
-  },
   "part": "mouth-venom-bite-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -7069,9 +5554,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9e9"
-  },
   "part": "mouth-zigzag-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -7083,9 +5565,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ea"
-  },
   "part": "tail-ant-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -7097,9 +5576,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9eb"
-  },
   "part": "tail-carrot-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -7111,9 +5587,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ec"
-  },
   "part": "tail-cattail-2",
   "binary": "0110000010",
   "class": "Plant",
@@ -7125,9 +5598,6 @@
   "partValue": "plant-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ed"
-  },
   "part": "tail-cloud-2",
   "binary": "0100000100",
   "class": "Bird",
@@ -7139,9 +5609,6 @@
   "partValue": "bird-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ee"
-  },
   "part": "tail-cotton-candy-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -7153,9 +5620,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ef"
-  },
   "part": "tail-cotton-candy-shiny-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -7167,9 +5631,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f0"
-  },
   "part": "tail-cottontail-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -7181,9 +5642,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f1"
-  },
   "part": "tail-december-surprise-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -7195,9 +5653,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f2"
-  },
   "part": "tail-escaped-gecko-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -7209,9 +5664,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f3"
-  },
   "part": "tail-feather-fan-2",
   "binary": "0100000010",
   "class": "Bird",
@@ -7223,9 +5675,6 @@
   "partValue": "bird-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f4"
-  },
   "part": "tail-fire-ant-2",
   "binary": "0010000001",
   "class": "Bug",
@@ -7237,9 +5686,6 @@
   "partValue": "bug-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f5"
-  },
   "part": "tail-fir-trunk-2",
   "binary": "1010000011",
   "class": "Reptile",
@@ -7251,9 +5697,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f6"
-  },
   "part": "tail-fish-snack-2",
   "binary": "0010000011",
   "class": "Bug",
@@ -7265,9 +5708,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f7"
-  },
   "part": "tail-gerbil-2",
   "binary": "0000000110",
   "class": "Beast",
@@ -7279,9 +5719,6 @@
   "partValue": "beast-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f8"
-  },
   "part": "tail-gila-2",
   "binary": "1010000101",
   "class": "Reptile",
@@ -7293,9 +5730,6 @@
   "partValue": "reptile-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9f9"
-  },
   "part": "tail-granmas-fan-2",
   "binary": "0100000101",
   "class": "Bird",
@@ -7307,9 +5741,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9fa"
-  },
   "part": "tail-grass-snake-2",
   "binary": "1010000110",
   "class": "Reptile",
@@ -7321,9 +5752,6 @@
   "partValue": "reptile-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9fb"
-  },
   "part": "tail-gravel-ant-2",
   "binary": "0010000100",
   "class": "Bug",
@@ -7335,9 +5763,6 @@
   "partValue": "bug-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9fc"
-  },
   "part": "tail-hare-2",
   "binary": "0000000100",
   "class": "Beast",
@@ -7349,9 +5774,6 @@
   "partValue": "beast-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9fd"
-  },
   "part": "tail-hatsune-2",
   "binary": "0110000011",
   "class": "Plant",
@@ -7363,9 +5785,6 @@
   "partValue": "plant-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9fe"
-  },
   "part": "tail-hot-butt-2",
   "binary": "0110000110",
   "class": "Plant",
@@ -7377,9 +5796,6 @@
   "partValue": "plant-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ff"
-  },
   "part": "tail-iguana-2",
   "binary": "1010000010",
   "class": "Reptile",
@@ -7391,9 +5807,6 @@
   "partValue": "reptile-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba00"
-  },
   "part": "tail-koi-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -7405,9 +5818,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba01"
-  },
   "part": "tail-koinobori-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -7419,9 +5829,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba02"
-  },
   "part": "tail-kuro-koi-2",
   "binary": "1000000001",
   "class": "Aquatic",
@@ -7433,9 +5840,6 @@
   "partValue": "aquatic-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba03"
-  },
   "part": "tail-maki-2",
   "binary": "0010000011",
   "class": "Bug",
@@ -7447,9 +5851,6 @@
   "partValue": "bug-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba04"
-  },
   "part": "tail-namek-carrot-2",
   "binary": "0110000001",
   "class": "Plant",
@@ -7461,9 +5862,6 @@
   "partValue": "plant-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba05"
-  },
   "part": "tail-navaga-2",
   "binary": "1000000101",
   "class": "Aquatic",
@@ -7475,9 +5873,6 @@
   "partValue": "aquatic-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba06"
-  },
   "part": "tail-nimo-2",
   "binary": "1000000010",
   "class": "Aquatic",
@@ -7489,9 +5884,6 @@
   "partValue": "aquatic-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba07"
-  },
   "part": "tail-nut-cracker-2",
   "binary": "0000000101",
   "class": "Beast",
@@ -7503,9 +5895,6 @@
   "partValue": "beast-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba08"
-  },
   "part": "tail-omatsuri-2",
   "binary": "0100000101",
   "class": "Bird",
@@ -7517,9 +5906,6 @@
   "partValue": "bird-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba09"
-  },
   "part": "tail-post-fight-2",
   "binary": "0100000110",
   "class": "Bird",
@@ -7531,9 +5917,6 @@
   "partValue": "bird-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba0a"
-  },
   "part": "tail-potato-leaf-2",
   "binary": "0110000101",
   "class": "Plant",
@@ -7545,9 +5928,6 @@
   "partValue": "plant-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba0b"
-  },
   "part": "tail-pupae-2",
   "binary": "0010000101",
   "class": "Bug",
@@ -7559,9 +5939,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba0c"
-  },
   "part": "tail-ranchu-2",
   "binary": "1000000100",
   "class": "Aquatic",
@@ -7573,9 +5950,6 @@
   "partValue": "aquatic-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba0d"
-  },
   "part": "tail-rice-2",
   "binary": "0000000010",
   "class": "Beast",
@@ -7587,9 +5961,6 @@
   "partValue": "beast-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba0e"
-  },
   "part": "tail-sakura-cottontail-2",
   "binary": "0000000001",
   "class": "Beast",
@@ -7601,9 +5972,6 @@
   "partValue": "beast-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba0f"
-  },
   "part": "tail-shiba-2",
   "binary": "0000000011",
   "class": "Beast",
@@ -7615,9 +5983,6 @@
   "partValue": "beast-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba10"
-  },
   "part": "tail-shrimp-2",
   "binary": "1000000110",
   "class": "Aquatic",
@@ -7629,9 +5994,6 @@
   "partValue": "aquatic-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba11"
-  },
   "part": "tail-snake-jar-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -7643,9 +6005,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba12"
-  },
   "part": "tail-snowy-swallow-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -7657,9 +6016,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba13"
-  },
   "part": "tail-swallow-2",
   "binary": "0100000001",
   "class": "Bird",
@@ -7671,9 +6027,6 @@
   "partValue": "bird-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba14"
-  },
   "part": "tail-tadpole-2",
   "binary": "1000000011",
   "class": "Aquatic",
@@ -7685,9 +6038,6 @@
   "partValue": "aquatic-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba15"
-  },
   "part": "tail-the-last-one-2",
   "binary": "0100000011",
   "class": "Bird",
@@ -7699,9 +6049,6 @@
   "partValue": "bird-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba16"
-  },
   "part": "tail-thorny-caterpillar-2",
   "binary": "0010000110",
   "class": "Bug",
@@ -7713,9 +6060,6 @@
   "partValue": "bug-12"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba17"
-  },
   "part": "tail-tiny-dino-2",
   "binary": "1010000011",
   "class": "Reptile",
@@ -7727,9 +6071,6 @@
   "partValue": "reptile-06"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba18"
-  },
   "part": "tail-twin-tail-2",
   "binary": "0010000010",
   "class": "Bug",
@@ -7741,9 +6082,6 @@
   "partValue": "bug-04"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba19"
-  },
   "part": "tail-wall-gecko-2",
   "binary": "1010000001",
   "class": "Reptile",
@@ -7755,9 +6093,6 @@
   "partValue": "reptile-02"
 },
 {
-  "_id": {
-    "$oid": "666cfd646612a8384bbfba1a"
-  },
   "part": "tail-yam-2",
   "binary": "0110000100",
   "class": "Plant",
@@ -7769,9 +6104,6 @@
   "partValue": "plant-08"
 },
 {
-  "_id": {
-    "$oid": "6721659dde0f00168f3e8889"
-  },
   "part": "horn-p4r4s1t3-2",
   "binary": "0010000101",
   "class": "Bug",
@@ -7783,9 +6115,6 @@
   "partValue": "bug-10"
 },
 {
-  "_id": {
-    "$oid": "672165b3de0f00168f3e888a"
-  },
   "part": "back-1nd14n-5t4r-2",
   "binary": "1010000100",
   "class": "Reptile",
@@ -7797,9 +6126,6 @@
   "partValue": "reptile-08"
 },
 {
-  "_id": {
-    "$oid": "67216605de0f00168f3e888b"
-  },
   "part": "horn-5h04l-5t4r-2",
   "binary": "1000000110",
   "class": "Aquatic",
