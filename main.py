@@ -7,4 +7,5 @@ info_str = json_structure(hex_string)
 info = json.loads(info_str)
 
 print(info)
+print(info_str)
 

@@ -9,7 +9,8 @@
   "name": "1ND14N-5T4R",
   "specialGenes": "Bionic",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -22,7 +23,8 @@
   "name": "Anemone",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -35,7 +37,8 @@
   "name": "Balloon",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -48,7 +51,8 @@
   "name": "Beach Ball",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -61,7 +65,8 @@
   "name": "Beach Ball Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -74,7 +79,8 @@
   "name": "Bidens",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-06"
 },
 {
   "_id": {
@@ -87,7 +93,8 @@
   "name": "Blue Moon",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -100,7 +107,8 @@
   "name": "Bone Sail",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -113,7 +121,8 @@
   "name": "Buzz Buzz",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -126,7 +135,8 @@
   "name": "Candy Canes",
   "specialGenes": "Xmas2018",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -139,7 +149,8 @@
   "name": "Croc",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-12"
 },
 {
   "_id": {
@@ -152,7 +163,8 @@
   "name": "Crystal Hermit",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -165,7 +177,8 @@
   "name": "Cupid",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -178,7 +191,8 @@
   "name": "Frozen Bucket",
   "specialGenes": "Xmas2019",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -191,7 +205,8 @@
   "name": "Furball",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -204,7 +219,8 @@
   "name": "Garish Worm",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -217,7 +233,8 @@
   "name": "Goldfish",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-06"
 },
 {
   "_id": {
@@ -230,7 +247,8 @@
   "name": "Green Thorns",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -243,7 +261,8 @@
   "name": "Hamaya",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -256,7 +275,8 @@
   "name": "Hasagi",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -269,7 +289,8 @@
   "name": "Hermit",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -282,7 +303,8 @@
   "name": "Hero",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -295,7 +317,8 @@
   "name": "Indian Star",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -308,7 +331,8 @@
   "name": "Jaguar",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -321,7 +345,8 @@
   "name": "Kingfisher",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -334,7 +359,8 @@
   "name": "Mint",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -347,7 +373,8 @@
   "name": "Origami",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -360,7 +387,8 @@
   "name": "Perch",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -373,7 +401,8 @@
   "name": "Pigeon Post",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -386,7 +415,8 @@
   "name": "Pink Turnip",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -399,7 +429,8 @@
   "name": "Pumpkin",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-12"
 },
 {
   "_id": {
@@ -412,7 +443,8 @@
   "name": "Raven",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-06"
 },
 {
   "_id": {
@@ -425,7 +457,8 @@
   "name": "Red Ear",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -438,7 +471,8 @@
   "name": "Risky Beast",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -451,7 +485,8 @@
   "name": "Ronin",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -464,7 +499,8 @@
   "name": "Rugged Sail",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -477,7 +513,8 @@
   "name": "Sandal",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -490,7 +527,8 @@
   "name": "Scarab",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -503,7 +541,8 @@
   "name": "Shiitake",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -516,7 +555,8 @@
   "name": "Snail Shell",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -529,7 +569,8 @@
   "name": "Spiky Wing",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -542,7 +583,8 @@
   "name": "Sponge",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -555,7 +597,8 @@
   "name": "Starry Balloon",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -568,7 +611,8 @@
   "name": "Starry Shell",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -581,7 +625,8 @@
   "name": "Timber",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -594,7 +639,8 @@
   "name": "Tri Feather",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -607,7 +653,8 @@
   "name": "Tri Spikes",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -620,7 +667,8 @@
   "name": "Turnip",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -633,7 +681,8 @@
   "name": "Turtle Buoy",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -646,7 +695,8 @@
   "name": "Turtle Buoy Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -659,7 +709,8 @@
   "name": "Watering Can",
   "specialGenes": null,
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -672,7 +723,8 @@
   "name": "Yakitori",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -685,7 +737,8 @@
   "name": "Beetle Spike",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -698,7 +751,8 @@
   "name": "Belieber",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -711,7 +765,8 @@
   "name": "Bubblemaker",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-06"
 },
 {
   "_id": {
@@ -724,7 +779,8 @@
   "name": "Clover",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -737,7 +793,8 @@
   "name": "Coca",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -750,7 +807,8 @@
   "name": "Coca Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -763,7 +821,8 @@
   "name": "Curly",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -776,7 +835,8 @@
   "name": "Curved Spine",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -789,7 +849,8 @@
   "name": "Deadly Pogona",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -802,7 +863,8 @@
   "name": "Ear Breathing",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -815,7 +877,8 @@
   "name": "Early Bird",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -828,7 +891,8 @@
   "name": "Earwing",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -841,7 +905,8 @@
   "name": "Friezard",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -854,7 +919,8 @@
   "name": "Gill",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -867,7 +933,8 @@
   "name": "Heart Cheek",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -880,7 +947,8 @@
   "name": "Hollow",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -893,7 +961,8 @@
   "name": "Inkling",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -906,7 +975,8 @@
   "name": "Innocent Lamb",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -919,7 +989,8 @@
   "name": "Karimata",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -932,7 +1003,8 @@
   "name": "Larva",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -945,7 +1017,8 @@
   "name": "Leaf Bug",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -958,7 +1031,8 @@
   "name": "Leafy",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -971,7 +1045,8 @@
   "name": "Lotus",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-12"
 },
 {
   "_id": {
@@ -984,7 +1059,8 @@
   "name": "Maiko",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -997,7 +1073,8 @@
   "name": "Merry Lamb",
   "specialGenes": "Xmas2018",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -1010,7 +1087,8 @@
   "name": "Mon",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -1023,7 +1101,8 @@
   "name": "Nimo",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -1036,7 +1115,8 @@
   "name": "Nut Cracker",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -1049,7 +1129,8 @@
   "name": "Nyan",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -1062,7 +1143,8 @@
   "name": "Owl",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-06"
 },
 {
   "_id": {
@@ -1075,7 +1157,8 @@
   "name": "Peace Maker",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -1088,7 +1171,8 @@
   "name": "Pinecones",
   "specialGenes": "Xmas2019",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -1101,7 +1185,8 @@
   "name": "Pink Cheek",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -1114,7 +1199,8 @@
   "name": "Pogona",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -1127,7 +1213,8 @@
   "name": "Pointy Nyan",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -1140,7 +1227,8 @@
   "name": "Puppy",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -1153,7 +1241,8 @@
   "name": "Red Nimo",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -1166,7 +1255,8 @@
   "name": "Risky Bird",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -1179,7 +1269,8 @@
   "name": "Rosa",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-06"
 },
 {
   "_id": {
@@ -1192,7 +1283,8 @@
   "name": "Sakura",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -1205,7 +1297,8 @@
   "name": "Seaslug",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -1218,7 +1311,8 @@
   "name": "Sidebarb",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-12"
 },
 {
   "_id": {
@@ -1231,7 +1325,8 @@
   "name": "Small Frill",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -1244,7 +1339,8 @@
   "name": "Swirl",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -1257,7 +1353,8 @@
   "name": "Tassels",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -1270,7 +1367,8 @@
   "name": "The Last Leaf",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -1283,7 +1381,8 @@
   "name": "Tiny Fan",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -1296,7 +1395,8 @@
   "name": "Vector",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -1309,7 +1409,8 @@
   "name": "Zen",
   "specialGenes": null,
   "stage": 1,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -1322,7 +1423,8 @@
   "name": "Blossom",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -1335,7 +1437,8 @@
   "name": "Bookworm",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -1348,7 +1451,8 @@
   "name": "Broken Bookworm",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -1361,7 +1465,8 @@
   "name": "Calico Zeal",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -1374,7 +1479,8 @@
   "name": "Chubby",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -1387,7 +1493,8 @@
   "name": "Clear",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -1400,7 +1507,8 @@
   "name": "Confused",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -1413,7 +1521,8 @@
   "name": "Crimson Gecko",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -1426,7 +1535,8 @@
   "name": "Cucumber Slice",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -1439,7 +1549,8 @@
   "name": "Dokuganryu",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -1452,7 +1563,8 @@
   "name": "Dreamy Papi",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -1465,7 +1577,8 @@
   "name": "Flower Sunglasses",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -1478,7 +1591,8 @@
   "name": "Flower Sunglasses Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -1491,7 +1605,8 @@
   "name": "Gecko",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -1504,7 +1619,8 @@
   "name": "Gero",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -1517,7 +1633,8 @@
   "name": "Icy Gaze",
   "specialGenes": "Xmas2019",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -1530,7 +1647,8 @@
   "name": "Insomnia",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -1543,7 +1661,8 @@
   "name": "Kabuki",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -1556,7 +1675,8 @@
   "name": "Kotaro?",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -1569,7 +1689,8 @@
   "name": "Little Owl",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -1582,7 +1703,8 @@
   "name": "Little Peas",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -1595,7 +1717,8 @@
   "name": "Lucas",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -1608,7 +1731,8 @@
   "name": "Mavis",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -1621,7 +1745,8 @@
   "name": "Neo",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -1634,7 +1759,8 @@
   "name": "Nerdy",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -1647,7 +1773,8 @@
   "name": "Papi",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -1660,7 +1787,8 @@
   "name": "Puppy",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -1673,7 +1801,8 @@
   "name": "Robin",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -1686,7 +1815,8 @@
   "name": "Scar",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -1699,7 +1829,8 @@
   "name": "Sky Mavis",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -1712,7 +1843,8 @@
   "name": "Sleepless",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -1725,7 +1857,8 @@
   "name": "Snowflakes",
   "specialGenes": "Xmas2018",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -1738,7 +1871,8 @@
   "name": "Telescope",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -1751,7 +1885,8 @@
   "name": "Topaz",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -1764,7 +1899,8 @@
   "name": "Tricky",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -1777,7 +1913,8 @@
   "name": "Yen",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -1790,7 +1927,8 @@
   "name": "Zeal",
   "specialGenes": null,
   "stage": 1,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -1803,7 +1941,8 @@
   "name": "5H04L-5T4R",
   "specialGenes": "Bionic",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -1816,7 +1955,8 @@
   "name": "Anemone",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -1829,7 +1969,8 @@
   "name": "Antenna",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -1842,7 +1983,8 @@
   "name": "Arco",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -1855,7 +1997,8 @@
   "name": "Babylonia",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -1868,7 +2011,8 @@
   "name": "Bamboo Shoot",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -1881,7 +2025,8 @@
   "name": "Beech",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -1894,7 +2039,8 @@
   "name": "Bumpy",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-12"
 },
 {
   "_id": {
@@ -1907,7 +2053,8 @@
   "name": "Cactus",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -1920,7 +2067,8 @@
   "name": "Candy Babylonia",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -1933,7 +2081,8 @@
   "name": "Caterpillars",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -1946,7 +2095,8 @@
   "name": "Cerastes",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -1959,7 +2109,8 @@
   "name": "Clamshell",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-06"
 },
 {
   "_id": {
@@ -1972,7 +2123,8 @@
   "name": "Cuckoo",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -1985,7 +2137,8 @@
   "name": "Dual Blade",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -1998,7 +2151,8 @@
   "name": "Eggshell",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -2011,7 +2165,8 @@
   "name": "Feather Spear",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -2024,7 +2179,8 @@
   "name": "Golden Bamboo Shoot",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -2037,7 +2193,8 @@
   "name": "Golden Shell",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -2050,7 +2207,8 @@
   "name": "Imp",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -2063,7 +2221,8 @@
   "name": "Incisor",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -2076,7 +2235,8 @@
   "name": "Kendama",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -2089,7 +2249,8 @@
   "name": "Kestrel",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -2102,7 +2263,8 @@
   "name": "Lagging",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -2115,7 +2277,8 @@
   "name": "Laggingggggg",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -2128,7 +2291,8 @@
   "name": "Leaf Bug",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -2141,7 +2305,8 @@
   "name": "Little Branch",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -2154,7 +2319,8 @@
   "name": "Merry",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -2167,7 +2333,8 @@
   "name": "Oranda",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -2175,12 +2342,13 @@
   },
   "part": "horn-p4r4s1t3",
   "binary": "0010000101",
-  "class": "bug",
+  "class": "Bug",
   "id": "horn-p4r4s1t3",
   "name": "P4R4S1T3",
   "specialGenes": "Bionic",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -2193,7 +2361,8 @@
   "name": "Parasite",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -2206,7 +2375,8 @@
   "name": "Pinku Unko",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2219,7 +2389,8 @@
   "name": "Pliers",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -2232,7 +2403,8 @@
   "name": "Pocky",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -2245,7 +2417,8 @@
   "name": "Rose Bud",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-06"
 },
 {
   "_id": {
@@ -2258,7 +2431,8 @@
   "name": "Santa's Gift",
   "specialGenes": "Xmas2019",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -2271,7 +2445,8 @@
   "name": "Scaly Spear",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -2284,7 +2459,8 @@
   "name": "Scaly Spoon",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -2297,7 +2473,8 @@
   "name": "Shoal Star",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -2310,7 +2487,8 @@
   "name": "Spruce Spear",
   "specialGenes": "Xmas2018",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -2323,7 +2501,8 @@
   "name": "Strawberry Ice Cream",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2336,7 +2515,8 @@
   "name": "Strawberry Ice Cream Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2349,7 +2529,8 @@
   "name": "Strawberry Shortcake",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -2362,7 +2543,8 @@
   "name": "Teal Shell",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -2375,7 +2557,8 @@
   "name": "Trump",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-06"
 },
 {
   "_id": {
@@ -2388,7 +2571,8 @@
   "name": "Umaibo",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -2401,7 +2585,8 @@
   "name": "Unko",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2414,7 +2599,8 @@
   "name": "Vanilla Ice Cream",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2427,7 +2613,8 @@
   "name": "Vanilla Ice Cream Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2440,7 +2627,8 @@
   "name": "Watermelon",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-12"
 },
 {
   "_id": {
@@ -2453,7 +2641,8 @@
   "name": "Watermelon Ice Cream",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2466,7 +2655,8 @@
   "name": "Watermelon Ice Cream Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2479,7 +2669,8 @@
   "name": "Wing Horn",
   "specialGenes": null,
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -2492,7 +2683,8 @@
   "name": "Winter Branch",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -2505,7 +2697,8 @@
   "name": "Yorishiro",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -2518,7 +2711,8 @@
   "name": "Axie Kiss",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -2531,7 +2725,8 @@
   "name": "Bubble Fish",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -2544,7 +2739,8 @@
   "name": "Bubble Fish Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -2557,7 +2753,8 @@
   "name": "Catfish",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -2570,7 +2767,8 @@
   "name": "Confident",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -2583,7 +2781,8 @@
   "name": "Cute Bunny",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -2596,7 +2795,8 @@
   "name": "Dango",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -2609,7 +2809,8 @@
   "name": "Doubletalk",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -2622,7 +2823,8 @@
   "name": "Feasting Mosquito",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -2635,7 +2837,8 @@
   "name": "Geisha",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -2648,7 +2851,8 @@
   "name": "Goda",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -2661,7 +2865,8 @@
   "name": "Herbivore",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -2674,7 +2879,8 @@
   "name": "Humorless",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -2687,7 +2893,8 @@
   "name": "Hungry Bird",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -2700,7 +2907,8 @@
   "name": "Kawaii",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -2713,7 +2921,8 @@
   "name": "Kotaro",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -2726,7 +2935,8 @@
   "name": "Lam",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -2739,7 +2949,8 @@
   "name": "Lam Handsome",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -2752,7 +2963,8 @@
   "name": "Little Owl",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -2765,7 +2977,8 @@
   "name": "Mosquito",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -2778,7 +2991,8 @@
   "name": "Mr. Doubletalk",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -2791,7 +3005,8 @@
   "name": "Nut Cracker",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -2804,7 +3019,8 @@
   "name": "Peace Maker",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -2817,7 +3033,8 @@
   "name": "Pincer",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -2830,7 +3047,8 @@
   "name": "Piranha",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -2843,7 +3061,8 @@
   "name": "Razor Bite",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -2856,7 +3075,8 @@
   "name": "Risky Fish",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -2869,7 +3089,8 @@
   "name": "Rudolph",
   "specialGenes": "Xmas2018",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -2882,7 +3103,8 @@
   "name": "Serious",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -2895,7 +3117,8 @@
   "name": "Silence Whisper",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -2908,7 +3131,8 @@
   "name": "Skull Cracker",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -2921,7 +3145,8 @@
   "name": "Square Teeth",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -2934,7 +3159,8 @@
   "name": "Tiny Carrot",
   "specialGenes": "Xmas2019",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -2947,7 +3173,8 @@
   "name": "Tiny Turtle",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -2960,7 +3187,8 @@
   "name": "Toothless Bite",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2973,7 +3201,8 @@
   "name": "Venom Bite",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -2986,7 +3215,8 @@
   "name": "Zigzag",
   "specialGenes": null,
   "stage": 1,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -2999,7 +3229,8 @@
   "name": "Ant",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -3012,7 +3243,8 @@
   "name": "Carrot",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -3025,7 +3257,8 @@
   "name": "Cattail",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -3038,7 +3271,8 @@
   "name": "Cloud",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -3051,7 +3285,8 @@
   "name": "Cotton Candy",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -3064,7 +3299,8 @@
   "name": "Cotton Candy Shiny",
   "specialGenes": "Summer2022",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -3077,7 +3313,8 @@
   "name": "Cottontail",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -3090,7 +3327,8 @@
   "name": "December Surprise",
   "specialGenes": "Xmas2018",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -3103,7 +3341,8 @@
   "name": "Escaped Gecko",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -3116,7 +3355,8 @@
   "name": "Feather Fan",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -3129,7 +3369,8 @@
   "name": "Fire Ant",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -3142,7 +3383,8 @@
   "name": "Fir Trunk",
   "specialGenes": "Xmas2019",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -3155,7 +3397,8 @@
   "name": "Fish Snack",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -3168,7 +3411,8 @@
   "name": "Gerbil",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -3181,7 +3425,8 @@
   "name": "Gila",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -3194,7 +3439,8 @@
   "name": "Granma's Fan",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -3207,7 +3453,8 @@
   "name": "Grass Snake",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-12"
 },
 {
   "_id": {
@@ -3220,7 +3467,8 @@
   "name": "Gravel Ant",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -3233,7 +3481,8 @@
   "name": "Hare",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -3246,7 +3495,8 @@
   "name": "Hatsune",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-06"
 },
 {
   "_id": {
@@ -3259,7 +3509,8 @@
   "name": "Hot Butt",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-12"
 },
 {
   "_id": {
@@ -3272,7 +3523,8 @@
   "name": "Iguana",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -3285,7 +3537,8 @@
   "name": "Koi",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -3298,7 +3551,8 @@
   "name": "Koinobori",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -3311,7 +3565,8 @@
   "name": "Kuro Koi",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -3324,7 +3579,8 @@
   "name": "Maki",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -3337,7 +3593,8 @@
   "name": "Namek Carrot",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -3350,7 +3607,8 @@
   "name": "Navaga",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -3363,7 +3621,8 @@
   "name": "Nimo",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -3376,7 +3635,8 @@
   "name": "Nut Cracker",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -3389,7 +3649,8 @@
   "name": "Omatsuri",
   "specialGenes": "Japan",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -3402,7 +3663,8 @@
   "name": "Post Fight",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -3415,7 +3677,8 @@
   "name": "Potato Leaf",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -3428,7 +3691,8 @@
   "name": "Pupae",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -3441,7 +3705,8 @@
   "name": "Ranchu",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -3454,7 +3719,8 @@
   "name": "Rice",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -3467,7 +3733,8 @@
   "name": "Sakura Cottontail",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -3480,7 +3747,8 @@
   "name": "Shiba",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -3493,7 +3761,8 @@
   "name": "Shrimp",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -3506,7 +3775,8 @@
   "name": "Snake Jar",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -3519,7 +3789,8 @@
   "name": "Snowy Swallow",
   "specialGenes": "Mystic",
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -3532,7 +3803,8 @@
   "name": "Swallow",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -3545,7 +3817,8 @@
   "name": "Tadpole",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-06"
 },
 {
   "_id": {
@@ -3558,7 +3831,8 @@
   "name": "The Last One",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-06"
 },
 {
   "_id": {
@@ -3571,7 +3845,8 @@
   "name": "Thorny Caterpillar",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -3584,7 +3859,8 @@
   "name": "Tiny Dino",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -3597,7 +3873,8 @@
   "name": "Twin Tail",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -3610,7 +3887,8 @@
   "name": "Wall Gecko",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -3623,7 +3901,8 @@
   "name": "Yam",
   "specialGenes": null,
   "stage": 1,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -3636,7 +3915,8 @@
   "name": "Anemone",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -3649,7 +3929,8 @@
   "name": "Balloon",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -3662,7 +3943,8 @@
   "name": "Beach Ball",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -3675,7 +3957,8 @@
   "name": "Beach Ball Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -3688,7 +3971,8 @@
   "name": "Bidens",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-06"
 },
 {
   "_id": {
@@ -3701,7 +3985,8 @@
   "name": "Blue Moon",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -3714,7 +3999,8 @@
   "name": "Bone Sail",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -3727,7 +4013,8 @@
   "name": "Buzz Buzz",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -3740,7 +4027,8 @@
   "name": "Candy Canes",
   "specialGenes": "Xmas2018",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -3753,7 +4041,8 @@
   "name": "Croc",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-12"
 },
 {
   "_id": {
@@ -3766,7 +4055,8 @@
   "name": "Crystal Hermit",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -3779,7 +4069,8 @@
   "name": "Cupid",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -3792,7 +4083,8 @@
   "name": "Frozen Bucket",
   "specialGenes": "Xmas2019",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -3805,7 +4097,8 @@
   "name": "Furball",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -3818,7 +4111,8 @@
   "name": "Garish Worm",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -3831,7 +4125,8 @@
   "name": "Goldfish",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-06"
 },
 {
   "_id": {
@@ -3844,7 +4139,8 @@
   "name": "Green Thorns",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -3857,7 +4153,8 @@
   "name": "Hamaya",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -3870,7 +4167,8 @@
   "name": "Hasagi",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -3883,7 +4181,8 @@
   "name": "Hermit",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -3896,7 +4195,8 @@
   "name": "Hero",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -3909,7 +4209,8 @@
   "name": "Indian Star",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -3922,7 +4223,8 @@
   "name": "Jaguar",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -3935,7 +4237,8 @@
   "name": "Kingfisher",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -3948,7 +4251,8 @@
   "name": "Mint",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -3961,7 +4265,8 @@
   "name": "Origami",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -3974,7 +4279,8 @@
   "name": "Perch",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -3987,7 +4293,8 @@
   "name": "Pigeon Post",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -4000,7 +4307,8 @@
   "name": "Pink Turnip",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -4013,7 +4321,8 @@
   "name": "Pumpkin",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-12"
 },
 {
   "_id": {
@@ -4026,7 +4335,8 @@
   "name": "Raven",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-06"
 },
 {
   "_id": {
@@ -4039,7 +4349,8 @@
   "name": "Red Ear",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -4052,7 +4363,8 @@
   "name": "Risky Beast",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -4065,7 +4377,8 @@
   "name": "Ronin",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -4078,7 +4391,8 @@
   "name": "Rugged Sail",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -4091,7 +4405,8 @@
   "name": "Sandal",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -4104,7 +4419,8 @@
   "name": "Scarab",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -4117,7 +4433,8 @@
   "name": "Shiitake",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -4130,7 +4447,8 @@
   "name": "Snail Shell",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -4143,7 +4461,8 @@
   "name": "Spiky Wing",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -4156,7 +4475,8 @@
   "name": "Sponge",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -4169,7 +4489,8 @@
   "name": "Starry Balloon",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -4182,7 +4503,8 @@
   "name": "Starry Shell",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -4195,7 +4517,8 @@
   "name": "Timber",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -4208,7 +4531,8 @@
   "name": "Tri Feather",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -4221,7 +4545,8 @@
   "name": "Tri Spikes",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -4234,7 +4559,8 @@
   "name": "Turnip",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -4247,7 +4573,8 @@
   "name": "Turtle Buoy",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -4260,7 +4587,8 @@
   "name": "Turtle Buoy Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -4273,7 +4601,8 @@
   "name": "Watering Can",
   "specialGenes": null,
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -4286,7 +4615,8 @@
   "name": "Yakitori",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -4299,7 +4629,8 @@
   "name": "Beetle Spike",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -4312,7 +4643,8 @@
   "name": "Belieber",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -4325,7 +4657,8 @@
   "name": "Bubblemaker",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-06"
 },
 {
   "_id": {
@@ -4338,7 +4671,8 @@
   "name": "Clover",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -4351,7 +4685,8 @@
   "name": "Coca",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -4364,7 +4699,8 @@
   "name": "Coca Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -4377,7 +4713,8 @@
   "name": "Curly",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -4390,7 +4727,8 @@
   "name": "Curved Spine",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -4403,7 +4741,8 @@
   "name": "Deadly Pogona",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -4416,7 +4755,8 @@
   "name": "Ear Breathing",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -4429,7 +4769,8 @@
   "name": "Early Bird",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -4442,7 +4783,8 @@
   "name": "Earwing",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -4455,7 +4797,8 @@
   "name": "Friezard",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -4468,7 +4811,8 @@
   "name": "Gill",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -4481,7 +4825,8 @@
   "name": "Heart Cheek",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -4494,7 +4839,8 @@
   "name": "Hollow",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -4507,7 +4853,8 @@
   "name": "Inkling",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -4520,7 +4867,8 @@
   "name": "Innocent Lamb",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -4533,7 +4881,8 @@
   "name": "Karimata",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -4546,7 +4895,8 @@
   "name": "Larva",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -4559,7 +4909,8 @@
   "name": "Leaf Bug",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -4572,7 +4923,8 @@
   "name": "Leafy",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -4585,7 +4937,8 @@
   "name": "Lotus",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-12"
 },
 {
   "_id": {
@@ -4598,7 +4951,8 @@
   "name": "Maiko",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -4611,7 +4965,8 @@
   "name": "Merry Lamb",
   "specialGenes": "Xmas2018",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -4624,7 +4979,8 @@
   "name": "Mon",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -4637,7 +4993,8 @@
   "name": "Nimo",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -4650,7 +5007,8 @@
   "name": "Nut Cracker",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -4663,7 +5021,8 @@
   "name": "Nyan",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -4676,7 +5035,8 @@
   "name": "Owl",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-06"
 },
 {
   "_id": {
@@ -4689,7 +5049,8 @@
   "name": "Peace Maker",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -4702,7 +5063,8 @@
   "name": "Pinecones",
   "specialGenes": "Xmas2019",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -4715,7 +5077,8 @@
   "name": "Pink Cheek",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -4728,7 +5091,8 @@
   "name": "Pogona",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -4741,7 +5105,8 @@
   "name": "Pointy Nyan",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -4754,7 +5119,8 @@
   "name": "Puppy",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -4767,7 +5133,8 @@
   "name": "Red Nimo",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -4780,7 +5147,8 @@
   "name": "Risky Bird",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -4793,7 +5161,8 @@
   "name": "Rosa",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-06"
 },
 {
   "_id": {
@@ -4806,7 +5175,8 @@
   "name": "Sakura",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -4819,7 +5189,8 @@
   "name": "Seaslug",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -4832,7 +5203,8 @@
   "name": "Sidebarb",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-12"
 },
 {
   "_id": {
@@ -4845,7 +5217,8 @@
   "name": "Small Frill",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -4858,7 +5231,8 @@
   "name": "Swirl",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -4871,7 +5245,8 @@
   "name": "Tassels",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -4884,7 +5259,8 @@
   "name": "The Last Leaf",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -4897,7 +5273,8 @@
   "name": "Tiny Fan",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -4910,7 +5287,8 @@
   "name": "Vector",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -4923,7 +5301,8 @@
   "name": "Zen",
   "specialGenes": null,
   "stage": 2,
-  "type": "Ears"
+  "type": "Ears",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -4936,7 +5315,8 @@
   "name": "Blossom",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -4949,7 +5329,8 @@
   "name": "Bookworm",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -4962,7 +5343,8 @@
   "name": "Broken Bookworm",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -4975,7 +5357,8 @@
   "name": "Calico Zeal",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -4988,7 +5371,8 @@
   "name": "Chubby",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -5001,7 +5385,8 @@
   "name": "Clear",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -5014,7 +5399,8 @@
   "name": "Confused",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -5027,7 +5413,8 @@
   "name": "Crimson Gecko",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -5040,7 +5427,8 @@
   "name": "Cucumber Slice",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -5053,7 +5441,8 @@
   "name": "Dokuganryu",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -5066,7 +5455,8 @@
   "name": "Dreamy Papi",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -5079,7 +5469,8 @@
   "name": "Flower Sunglasses",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -5092,7 +5483,8 @@
   "name": "Flower Sunglasses Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -5105,7 +5497,8 @@
   "name": "Gecko",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -5118,7 +5511,8 @@
   "name": "Gero",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -5131,7 +5525,8 @@
   "name": "Icy Gaze",
   "specialGenes": "Xmas2019",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -5144,7 +5539,8 @@
   "name": "Insomnia",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -5157,7 +5553,8 @@
   "name": "Kabuki",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -5170,7 +5567,8 @@
   "name": "Kotaro?",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -5183,7 +5581,8 @@
   "name": "Little Owl",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -5196,7 +5595,8 @@
   "name": "Little Peas",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -5209,7 +5609,8 @@
   "name": "Lucas",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -5222,7 +5623,8 @@
   "name": "Mavis",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -5235,7 +5637,8 @@
   "name": "Neo",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -5248,7 +5651,8 @@
   "name": "Nerdy",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -5261,7 +5665,8 @@
   "name": "Papi",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -5274,7 +5679,8 @@
   "name": "Puppy",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -5287,7 +5693,8 @@
   "name": "Robin",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -5300,7 +5707,8 @@
   "name": "Scar",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -5313,7 +5721,8 @@
   "name": "Sky Mavis",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -5326,7 +5735,8 @@
   "name": "Sleepless",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -5339,7 +5749,8 @@
   "name": "Snowflakes",
   "specialGenes": "Xmas2018",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -5352,7 +5763,8 @@
   "name": "Telescope",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -5365,7 +5777,8 @@
   "name": "Topaz",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -5378,7 +5791,8 @@
   "name": "Tricky",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -5391,7 +5805,8 @@
   "name": "Yen",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -5404,7 +5819,8 @@
   "name": "Zeal",
   "specialGenes": null,
   "stage": 2,
-  "type": "Eyes"
+  "type": "Eyes",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -5417,7 +5833,8 @@
   "name": "Anemone",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -5430,7 +5847,8 @@
   "name": "Antenna",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -5443,7 +5861,8 @@
   "name": "Arco",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -5456,7 +5875,8 @@
   "name": "Babylonia",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -5469,7 +5889,8 @@
   "name": "Bamboo Shoot",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -5482,7 +5903,8 @@
   "name": "Beech",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -5495,7 +5917,8 @@
   "name": "Bumpy",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-12"
 },
 {
   "_id": {
@@ -5508,7 +5931,8 @@
   "name": "Cactus",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -5521,7 +5945,8 @@
   "name": "Candy Babylonia",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -5534,7 +5959,8 @@
   "name": "Caterpillars",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -5547,7 +5973,8 @@
   "name": "Cerastes",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -5560,7 +5987,8 @@
   "name": "Clamshell",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-06"
 },
 {
   "_id": {
@@ -5573,7 +6001,8 @@
   "name": "Cuckoo",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -5586,7 +6015,8 @@
   "name": "Dual Blade",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -5599,7 +6029,8 @@
   "name": "Eggshell",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -5612,7 +6043,8 @@
   "name": "Feather Spear",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -5625,7 +6057,8 @@
   "name": "Golden Bamboo Shoot",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -5638,7 +6071,8 @@
   "name": "Golden Shell",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -5651,7 +6085,8 @@
   "name": "Imp",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -5664,7 +6099,8 @@
   "name": "Incisor",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -5677,7 +6113,8 @@
   "name": "Kendama",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -5690,7 +6127,8 @@
   "name": "Kestrel",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -5703,7 +6141,8 @@
   "name": "Lagging",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -5716,7 +6155,8 @@
   "name": "Laggingggggg",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -5729,7 +6169,8 @@
   "name": "Leaf Bug",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -5742,7 +6183,8 @@
   "name": "Little Branch",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -5755,7 +6197,8 @@
   "name": "Merry",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -5768,14 +6211,8 @@
   "name": "Oranda",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
-},
-{
-  "_id": {
-    "$oid": "666cfd646612a8384bbfb9ab"
-  },
-  "part": "horn-p4r4s1t3-2",
-  "binary": "0010000101"
+  "type": "Horn",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -5788,7 +6225,8 @@
   "name": "Parasite",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -5801,7 +6239,8 @@
   "name": "Pinku Unko",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -5814,7 +6253,8 @@
   "name": "Pliers",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -5827,7 +6267,8 @@
   "name": "Pocky",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -5840,7 +6281,8 @@
   "name": "Rose Bud",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-06"
 },
 {
   "_id": {
@@ -5853,7 +6295,8 @@
   "name": "Santa's Gift",
   "specialGenes": "Xmas2019",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -5866,7 +6309,8 @@
   "name": "Scaly Spear",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -5879,7 +6323,8 @@
   "name": "Scaly Spoon",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -5892,7 +6337,8 @@
   "name": "Shoal Star",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -5905,7 +6351,8 @@
   "name": "Spruce Spear",
   "specialGenes": "Xmas2018",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -5918,7 +6365,8 @@
   "name": "Strawberry Ice Cream",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -5931,7 +6379,8 @@
   "name": "Strawberry Ice Cream Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -5944,7 +6393,8 @@
   "name": "Strawberry Shortcake",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -5957,7 +6407,8 @@
   "name": "Teal Shell",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -5970,7 +6421,8 @@
   "name": "Trump",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-06"
 },
 {
   "_id": {
@@ -5983,7 +6435,8 @@
   "name": "Umaibo",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -5996,7 +6449,8 @@
   "name": "Unko",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -6009,7 +6463,8 @@
   "name": "Vanilla Ice Cream",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -6022,7 +6477,8 @@
   "name": "Vanilla Ice Cream Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -6035,7 +6491,8 @@
   "name": "Watermelon",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-12"
 },
 {
   "_id": {
@@ -6048,7 +6505,8 @@
   "name": "Watermelon Ice Cream",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -6061,7 +6519,8 @@
   "name": "Watermelon Ice Cream Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -6074,7 +6533,8 @@
   "name": "Wing Horn",
   "specialGenes": null,
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -6087,7 +6547,8 @@
   "name": "Winter Branch",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -6100,7 +6561,8 @@
   "name": "Yorishiro",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -6113,7 +6575,8 @@
   "name": "Axie Kiss",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -6126,7 +6589,8 @@
   "name": "Bubble Fish",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -6139,7 +6603,8 @@
   "name": "Bubble Fish Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -6152,7 +6617,8 @@
   "name": "Catfish",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -6165,7 +6631,8 @@
   "name": "Confident",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -6178,7 +6645,8 @@
   "name": "Cute Bunny",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -6191,7 +6659,8 @@
   "name": "Dango",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -6204,7 +6673,8 @@
   "name": "Doubletalk",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -6217,7 +6687,8 @@
   "name": "Feasting Mosquito",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -6230,7 +6701,8 @@
   "name": "Geisha",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -6243,7 +6715,8 @@
   "name": "Goda",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -6256,7 +6729,8 @@
   "name": "Herbivore",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -6269,7 +6743,8 @@
   "name": "Humorless",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -6282,7 +6757,8 @@
   "name": "Hungry Bird",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -6295,7 +6771,8 @@
   "name": "Kawaii",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -6308,7 +6785,8 @@
   "name": "Kotaro",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -6321,7 +6799,8 @@
   "name": "Lam",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -6334,7 +6813,8 @@
   "name": "Lam Handsome",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -6347,7 +6827,8 @@
   "name": "Little Owl",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -6360,7 +6841,8 @@
   "name": "Mosquito",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -6373,7 +6855,8 @@
   "name": "Mr. Doubletalk",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -6386,7 +6869,8 @@
   "name": "Nut Cracker",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -6399,7 +6883,8 @@
   "name": "Peace Maker",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -6412,7 +6897,8 @@
   "name": "Pincer",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -6425,7 +6911,8 @@
   "name": "Piranha",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -6438,7 +6925,8 @@
   "name": "Razor Bite",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -6451,7 +6939,8 @@
   "name": "Risky Fish",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -6464,7 +6953,8 @@
   "name": "Rudolph",
   "specialGenes": "Xmas2018",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -6477,7 +6967,8 @@
   "name": "Serious",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -6490,7 +6981,8 @@
   "name": "Silence Whisper",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -6503,7 +6995,8 @@
   "name": "Skull Cracker",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -6516,7 +7009,8 @@
   "name": "Square Teeth",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -6529,7 +7023,8 @@
   "name": "Tiny Carrot",
   "specialGenes": "Xmas2019",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -6542,7 +7037,8 @@
   "name": "Tiny Turtle",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -6555,7 +7051,8 @@
   "name": "Toothless Bite",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -6568,7 +7065,8 @@
   "name": "Venom Bite",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -6581,7 +7079,8 @@
   "name": "Zigzag",
   "specialGenes": null,
   "stage": 2,
-  "type": "Mouth"
+  "type": "Mouth",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -6594,7 +7093,8 @@
   "name": "Ant",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -6607,7 +7107,8 @@
   "name": "Carrot",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -6620,7 +7121,8 @@
   "name": "Cattail",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-04"
 },
 {
   "_id": {
@@ -6633,7 +7135,8 @@
   "name": "Cloud",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-08"
 },
 {
   "_id": {
@@ -6646,7 +7149,8 @@
   "name": "Cotton Candy",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -6659,7 +7163,8 @@
   "name": "Cotton Candy Shiny",
   "specialGenes": "Summer2022",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -6672,7 +7177,8 @@
   "name": "Cottontail",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -6685,7 +7191,8 @@
   "name": "December Surprise",
   "specialGenes": "Xmas2018",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -6698,7 +7205,8 @@
   "name": "Escaped Gecko",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -6711,7 +7219,8 @@
   "name": "Feather Fan",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-04"
 },
 {
   "_id": {
@@ -6724,7 +7233,8 @@
   "name": "Fire Ant",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-02"
 },
 {
   "_id": {
@@ -6737,7 +7247,8 @@
   "name": "Fir Trunk",
   "specialGenes": "Xmas2019",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -6750,7 +7261,8 @@
   "name": "Fish Snack",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -6763,7 +7275,8 @@
   "name": "Gerbil",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-12"
 },
 {
   "_id": {
@@ -6776,7 +7289,8 @@
   "name": "Gila",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-10"
 },
 {
   "_id": {
@@ -6789,7 +7303,8 @@
   "name": "Granma's Fan",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -6802,7 +7317,8 @@
   "name": "Grass Snake",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-12"
 },
 {
   "_id": {
@@ -6815,7 +7331,8 @@
   "name": "Gravel Ant",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-08"
 },
 {
   "_id": {
@@ -6828,7 +7345,8 @@
   "name": "Hare",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-08"
 },
 {
   "_id": {
@@ -6841,7 +7359,8 @@
   "name": "Hatsune",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-06"
 },
 {
   "_id": {
@@ -6854,7 +7373,8 @@
   "name": "Hot Butt",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-12"
 },
 {
   "_id": {
@@ -6867,7 +7387,8 @@
   "name": "Iguana",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-04"
 },
 {
   "_id": {
@@ -6880,7 +7401,8 @@
   "name": "Koi",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -6893,7 +7415,8 @@
   "name": "Koinobori",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -6906,7 +7429,8 @@
   "name": "Kuro Koi",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-02"
 },
 {
   "_id": {
@@ -6919,7 +7443,8 @@
   "name": "Maki",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-06"
 },
 {
   "_id": {
@@ -6932,7 +7457,8 @@
   "name": "Namek Carrot",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-02"
 },
 {
   "_id": {
@@ -6945,7 +7471,8 @@
   "name": "Navaga",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-10"
 },
 {
   "_id": {
@@ -6958,7 +7485,8 @@
   "name": "Nimo",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-04"
 },
 {
   "_id": {
@@ -6971,7 +7499,8 @@
   "name": "Nut Cracker",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-10"
 },
 {
   "_id": {
@@ -6984,7 +7513,8 @@
   "name": "Omatsuri",
   "specialGenes": "Japan",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-10"
 },
 {
   "_id": {
@@ -6997,7 +7527,8 @@
   "name": "Post Fight",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-12"
 },
 {
   "_id": {
@@ -7010,7 +7541,8 @@
   "name": "Potato Leaf",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-10"
 },
 {
   "_id": {
@@ -7023,7 +7555,8 @@
   "name": "Pupae",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -7036,7 +7569,8 @@
   "name": "Ranchu",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-08"
 },
 {
   "_id": {
@@ -7049,7 +7583,8 @@
   "name": "Rice",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-04"
 },
 {
   "_id": {
@@ -7062,7 +7597,8 @@
   "name": "Sakura Cottontail",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-02"
 },
 {
   "_id": {
@@ -7075,7 +7611,8 @@
   "name": "Shiba",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "beast-06"
 },
 {
   "_id": {
@@ -7088,7 +7625,8 @@
   "name": "Shrimp",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-12"
 },
 {
   "_id": {
@@ -7101,7 +7639,8 @@
   "name": "Snake Jar",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -7114,7 +7653,8 @@
   "name": "Snowy Swallow",
   "specialGenes": "Mystic",
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -7127,7 +7667,8 @@
   "name": "Swallow",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-02"
 },
 {
   "_id": {
@@ -7140,7 +7681,8 @@
   "name": "Tadpole",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "aquatic-06"
 },
 {
   "_id": {
@@ -7153,7 +7695,8 @@
   "name": "The Last One",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bird-06"
 },
 {
   "_id": {
@@ -7166,7 +7709,8 @@
   "name": "Thorny Caterpillar",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-12"
 },
 {
   "_id": {
@@ -7179,7 +7723,8 @@
   "name": "Tiny Dino",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-06"
 },
 {
   "_id": {
@@ -7192,7 +7737,8 @@
   "name": "Twin Tail",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "bug-04"
 },
 {
   "_id": {
@@ -7205,7 +7751,8 @@
   "name": "Wall Gecko",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "reptile-02"
 },
 {
   "_id": {
@@ -7218,7 +7765,8 @@
   "name": "Yam",
   "specialGenes": null,
   "stage": 2,
-  "type": "Tail"
+  "type": "Tail",
+  "partValue": "plant-08"
 },
 {
   "_id": {
@@ -7226,12 +7774,13 @@
   },
   "part": "horn-p4r4s1t3-2",
   "binary": "0010000101",
-  "class": "bug",
+  "class": "Bug",
   "id": "horn-p4r4s1t3-2",
   "name": "P4R4S1T3",
   "specialGenes": "Bionic",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "bug-10"
 },
 {
   "_id": {
@@ -7244,7 +7793,8 @@
   "name": "1ND14N-5T4R",
   "specialGenes": "Bionic",
   "stage": 2,
-  "type": "Back"
+  "type": "Back",
+  "partValue": "reptile-08"
 },
 {
   "_id": {
@@ -7257,5 +7807,6 @@
   "name": "5H04L-5T4R",
   "specialGenes": "Bionic",
   "stage": 2,
-  "type": "Horn"
+  "type": "Horn",
+  "partValue": "aquatic-12"
 }]
