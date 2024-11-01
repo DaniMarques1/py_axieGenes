@@ -181,6 +181,7 @@ def identify_axie_recessive_parts(binary_str, parts_data, recessive_mapping):
             if matching_recessive_part:
                 identified_recessive_parts[key] = {
                     "id": matching_recessive_part.get("id"),
+                    "class": matching_recessive_part.get("class"),
                 }
             else:
                 identified_recessive_parts[key] = "Unknown Recessive Part"
