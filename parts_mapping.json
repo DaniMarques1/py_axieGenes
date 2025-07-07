@@ -4575,6 +4575,17 @@
   "partValue": "beast-02"
 },
 {
+  "part": "eyes-hypnotized-2",
+  "binary": "0110000010",
+  "class": "Plant",
+  "id": "eyes-hypnotized-2",
+  "name": "Hypnotized",
+  "specialGenes": "Nightmare",
+  "stage": 2,
+  "type": "Eyes",
+  "partValue": "plant-04"
+},
+{
   "part": "horn-anemone-2",
   "binary": "1000000100",
   "class": "Aquatic",

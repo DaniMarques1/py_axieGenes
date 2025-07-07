@@ -1,9 +1,13 @@
 # Python Axie Infinity genes parser
 
-# Initial resources:
- - Parse axie's class, color, parts d, r1 and r2 by giving the genes hex string (default to 512 bits newGenes). Parts mapping complete with specialGenes, stage 2, type, class and id.
+# Parses giving the newGenes hex string:
+ - Axie Class
+ - Axie Color
+ - Axie Parts (Dominant, r1, r2)
+ - Axie Parts Details (stage, type, class, id)
 
 # To do:
+ - Parse Nightmare parts
  - Parse axie body types
  - Integrate to blockchain with axie id query
 

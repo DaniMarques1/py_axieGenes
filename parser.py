@@ -63,9 +63,6 @@ def identify_special_genes(binary_str, specialGenes_slice, specialGenes_mapping,
                 return gene_name
     return None
 
-import json
-
-
 def identify_axie_parts(binary_str, parts_data, dominant_mapping, stage_mapping, specialGenes_slice,
                         specialGenes_mapping):
     identified_parts = {}
@@ -148,7 +145,6 @@ def identify_axie_parts(binary_str, parts_data, dominant_mapping, stage_mapping,
             identified_parts[part] = "Unknown Part"
 
     return identified_parts
-
 
 def identify_axie_recessive_parts(binary_str, parts_data, recessive_mapping):
     identified_recessive_parts = {}
@@ -236,7 +232,10 @@ def json_structure(hex_string):
         "Xmas2019": "0101",
         "Bionic": "0010",
         "Mystic": "0001",
-        "Summer2022": ["0110", "1001"]
+        "Summer2022": "0110",
+        "SummerShiny2022": "1001",
+        "Nightmare": "1100",
+        "NightmareShiny": "1101"
     }
 
     try:
