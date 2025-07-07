@@ -17,3 +17,5 @@
 # How to use:
 
 Open `main.py` and substitute the hex string.
+
+- Made by daniboo.
