@@ -7,7 +7,6 @@
  - Axie Parts Details (stage, type, class, id)
 
 # To do:
- - Parse Nightmare parts
  - Parse axie body types
  - Integrate to blockchain with axie id query
 
