@@ -5,6 +5,7 @@
  - Axie Color
  - Axie Parts (Dominant, r1, r2)
  - Axie Parts Details (stage, type, class, id)
+ - Nightmare parts added
 
 # To do:
  - Parse axie body types
