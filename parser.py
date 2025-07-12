@@ -1,276 +1,267 @@
+# axie_decoder_refactored.py
+"""
+The module exposes a single public helper – :func:`json_structure` – that keeps the original
+signature so it can be dropped into existing code without changes. Internally the logic is
+split into small, typed helpers grouped in an :class:`AxieDecoder` facade for clarity and
+potential re-use (e.g. unit–testing, CLI, etc.).
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass
+from pathlib import Path
+from typing import Dict, List, Tuple
 import json
-import os
 
-def hex_to_512bit_binary(hex_string):
-    if hex_string.startswith(('0x', '0X')):
-        hex_string = hex_string[2:]
-    hex_int = int(hex_string, 16)
-    binary_str = bin(hex_int)[2:].zfill(512)
-    return binary_str[-512:]
+# ---------------------------------------------------------------------------
+# Mapping constants – collected at the top so they are easy to tweak
+# ---------------------------------------------------------------------------
+CLASS_MAPPING: dict[str, str] = {
+    "00100": "aquatic",
+    "00000": "beast",
+    "00010": "bird",
+    "00001": "bug",
+    "00101": "reptile",
+    "00011": "plant",
+    "10010": "dusk",
+    "10001": "dawn",
+    "10000": "mech",
+}
 
-def identify_axie_class(binary_str):
-    class_mapping = {
-        "00100": "aquatic",
-        "00000": "beast",
-        "00010": "bird",
-        "00001": "bug",
-        "00101": "reptile",
-        "00011": "plant",
-        "10010": "dusk",
-        "10001": "dawn",
-        "10000": "mech",
-    }
-    binary_slice = binary_str[0:5]
-    axie_class = class_mapping.get(binary_slice, "Unknown Class")
-    return binary_slice, axie_class
+COLOR_MAPPING: dict[str, str] = {
+    "000": "00",
+    "001": "01",
+    "010": "02",
+    "011": "03",
+    "100": "04",
+}
 
-def get_axie_color(binary_512):
-    color_slice = (95, 98)
-    color_bits = binary_512[color_slice[0]:color_slice[1]]
+SPECIAL_BODY_MAP = {"001": "frosty", "011": "nightmare", "010": "wavy"}
+COMMON_BODY_MAP = {
+    "000000011": "curly",
+    "000000010": "fuzzy",
+    "100000001": "wetdog",
+    "110000000": "bigyak",
+    "000000001": "spiky",
+    "100000000": "sumo",
+    # fall-back → "normal"
+}
 
-    color_mapping = {
-        "000": "00",
-        "001": "01",
-        "010": "02",
-        "011": "03",
-        "100": "04"
-    }
+SPECIAL_PART_MAP: dict[str | None, str] = {
+    None: "0000",
+    "Japan": "0011",
+    "Xmas2018": "0100",
+    "Xmas2019": "0101",
+    "Bionic": "0010",
+    "Mystic": "0001",
+    "Summer2022": "0110",
+    "SummerShiny2022": "1001",
+    "Nightmare": "1100",
+    "NightmareShiny": "1101",
+}
 
-    return color_mapping.get(color_bits, "Unknown")
+STAGE_BIT_MAP = {
+    "eyes": 142,
+    "mouth": 206,
+    "ears": 270,
+    "horn": 334,
+    "back": 398,
+    "tail": 462,
+}
 
-def load_parts_mapping(filepath):
-    if not os.path.exists(filepath):
-        raise FileNotFoundError(f"The file '{filepath}' does not exist.")
-    with open(filepath, 'r') as file:
-        parts_data = json.load(file)
-    return parts_data
+DOMINANT_SLICE_MAP = {
+    "eyes": (155, 165),
+    "mouth": (219, 229),
+    "ears": (283, 293),
+    "horn": (347, 357),
+    "back": (411, 421),
+    "tail": (475, 485),
+}
 
-def normalize_binary(binary_str, length):
-    return binary_str.zfill(length)
+RECESSIVE_SLICE_MAP = {
+    "eyes": {"r1": (168, 178), "r2": (181, 191)},
+    "mouth": {"r1": (232, 242), "r2": (245, 255)},
+    "ears": {"r1": (296, 306), "r2": (309, 319)},
+    "horn": {"r1": (360, 370), "r2": (373, 383)},
+    "back": {"r1": (424, 434), "r2": (437, 447)},
+    "tail": {"r1": (488, 498), "r2": (501, 511)},
+}
 
-def identify_special_genes(binary_str, specialGenes_slice, specialGenes_mapping, part):
-    start, end = specialGenes_slice.get(part, (None, None))
-    if start is None or end is None:
-        return None
-    gene_bits = binary_str[start:end]
-    gene_key = gene_bits
-    for gene_name, gene_value in specialGenes_mapping.items():
-        if isinstance(gene_value, list):
-            if gene_key in gene_value:
-                return gene_name
-        else:
-            if gene_key == gene_value:
-                return gene_name
-    return None
+SPECIAL_SLICE_MAP = {
+    "eyes": (149, 153),
+    "mouth": (213, 217),
+    "ears": (277, 281),
+    "horn": (341, 345),
+    "back": (405, 409),
+    "tail": (469, 473),
+}
 
-def identify_axie_parts(binary_str, parts_data, dominant_mapping, stage_mapping, specialGenes_slice,
-                        specialGenes_mapping):
-    identified_parts = {}
-    for part, (start, end) in dominant_mapping.items():
-        part_binary = binary_str[start:end]
-        part_type = part.capitalize()
-        stage_bit_position = stage_mapping[part]
-        stage_bit = binary_str[stage_bit_position]
-        stage = 1 if stage_bit == '0' else 2
-        special_genes = identify_special_genes(binary_str, specialGenes_slice, specialGenes_mapping, part)
+COLOR_SLICE_MAP = {"d": (95, 98), "r1": (101, 104), "r2": (107, 110)}
 
-        expected_length = None
-        for p in parts_data:
-            if (p.get('type') == part_type and
-                    p.get('stage') == stage and
-                    ((special_genes is not None and p.get('specialGenes') == special_genes) or
-                     (special_genes is None and p.get('specialGenes') is None))):
-                expected_length = len(p.get('binary'))
-                break
+PARTS_MAPPING_FILE = Path(__file__).with_name("parts_mapping.json")
 
-        if expected_length:
-            normalized_part_binary = normalize_binary(part_binary, expected_length)
-        else:
-            normalized_part_binary = part_binary
+# ---------------------------------------------------------------------------
+# Helper dataclass wrappers
+# ---------------------------------------------------------------------------
+@dataclass(slots=True, frozen=True)
+class PartInfo:
+    """A tiny wrapper for a decoded part."""
 
-        if special_genes is not None:
-            potential_matches = [
-                p for p in parts_data
-                if (p.get('type') == part_type and
-                    p.get('stage') == stage and
-                    p.get('specialGenes') == special_genes)
-            ]
-            matching_part = next(
-                (
-                    p for p in potential_matches
-                    if p.get('binary') == normalized_part_binary
-                ),
-                None
-            )
-        else:
-            potential_matches = [
-                p for p in parts_data
-                if (p.get('type') == part_type and
-                    p.get('stage') == stage and
-                    p.get('specialGenes') is None)
-            ]
-            matching_part = next(
-                (
-                    p for p in potential_matches
-                    if p.get('binary') == normalized_part_binary
-                ),
-                None
-            )
+    id: str
+    name: str
+    class_: str
+    type_: str
+    stage: int
+    special: str | None
+    original_part: str | None = None
+    original_name: str | None = None
 
-        if not matching_part and special_genes is not None:
-            fallback_matches = [
-                p for p in parts_data
-                if (p.get('type') == part_type and
-                    p.get('stage') == stage and
-                    p.get('specialGenes') is None)
-            ]
-            matching_part = next(
-                (
-                    p for p in fallback_matches
-                    if p.get('binary') == normalized_part_binary
-                ),
-                None
-            )
+    def as_dict(self) -> dict[str, str | int | None]:
+        return {
+            "id": self.id,
+            "name": self.name,
+            "class": self.class_,
+            "type": self.type_.lower(),
+            "stage": self.stage,
+            "specialGenes": self.special,
+            "originalPart": self.original_part,
+            "originalPartName": self.original_name,
+        }
 
-        if matching_part:
-            identified_parts[part] = {
-                "id": matching_part.get("id"),
-                "name": matching_part.get("name"),
-                "specialGenes": special_genes,
-                "stage": matching_part.get("stage"),
-                "type": matching_part.get("type").lower(),
-                "class": matching_part.get("class")
+
+# ---------------------------------------------------------------------------
+# Core decoder implementation
+# ---------------------------------------------------------------------------
+class AxieDecoder:
+    """Encapsulates all decoding helpers in a single cohesive unit."""
+
+    def __init__(self, parts_db: List[dict]):
+        self.parts_db = parts_db
+
+    def json_structure(self, hex_str: str) -> str:
+        binary = self._hex_to_bin(hex_str)
+        result = {
+            "class": self._identify_class(binary),
+            "color": self._identify_colors(binary),
+            "body": self._identify_body(binary),
+        }
+        dom = self._identify_parts(binary)
+        rec = self._identify_recessive_parts(binary)
+        for part in DOMINANT_SLICE_MAP:
+            result[part] = {
+                "d": dom.get(part, "Unknown Part"),
+                "r1": rec.get(f"{part}_r1", "Unknown Recessive Part"),
+                "r2": rec.get(f"{part}_r2", "Unknown Recessive Part"),
             }
-        else:
-            identified_parts[part] = "Unknown Part"
+        return json.dumps(result, indent=2, ensure_ascii=False)
 
-    return identified_parts
+    @staticmethod
+    def _hex_to_bin(hex_str: str) -> str:
+        if hex_str.startswith(("0x", "0X")):
+            hex_str = hex_str[2:]
+        return bin(int(hex_str, 16))[2:].zfill(512)[-512:]
 
-def identify_axie_recessive_parts(binary_str, parts_data, recessive_mapping):
-    identified_recessive_parts = {}
-    for part, aliases in recessive_mapping.items():
-        for alias, (start, end) in aliases.items():
-            recessive_binary = binary_str[start:end]
-            part_type = part.capitalize()
-            expected_length = None
-            for p in parts_data:
-                if p.get('type') == part_type and p.get('binary') and p.get('specialGenes') is None:
-                    expected_length = len(p.get('binary'))
-                    break
-            if expected_length:
-                normalized_recessive_binary = normalize_binary(recessive_binary, expected_length)
-            else:
-                normalized_recessive_binary = recessive_binary
-            potential_matches = [
-                p for p in parts_data
-                if p.get('type') == part_type and
-                   p.get('specialGenes') is None
-            ]
-            matching_recessive_part = next(
-                (
-                    p for p in potential_matches
-                    if p.get('binary') == normalized_recessive_binary
-                ),
-                None
-            )
-            key = f"{part}_{alias}"
-            if matching_recessive_part:
-                identified_recessive_parts[key] = {
-                    "id": matching_recessive_part.get("id"),
-                    "class": matching_recessive_part.get("class"),
-                }
-            else:
-                identified_recessive_parts[key] = "Unknown Recessive Part"
-    return identified_recessive_parts
+    @staticmethod
+    def _normalize(bits: str, length: int) -> str:
+        return bits.zfill(length)
 
-def json_structure(hex_string):
-    parts_mapping_file = 'parts_mapping.json'
-    binary_512 = hex_to_512bit_binary(hex_string)
-    binary_slice, axie_class = identify_axie_class(binary_512)
-    axie_color = get_axie_color(binary_512)
+    def _identify_class(self, binary: str) -> str:
+        return CLASS_MAPPING.get(binary[0:5], "Unknown Class")
 
-    stage_mapping = {
-        "eyes": 142,
-        "mouth": 206,
-        "ears": 270,
-        "horn": 334,
-        "back": 398,
-        "tail": 462,
-    }
+    def _identify_colors(self, binary: str) -> Dict[str, str]:
+        return {k: COLOR_MAPPING.get(binary[s:e], "Unknown") for k, (s, e) in COLOR_SLICE_MAP.items()}
 
-    dominant_mapping = {
-        "eyes": (155, 165),
-        "mouth": (219, 229),
-        "ears": (283, 293),
-        "horn": (347, 357),
-        "back": (411, 421),
-        "tail": (475, 485),
-    }
+    def _identify_body(self, binary: str) -> Dict[str, str]:
+        special_bits = binary[62:65]
+        dominant = (
+            SPECIAL_BODY_MAP.get(special_bits)
+            if special_bits in SPECIAL_BODY_MAP
+            else self._decode_common_body(binary[65:74])
+        )
+        return {
+            "d": dominant,
+            "r1": self._decode_common_body(binary[74:83]),
+            "r2": self._decode_common_body(binary[83:92]),
+        }
 
-    recessive_mapping = {
-        "eyes": {"r1": (168, 178), "r2": (181, 191)},
-        "mouth": {"r1": (232, 242), "r2": (245, 255)},
-        "ears": {"r1": (296, 306), "r2": (309, 319)},
-        "horn": {"r1": (360, 370), "r2": (373, 383)},
-        "back": {"r1": (424, 434), "r2": (437, 447)},
-        "tail": {"r1": (488, 498), "r2": (501, 511)},
-    }
+    @staticmethod
+    def _decode_common_body(bits9: str) -> str:
+        return COMMON_BODY_MAP.get(bits9, "normal")
 
-    specialGenes_slice = {
-        "eyes": (149, 153),
-        "mouth": (213, 217),
-        "ears": (277, 281),
-        "horn": (341, 345),
-        "back": (405, 409),
-        "tail": (469, 473),
-    }
+    def _identify_parts(self, binary: str) -> Dict[str, dict]:
+        out: Dict[str, dict] = {}
+        for part, (s, e) in DOMINANT_SLICE_MAP.items():
+            stage = 1 if binary[STAGE_BIT_MAP[part]] == "0" else 2
+            special = self._special_gene(binary, part)
+            norm_slice = self._normalize(binary[s:e], self._expected_len(part, stage, special))
+            match = self._match_part(part, stage, special, norm_slice)
+            out[part] = match.as_dict() if match else "Unknown Part"
+        return out
 
-    specialGenes_mapping = {
-        None: "0000",
-        "Japan": "0011",
-        "Xmas2018": "0100",
-        "Xmas2019": "0101",
-        "Bionic": "0010",
-        "Mystic": "0001",
-        "Summer2022": "0110",
-        "SummerShiny2022": "1001",
-        "Nightmare": "1100",
-        "NightmareShiny": "1101"
-    }
+    def _identify_recessive_parts(self, binary: str) -> Dict[str, dict]:
+        out: Dict[str, dict] = {}
+        for part, aliases in RECESSIVE_SLICE_MAP.items():
+            for alias, (s, e) in aliases.items():
+                norm_slice = self._normalize(binary[s:e], self._expected_len(part, 1, None))
+                match = self._match_part(part, 1, None, norm_slice)
+                out[f"{part}_{alias}"] = {
+                    "id": match.id,
+                    "class": match.class_,
+                    "originalPart": match.original_part,
+                } if match else "Unknown Recessive Part"
+        return out
 
+    def _special_gene(self, binary: str, part: str) -> str | None:
+        s, e = SPECIAL_SLICE_MAP[part]
+        key = binary[s:e]
+        for name, bits in SPECIAL_PART_MAP.items():
+            if key == bits or (isinstance(bits, list) and key in bits):
+                return name
+        return None
+
+    def _expected_len(self, part: str, stage: int, special: str | None) -> int | None:
+        for p in self.parts_db:
+            if (
+                p["type"].lower() == part
+                and p["stage"] == stage
+                and ((special and p["specialGenes"] == special) or (not special and p["specialGenes"] is None))
+            ):
+                return len(p["binary"])
+        return None
+
+    def _match_part(self, part: str, stage: int, special: str | None, bits: str) -> PartInfo | None:
+        part_type = part.capitalize()
+        for cand in self.parts_db:
+            if (
+                cand["type"] == part_type
+                and cand["stage"] == stage
+                and cand["binary"] == bits
+                and ((special and cand["specialGenes"] == special) or (not special and cand["specialGenes"] is None))
+            ):
+                return PartInfo(
+                    id=cand["id"],
+                    name=cand["name"],
+                    class_=cand["class"],
+                    type_=cand["type"],
+                    stage=stage,
+                    special=special,
+                    original_part=cand.get("originalPart"),
+                    original_name=cand.get("originalPartName"),
+                )
+        if special:
+            return self._match_part(part, stage, None, bits)
+        return None
+
+
+def _load_parts_db(filepath: Path = PARTS_MAPPING_FILE) -> List[dict]:
+    if not filepath.exists():
+        raise FileNotFoundError(f"Parts mapping file not found: {filepath}")
     try:
-        parts_data = load_parts_mapping(parts_mapping_file)
-    except (FileNotFoundError, ValueError):
-        parts_data = []
+        with filepath.open(encoding="utf-8") as fh:
+            return json.load(fh)
+    except json.JSONDecodeError as exc:
+        raise ValueError(f"Invalid JSON in parts mapping: {exc}") from exc
 
-    output_data = {}
 
-    if parts_data:
-        output_data['class'] = axie_class
-        output_data['color'] = axie_color
-
-        identified_parts = identify_axie_parts(
-            binary_512, parts_data, dominant_mapping, stage_mapping,
-            specialGenes_slice, specialGenes_mapping
-        )
-
-        identified_recessive_parts = identify_axie_recessive_parts(
-            binary_512, parts_data, recessive_mapping
-        )
-
-        parts_list = ['eyes', 'mouth', 'ears', 'horn', 'back', 'tail']
-
-        for part in parts_list:
-            output_data[part] = {}
-            dominant_part = identified_parts.get(part)
-            output_data[part]['d'] = dominant_part if dominant_part else None
-
-            r1_key = f"{part}_r1"
-            r2_key = f"{part}_r2"
-            output_data[part]['r1'] = identified_recessive_parts.get(r1_key, None)
-            output_data[part]['r2'] = identified_recessive_parts.get(r2_key, None)
-
-        return json.dumps(output_data, indent=2)
-    else:
-        return "No parts data available."
-
+def json_structure(hex_string: str) -> str:
+    decoder = AxieDecoder(_load_parts_db())
+    return decoder.json_structure(hex_string)

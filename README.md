@@ -2,13 +2,13 @@
 
 # Parses giving the newGenes hex string:
  - Axie Class
- - Axie Color
  - Axie Parts (Dominant, r1, r2)
  - Axie Parts Details (stage, type, class, id)
+ - Axie Color
+ - Axie Body
  - Nightmare parts added
 
 # To do:
- - Parse axie body types
  - Integrate to blockchain with axie id query
 
 # Future releases:
