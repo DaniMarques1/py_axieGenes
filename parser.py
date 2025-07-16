@@ -206,7 +206,7 @@ class AxieDecoder:
                 out[f"{part}_{alias}"] = {
                     "id": match.id,
                     "class": match.class_,
-                    "originalPart": match.original_part,
+                    "name": match.name,
                 } if match else "Unknown Recessive Part"
         return out
 
