@@ -1,4 +1,3 @@
-# axie_decoder_refactored.py
 """
 The module exposes a single public helper – :func:`json_structure` – that keeps the original
 signature so it can be dropped into existing code without changes. Internally the logic is
@@ -152,6 +151,8 @@ class AxieDecoder:
                 "r1": rec.get(f"{part}_r1", "Unknown Recessive Part"),
                 "r2": rec.get(f"{part}_r2", "Unknown Recessive Part"),
             }
+
+        result["specialCollection"] = self._extract_special_collection(binary, dom, result["body"])
         return json.dumps(result, indent=2, ensure_ascii=False)
 
     @staticmethod
@@ -251,6 +252,55 @@ class AxieDecoder:
             return self._match_part(part, stage, None, bits)
         return None
 
+    def _extract_special_collection(self, binary: str, dom_parts: Dict[str, dict], body: dict) -> dict:
+        title_bits = binary[62:65]
+        title = None
+        if title_bits == "101":
+            title = "MEO"
+        elif title_bits == "111":
+            title = "MEO II"
+        elif title_bits == "011":
+            title = "ORIGIN"
+
+        counter = {
+            "AgamoGenesis": 0,
+            "Mystic": 0,
+            "ORIGIN": 0,
+            "MEO": 0,
+            "MEO II": 0,
+            "Xmas": 0,
+            "Shiny": 0,
+            "Japanese": 0,
+            "Nightmare": 0,
+            "Summer": 0,
+        }
+
+        for part in dom_parts.values():
+            if not isinstance(part, dict):
+                continue
+            special = part.get("specialGenes")
+            if special == "Bionic":
+                counter["AgamoGenesis"] += 1
+            elif special == "Mystic":
+                counter["Mystic"] += 1
+            elif special in ("Xmas2018", "Xmas2019"):
+                counter["Xmas"] += 1
+            elif special in ("SummerShiny2022", "NightmareShiny"):
+                counter["Shiny"] += 1
+            elif special == "Japan":
+                counter["Japanese"] += 1
+            elif special in ("Nightmare", "NightmareShiny"):
+                counter["Nightmare"] += 1
+            elif special in ("Summer2022", "SummerShiny2022"):
+                counter["Summer"] += 1
+
+        if body.get("d") == "nightmare":
+            counter["Nightmare"] += 1
+
+        if title:
+            counter[title] += 1
+
+        return {k: v for k, v in counter.items() if v > 0}
 
 def _load_parts_db(filepath: Path = PARTS_MAPPING_FILE) -> List[dict]:
     if not filepath.exists():

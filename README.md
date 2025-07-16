@@ -1,6 +1,7 @@
 # Python Axie Infinity genes parser
 
 # Parses giving the newGenes hex string:
+ - Axie Title and Collection
  - Axie Class
  - Axie Parts (Dominant, r1, r2)
  - Axie Parts Details (stage, type, class, id)
