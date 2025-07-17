@@ -143,8 +143,11 @@ class AxieDecoder:
             "color": self._identify_colors(binary),
             "body": self._identify_body(binary),
         }
+
         dom = self._identify_parts(binary)
         rec = self._identify_recessive_parts(binary)
+        result["specialCollection"] = self._extract_special_collection(binary, dom, result["body"])
+
         for part in DOMINANT_SLICE_MAP:
             result[part] = {
                 "d": dom.get(part, "Unknown Part"),
@@ -152,7 +155,6 @@ class AxieDecoder:
                 "r2": rec.get(f"{part}_r2", "Unknown Recessive Part"),
             }
 
-        result["specialCollection"] = self._extract_special_collection(binary, dom, result["body"])
         return json.dumps(result, indent=2, ensure_ascii=False)
 
     @staticmethod
@@ -253,13 +255,13 @@ class AxieDecoder:
         return None
 
     def _extract_special_collection(self, binary: str, dom_parts: Dict[str, dict], body: dict) -> dict:
-        title_bits = binary[62:65]
+        title_bits = binary[53:56]
         title = None
         if title_bits == "101":
             title = "MEO"
         elif title_bits == "111":
             title = "MEO II"
-        elif title_bits == "011":
+        elif title_bits == "011" or title_bits == "010":
             title = "ORIGIN"
 
         counter = {
@@ -297,10 +299,15 @@ class AxieDecoder:
         if body.get("d") == "nightmare":
             counter["Nightmare"] += 1
 
-        if title:
-            counter[title] += 1
+        filtered_parts = {k: v for k, v in counter.items() if v > 0}
 
-        return {k: v for k, v in counter.items() if v > 0}
+        result = {
+            "title": title,
+            "parts": filtered_parts
+        }
+
+        return result
+
 
 def _load_parts_db(filepath: Path = PARTS_MAPPING_FILE) -> List[dict]:
     if not filepath.exists():
